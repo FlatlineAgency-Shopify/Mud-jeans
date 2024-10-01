@@ -123,6 +123,15 @@
             -%}
 
             <div class="height__image image-overlay__image overflow-hidden">
+                <script>
+                  console.log(">>", {{ block.settings.video.preview_image | json }})
+                </script>
+              {% if block.settings.video != blank %}
+                {% render 'video-desktop-and-mobile', desktop_video: block.settings.video, mobile_video: block.settings.mobile_video, fall_back: block.settings.video.preview_image %}
+                {% comment %} <video autoplay muted loop playsinline poster={{ block.settings.image }}>
+                  <source src="{{ block.settings.video | video_tag }}" type="video/mp4">
+                </video> {% endcomment %}
+              {% else %}
               {%- render 'image-desktop-and-mobile',
                 class: 'slideshow__motion-media has-motion',
                 desktop_image: block.settings.image,
@@ -131,6 +140,7 @@
                 fetchpriority: fetchpriority,
                 block: block
               -%}
+              {% endif %}
             </div>
           {%- endif -%}
 
@@ -400,6 +410,18 @@
           "type": "image_picker",
           "id": "mobile_image",
           "label": "Mobile image",
+          "info": "1024px x 1024px recommended"
+        },
+        {
+          "type": "video",
+          "id": "video",
+          "label": "Video",
+          "info": "2048 x 1024px recommended"
+        },
+        {
+          "type": "video",
+          "id": "mobile_video",
+          "label": "Mobile Video",
           "info": "1024px x 1024px recommended"
         },
         {

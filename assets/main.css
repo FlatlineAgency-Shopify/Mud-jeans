@@ -11010,3 +11010,17 @@ textarea {
 .product-label.GREEN span{
   background: #54DE66 !important;
 }
+
+.desktop-video{
+  display: none !important;
+}
+
+@media screen and (min-width: 769px) {
+  .desktop-video{
+    display: block !important;
+  }
+
+  .mobile-video{
+    display: none !important;
+  }
+}
