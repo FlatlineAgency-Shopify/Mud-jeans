@@ -9,19 +9,25 @@
 
 {% if mobile_video != blank %}
   <div class="mobile-video">
-    <video autoplay muted loop playsinline poster={{ fall_back }}>
-      <source src="{{ mobile_video | video_tag }}" type="video/mp4">
-    </video>
+    <figure class="video">
+      <video autoplay muted loop playsinline poster="{{ fall_back_mobile | img_url: '768x1477' }}">
+        <source src="{{ mobile_video | video_tag }}" type="video/mp4">
+      </video>
+    </figure>
   </div>
   <div class="desktop-video">
-    <video autoplay muted loop playsinline poster={{ fall_back }}>
-      <source src="{{ desktop_video | video_tag }}" type="video/mp4">
-    </video>
+    <figure class="video">
+      <video autoplay muted loop playsinline poster="{{ fall_back | img_url: '2560x1274' }}">
+        <source src="{{ desktop_video | video_tag }}" type="video/mp4">
+      </video>
+    </figure>
   </div>
 {% else %}
   <div class="mobile-desktop-video">
-    <video autoplay muted loop playsinline poster={{ fall_back }}>
-      <source src="{{ desktop_video | video_tag }}" type="video/mp4">
-    </video>
+    <figure class="video">
+      <video autoplay muted loop playsinline poster="{{ fall_back | img_url: '2560x1274' }}">
+        <source src="{{ desktop_video | video_tag }}" type="video/mp4">
+      </video>
+    </figure>
   </div>
 {% endif %}

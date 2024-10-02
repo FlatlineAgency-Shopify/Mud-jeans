@@ -127,10 +127,7 @@
                   console.log(">>", {{ block.settings.video.preview_image | json }})
                 </script>
               {% if block.settings.video != blank %}
-                {% render 'video-desktop-and-mobile', desktop_video: block.settings.video, mobile_video: block.settings.mobile_video, fall_back: block.settings.video.preview_image %}
-                {% comment %} <video autoplay muted loop playsinline poster={{ block.settings.image }}>
-                  <source src="{{ block.settings.video | video_tag }}" type="video/mp4">
-                </video> {% endcomment %}
+                {% render 'video-desktop-and-mobile', desktop_video: block.settings.video, mobile_video: block.settings.mobile_video, fall_back: block.settings.image, fall_back_mobile: block.settings.mobile_image %}
               {% else %}
               {%- render 'image-desktop-and-mobile',
                 class: 'slideshow__motion-media has-motion',
