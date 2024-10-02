@@ -1,0 +1,33 @@
+{%- comment -%}
+  Parameters:
+  - desktop_video {Video}: Video to show on desktop screens.
+  - mobile_video {Video}: Video to show on mobile screens.
+
+  Usage:
+  {%- render 'video-desktop-and-mobile', desktop_video: block.settings.video, mobile_video: block.settings.mobile_video -%}
+{%- endcomment -%}
+
+{% if mobile_video != blank %}
+  <div class="mobile-video">
+    <figure class="video">
+      <video autoplay muted loop playsinline poster="{{ fall_back_mobile | img_url: '768x1477' }}">
+        <source src="{{ mobile_video | video_tag }}" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+  <div class="desktop-video">
+    <figure class="video">
+      <video autoplay muted loop playsinline poster="{{ fall_back | img_url: '2560x1274' }}">
+        <source src="{{ desktop_video | video_tag }}" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+{% else %}
+  <div class="mobile-desktop-video">
+    <figure class="video">
+      <video autoplay muted loop playsinline poster="{{ fall_back | img_url: '2560x1274' }}">
+        <source src="{{ desktop_video | video_tag }}" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+{% endif %}
