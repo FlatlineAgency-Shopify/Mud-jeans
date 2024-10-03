@@ -15,11 +15,13 @@
         "16359276425da8ce46-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MUD-Jeans-FW24-Desktop.gif",
-            "mobile_image": "shopify://shop_images/MUD-Jeans-FW24-Mobile.gif",
+            "image": "shopify://shop_images/Fallback-desktop.png",
+            "mobile_image": "shopify://shop_images/Fallback-mobile.png",
+            "video": "shopify://files/videos/WEBSITE_LOOP.mp4",
+            "mobile_video": "shopify://files/videos/WEBSITE_VERTICAL.mp4",
             "slide_link": "",
             "subheading": "NEW STYLES NOW ONLINE",
-            "title": "LOOKS GOOD <br>FEELS GOOD <br>IS GOOD",
+            "title": "LOOKS GOOD FEELS GOOD IS GOOD",
             "heading_max_width": 16,
             "title_size": 60,
             "title_size_mobile": 30,
