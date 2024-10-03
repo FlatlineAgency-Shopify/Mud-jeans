@@ -15,10 +15,8 @@
         "16359276425da8ce46-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Fallback-desktop.png",
-            "mobile_image": "shopify://shop_images/Fallback-mobile.png",
-            "video": "shopify://files/videos/WEBSITE_LOOP.mp4",
-            "mobile_video": "shopify://files/videos/WEBSITE_VERTICAL.mp4",
+            "image": "shopify://shop_images/MUD-Jeans-FW24-Desktop.gif",
+            "mobile_image": "shopify://shop_images/MUD-Jeans-FW24-Mobile.gif",
             "slide_link": "",
             "subheading": "NEW STYLES NOW ONLINE",
             "title": "MAKE THE PLANET COOLER",
