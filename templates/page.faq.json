@@ -1,1 +1,599 @@
-{"sections":{"main":{"type":"faq-header","settings":{"title":"FAQ","use_h1":false,"text":"<p>We might have already read your mind. Use the search to find what you are looking for.<\/p>","show_search":true,"show_index":true,"index_heading":"How can we help?"}},"faq-content-1":{"type":"collapsible-tabs","blocks":{"question-1":{"type":"question","settings":{"title":"Which payment methods can I use?","answer":"<p>You can pay via Sofort Banking, iDeal, credit card, Paypal, Bancontact and Klarna.<\/p>"}},"question-2":{"type":"question","settings":{"title":"I have changed my mind, can you cancel my order?","answer":"<p>We cannot change the details of your order once it has been placed as we process and pack your order as quickly as possible. You can try the jeans on at home and if they don't fit, return them to us for an exchange or refund. We charge a return costs contribution for every return shipment. In the event of an exchange, we will cover the return costs and the shipping costs of sending the new pair of jeans.<\/p>"}},"question_4HpnBp":{"type":"question","settings":{"title":"I have entered a wrong address, can you change this for me?","answer":"<p>Unfortunately, we cannot change the details of your order once it’s been made, since we process and pack your order as fast as possible. Once the package has been returned to us, you will be refunded and you can place a new order.<\/p>"}},"question_PR86Nd":{"type":"question","settings":{"title":"Are there MUD Jeans gift cards?","answer":"<p>Yes, you can find them <a href=\"https:\/\/mudjeans.com\/products\/mud-jeans-gift-card?_pos=1&_sid=f60e55afe&_ss=r\" target=\"_blank\">here<\/a>. Once you place your order for a MUD Jeans gift card, we will send you a digital gift card including discount code via email.<\/p>"}}},"block_order":["question-1","question-2","question_4HpnBp","question_PR86Nd"],"settings":{"title":"Ordering and payment"}},"collapsible_tabs_HHDHMw":{"type":"collapsible-tabs","blocks":{"question_VCffqQ":{"type":"question","settings":{"title":"Which countries are you delivering to?","answer":"<p>A list of the countries can be found <a href=\"https:\/\/mudjeans.com\/pages\/shipping-information-mud-jeans\" title=\"https:\/\/mudjeans.com\/pages\/shipping-information-mud-jeans\">here<\/a>.<\/p>"}},"question_W3hwCT":{"type":"question","settings":{"title":"How long does it take for my delivery to arrive?","answer":"<p>In the Netherlands and Belgium, if ordered before 22:00 your order will be delivered the next day. Delivery to Germany takes 1-2 days. For all other countries, check out our shipping overview <a href=\"https:\/\/mudjeans.com\/pages\/shipping-information-mud-jeans\">here<\/a>.<\/p>"}},"question_k7ztCP":{"type":"question","settings":{"title":"Can I pick up my order at your office, The Groene Afslag?","answer":"<p>We love your sustainable mindset, but our warehouse is located in Nieuwegein and not at our office in Laren. The warehouse cannot be visited, so you still have to order via our online webshop, after which the delivery will be delivered to your home.<\/p>"}},"question_fJcknk":{"type":"question","settings":{"title":"What are the shipping costs?","answer":"<p>For orders of €100 or above we offer free shipping to the Netherlands, Belgium, Germany, France, Austria and Luxembourg. For all other countries, have a look at our shipping overview <a href=\"https:\/\/mudjeans.com\/pages\/shipping-information-mud-jeans\">here.<\/a><\/p>"}},"question_VUXDcL":{"type":"question","settings":{"title":"Can you deliver to a pickup station like for example DHL Packstation?","answer":"<p>At the moment, deliveries to post office boxes such as DHL packstation, pick-up stations or similar are not available. However, you will receive a tracking number where you can follow your parcel and, depending on the delivery company, can request a delivery at a pickup station.  <\/p>"}},"question_qjaXxt":{"type":"question","settings":{"title":"My parcel has not arrived, what can I do? ","answer":"<p>Please check the track & trace information first. If you didn’t receive a tracking link, please check your spam folder. Further contact our service.<\/p>"}},"question_dmUxmt":{"type":"question","settings":{"title":"My delivery status says that the package was returned to you. What can I do now? ","answer":"<p>If your parcel could not be delivered, it can happen that it will be sent back to us automatically. In this case, we cannot resend it unfortunately. We will refund the amount once the parcel has arrived at our warehouse. Please make a new order in our online shop.<\/p>"}}},"block_order":["question_VCffqQ","question_W3hwCT","question_k7ztCP","question_fJcknk","question_VUXDcL","question_qjaXxt","question_dmUxmt"],"settings":{"title":"Delivery"}},"faq-content-2":{"type":"collapsible-tabs","blocks":{"question-1":{"type":"question","settings":{"title":"What is your return policy?","answer":"<p>You may return items for a refund or exchange within 30 days of receiving your order. Please ensure your item is unworn, unwashed and has all tags attached. We charge a return contribution of €4.95 in the Netherlands and €5.95 to €9.95 in <a href=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\" target=\"_blank\" title=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\">other countries<\/a>. Exchanges are free.<\/p>"}},"question_TW76ad":{"type":"question","settings":{"title":"Do you offer free returns?","answer":"<p>MUD Jeans charges a return contribution ranging between €4.95 to €9.95 depending on your location. For more information, see our <a href=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\" target=\"_blank\" title=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\">returns page<\/a>. Make sure you receive a track and trace number to keep an eye on your shipment.<\/p>"}},"question_b6iQPY":{"type":"question","settings":{"title":"How can I return or exchange my jeans?","answer":"<p>We can only process registered returns, so please make sure to <a href=\"http:\/\/returns.mudjeans.eu\/?_gl=1*xfc8j0*_ga*MTQzNzU2MDY4Mi4xNjk3MDA3Mzc4*_ga_5P62G1X8ZT*MTY5NzU0OTI0OS4yMDguMS4xNjk3NTUwNzM5LjUwLjAuMA..\" title=\"http:\/\/returns.mudjeans.eu\/?_gl=1*xfc8j0*_ga*MTQzNzU2MDY4Mi4xNjk3MDA3Mzc4*_ga_5P62G1X8ZT*MTY5NzU0OTI0OS4yMDguMS4xNjk3NTUwNzM5LjUwLjAuMA..\">register your return<\/a> before you do anything else! Whether you'd like a refund or an exchange, your request can be registered via <a href=\"https:\/\/returns.mudjeans.eu\/\" title=\"https:\/\/returns.mudjeans.eu\/\">the returns portal.<\/a><\/p><p>If you live within our \"Free Returns Zone\", your free return label should be directly included in your box. If not, check our <a href=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\" title=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\"><span style=\"text-decoration:underline\">general return info section.<\/span><\/a><\/p>"}},"question-2":{"type":"question","settings":{"title":"How do I get a return label?","answer":"<p>After you have registered the return, the return instructions and label will be shared digitally. You can request your copy directly via <br\/><a href=\"https:\/\/mudjeans.returnista.com\" target=\"_blank\" title=\"https:\/\/mudjeans.returnista.com\">mudjeans.returnista.com<\/a><\/p>"}},"question_yyhfVW":{"type":"question","settings":{"title":"Is it possible to exchange my jeans at a store?","answer":"<p>Unfortunately, it is only possible to exchange your jeans online.<\/p>"}},"question_3ppwzd":{"type":"question","settings":{"title":"I missed the 30 days return period, can I still return or exchange my jeans?","answer":"<p>We understand life gets in the way so if you return your jeans a little late, we understand. As long as they are unworn, unwashed and including all tags we can process your return after a period of 30 days  for an additional 15 days.<\/p>"}},"question_H7H73J":{"type":"question","settings":{"title":"I have worn my jeans, can I still return or exchange them?","answer":"<p>We only accept jeans back for refund or exchange if they are in new condition. This means they need to be unwashed, unworn and tags must still be intact.<\/p>"}},"question_UNE3m3":{"type":"question","settings":{"title":"I live near Nieuwegein or Laren, can I drop my return parcel at your warehouse or your office directly?","answer":"<p>It would be cool but, unfortunately, this is not possible. Please follow the return instructions shared on our <a href=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\" target=\"_blank\" title=\"https:\/\/mudjeans.com\/pages\/returns-exchanges-mud-jeans\">returns page.<\/a><\/p><p><\/p>"}},"question_FfdkW9":{"type":"question","settings":{"title":"When can I expect my refund?","answer":"<p>Your refund will be processed within 14 working days after we receive your return in the warehouse. Please note: the refund will be sent via the original payment method used for purchase. Credit card refunds can take longer to process as the refund is dependent on your credit card company.  <\/p>"}}},"block_order":["question-1","question_TW76ad","question_b6iQPY","question-2","question_yyhfVW","question_3ppwzd","question_H7H73J","question_UNE3m3","question_FfdkW9"],"settings":{"title":"Returns & Exchanges"}},"collapsible_tabs_a7R7R3":{"type":"collapsible-tabs","blocks":{"question_AXcqRX":{"type":"question","settings":{"title":"What is leasing and how do I lease my jeans?","answer":"<ul><li>For leasing you will pay a fixed amount every month, depending on the price of the jeans.<\/li><li>You have to lease a pair of jeans for 12 months. The payments are withdrawn from your bank account automatically.<\/li><li>After 12 months you can keep the jeans (the monthly payments stop automatically), swap them for a new pair.<\/li><li>You can lease more jeans at any time, during your 12-month lease period, or after. The discount for existing leasers will always be applied. <\/li><li>If you send us an old jeans at the start of your new lease, you'll receive one month discount on your lease.<\/li><\/ul>"}},"question_6gzXgy":{"type":"question","settings":{"title":"Can I lease a second or third jeans while I'm in my 12-month lease period?","answer":"<p>Yes you can lease a second or third jeans while still in your 12-month period. For any additional jeans you will receive a 10%. In order to only pay that amount and not the initial €9,95 you need to use a discount code at the checkout. Get the code by sending an email to <a href=\"mailto:info@mudjeans.eu\">info@mudjeans.eu<\/a>.<\/p>"}},"question_RDX3n7":{"type":"question","settings":{"title":"Can I swap my jeans before 12 months?","answer":"<p>When you lease your jeans, you sign up for 12 months of leasing them. After a year of leasing a pair, you have the option to keep wearing them, switch them for a new model – only paying the monthly fee or send them back for reuse\/recycling. We recycle our old jeans and therefore don’t see those old jeans as waste but as valuable input for something new.<\/p>"}},"question_rGPMR9":{"type":"question","settings":{"title":"Why am I still paying for my lease?","answer":"<p>When you become a leaser, you sign up for 12 months of leasing. Sometimes a monthly payment does not come through, for example because you have insufficient funds on your bank account. This month will simply be added at the end of your lease. In total, there will always be 12 monthly payments.<\/p>"}},"question_TWiQtx":{"type":"question","settings":{"title":"I have a new bank account or credit card, how do I change the bank details linked to my lease?","answer":"<p>It is only possible to change your payment method to PayPal. Please email info@mudjeans.eu and we will help you out. <\/p>"}},"question_9mbrr6":{"type":"question","settings":{"title":"Can I lease a pair of jeans in one of your stores? ","answer":"<p>At the moment you can lease a pair of jeans at our lease shop at The Groene Afslag (Laren).<\/p>"}}},"block_order":["question_AXcqRX","question_6gzXgy","question_RDX3n7","question_rGPMR9","question_TWiQtx","question_9mbrr6"],"settings":{"title":"Leasing"}},"collapsible_tabs_akEHpF":{"type":"collapsible-tabs","blocks":{"question_dEQjeQ":{"type":"question","settings":{"title":"What is my size?","answer":"<p>We have tried our best to make the experience of buying jeans online as easy as possible because we know how difficult it can be. You can find your size by using our sizing & fitting tool, Fitle. This is available on our product pages. Please also check our size chart for specific dimensions and recommendations per style, also to be found on the product pages in the tab Size & fit.  <br\/>If you still need help with sizing, we are happy to help. Please email info@mudjeans.eu for styling and fit advice.<\/p>"}},"question_e4H9gE":{"type":"question","settings":{"title":"You have the same style jeans in stretch and non-stretch, what is the difference?","answer":"<p>Please note the fabric composition of jeans before you place your order. Our non-stretch fabric is produced from 100% cotton (40% recycled, 60% GOTS certified organic). These jeans will have a more rigid fit and feel. Any fabric that contains elastane, on the other hand, is considered stretch (1% - 2% elastane), these jeans will have a softer feel and stretch with movement.<\/p>"}}},"block_order":["question_dEQjeQ","question_e4H9gE"],"settings":{"title":"Styling advice"}},"collapsible_tabs_hwixjK":{"type":"collapsible-tabs","blocks":{"question_wUim4n":{"type":"question","settings":{"title":"My MUD Jeans are torn. Can you repair them for me?","answer":"<p><strong>Are you a leaser?<\/strong> We offer free repairs for our leasers within the 1st year of purchase. We fully support extending the life of your beloved jeans and keeping them in the circular loop. Please make sure your jeans have been washed before sending, we only accept clean jeans for repair. Please add a note including your name, your delivery address and “repair - what you need repaired.” Please email info@mudjeans.eu for our current repair address. Keep in mind: repairs can take up to 30 days and we will inform you once the jeans are ready.<\/p><p>Sustainability tip: Keep in mind that the most sustainable option is to get your jeans repaired locally, as you avoid shipping your denim back and forth and, at the same time support smaller local repair shops.<br\/><br\/><strong>Not a leaser? <\/strong>We cover 50% of the repair cost within the first year of purchase. Send an email to info@mudjeans.eu and we can help you further.<\/p>"}}},"block_order":["question_wUim4n"],"settings":{"title":"Repair"}},"collapsible_tabs_jBLhHp":{"type":"collapsible-tabs","blocks":{"question_EtmaJh":{"type":"question","settings":{"title":"Can I get a return label for recycling my old jeans (I live in the free shipping zone: NL, BE, DE, FR, DK, AT, LU)?","answer":"<p>Great to hear that you want to recycle your old jeans and save them from waste. If you place an order for a MUD Jeans, you can get a discount and send your old jeans back for free. If you need to make an exchange, please send the jeans for exchange and the old jeans for recycling in the same parcel. We want to recycle your old jeans, but as the transport, discount and recycling process add up, we can only offer one free return label when you place an order on our webshop.<\/p>"}},"question_FNkb4n":{"type":"question","settings":{"title":"Can I get a return label for recycling my old jeans (I live outside the free shipping zone)?","answer":"<p>If you live outside the free shipping zone, we cannot offer you a free return label. You can check on our <a href=\"https:\/\/mudjeans.com\/pages\/store-locator-mud-jeans\"><span style=\"text-decoration:underline\">store finder<\/span><\/a><span style=\"text-decoration:underline\"> <\/span>if there is a store nearby that takes back old jeans when purchasing a new one.<\/p>"}},"question_MeePmD":{"type":"question","settings":{"title":"I have a lot of old jeans; can I send all of them to you?","answer":"<p>As a circular brand, we make sure that no MUD Jeans are wasted and all stay in our denim loop. On top of that, we also do take back jeans of other brands (made of at least 96% cotton) and with this, we take care of the transportation costs and handling costs to get these jeans to our recycling partner in Valencia. Our business model is calculated on taking back one old pair of jeans at the purchase of a new one.<\/p>"}},"question_D6EFqF":{"type":"question","settings":{"title":"Do I get a discount for recycling my old jeans?  ","answer":"<p>Yes, we encourage you to save your old jeans from ending up as waste. <br\/><br\/>If you live in the free shipping zone (Netherlands, Belgium, Germany, France, Denmark, Austria & Luxembourg) then you can ask us for a return label. Just go to the return link in the footer and follow the instructions.<\/p><p>If you live outside the free shipping zone, we cannot offer you a free return label. You can check on our <a href=\"https:\/\/mudjeans.eu\/pages\/store-finder\">store finder<\/a> if there is a store nearby that takes back old jeans when purchasing a new one.<\/p>"}}},"block_order":["question_EtmaJh","question_FNkb4n","question_MeePmD","question_D6EFqF"],"settings":{"title":"Recycling"}},"collapsible_tabs_KfxXM7":{"type":"collapsible-tabs","blocks":{"question_g9cCH8":{"type":"question","settings":{"title":" Where can I buy your jeans?","answer":"<p>You can buy our jeans in our online shop or in one of the amazing stores that sell our jeans. Find a nearby store in our <a href=\"https:\/\/mudjeans.eu\/pages\/store-finder\" target=\"_blank\">store finder<\/a>. <\/p>"}},"question_beGebm":{"type":"question","settings":{"title":"Do you have your own stores? ","answer":"<p> No, we do not have our own stores, but MUD Jeans can be found in stores all over the world. We have a small store next to our office at De Groene Afslag in Laren, where you can check out our collection and even start leasing your first pair of MUD Jeans. <\/p>"}},"question_Mga3wE":{"type":"question","settings":{"title":"Can I also lease in stores?","answer":"<p>At the moment you can lease a pair of jeans at: Eerlijk Waar (Amsterdam), Sus & So (Hilversum) and our lease store at the Groene Afslag (Laren).<\/p>"}},"question_GenCxj":{"type":"question","settings":{"title":"Can I return my old jeans for recycling in a store?","answer":"<p>Some stores that sell our jeans are offering the option to return an old jeans when purchasing a pair of new MUD Jeans at their store. You can filter for these stores in our <a href=\"https:\/\/mudjeans.com\/pages\/store-locator-mud-jeans\">store finder <\/a>by ticking the box “Recycling collection point”.<\/p>"}}},"block_order":["question_g9cCH8","question_beGebm","question_Mga3wE","question_GenCxj"],"settings":{"title":"Stores"}},"collapsible_tabs_D3ipDf":{"type":"collapsible-tabs","blocks":{"question_brrbkH":{"type":"question","settings":{"title":"Where are all products produced?","answer":"<p>All our products are made in Tunisia, where we work closely with the ethical factory and long-time partner, Yousstex International. Our old jeans are shredded and mixed with fresh organic cotton at Recover in Spain, and then dyed and woven into new fabrics by Tejidos Royo - also in Spain. To find out more about our supply chain and sustainable practices, you can read our sustainability report <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0432\/6427\/8679\/files\/MUD_Sustainability_Report_2022.pdf?v=1720623508?attachment=1\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0432\/6427\/8679\/files\/MUD_Sustainability_Report_2022.pdf?v=1720623508?attachment=1\">here<\/a>.<\/p>"}},"question_TRTE8G":{"type":"question","settings":{"title":"Do you offset your CO2 shipping emissions?  ","answer":"<p>We sure do! Since 2016 we’ve been offsetting our transport emissions.<\/p>"}},"question_r6cU8W":{"type":"question","settings":{"title":"So your jeans are recycled but not second-hand?","answer":"<p>The fabrics of our new jeans contain recycled fibres from recycling old jeans. So, yes they are fresh and new, but the fabric used was used before. Sometimes, if you’re lucky, you will notice a little recycled fibre in your jeans. This shows that we walk the talk on our mission to create a world without waste. We do not see this as a fault, but as something that makes our jeans unique.<\/p>"}},"question_YcRnHN":{"type":"question","settings":{"title":"Are your jeans completely circular?","answer":"<p>Yes! Our products are designed to be circular, so each component is made with one material only (monomaterial) to ensure recycling. <\/p>"}},"question_Wk8fAg":{"type":"question","settings":{"title":"What dyes do you use, are they toxic?","answer":"<p>Our dyes are cradle2cradle (C2C) certified, which means they are non-toxic. Material health means that the resources and materials used in a product are safe for the consumer and everyone who gets in touch with them in the supply chain.<\/p>"}},"question_M9KLCW":{"type":"question","settings":{"title":"Are your products vegan?","answer":"<p>Yes, all our products are vegan. We are PETA-approved vegan, which ensures that no animal products were used throughout the production of our jeans. Being sustainable goes further than human welfare, that’s why all our denim is cruelty-free.<\/p>"}},"question_LgaP9H":{"type":"question","settings":{"title":"How many planet resources do I save if I buy a pair of MUD jeans?","answer":"<p>Per jeans compared to industry standard we use (so you save):<br\/>93% less water<br\/>74% less carbon emissions<br\/>47% less land use<br\/>As a company we have a 51% lower impact on biodiversity than industry standard.<\/p>"}},"question_mrWydF":{"type":"question","settings":{"title":"What certifications do you have?","answer":"<ul><li>BCORP: B Corps are for-profit companies that use business as a force for good. They are certified by the non-profit organisation B Lab, which checks specific standards of social and environmental performance, transparency and accountability. The Nordic Swan Ecolabel: evaluates a product’s total lifecycle from raw material to waste or in our case recycling, taking into account environmental impact in each part of the supply chain. After an extensive process of 1.5 years we’re proud to say all our products are Nordic Swan Ecolabel certified. <\/li><li>GRS: The GRS (Global Recycle Standard) is a full product standard that sets requirements of recycled content, chain of custody, social and environmental practices and chemical restrictions. By being GRS certified we ensure that the recycled components of our jeans are safe for the wearer and the planet.<\/li><li>Cradle 2 Cradle: evaluates a product’s total lifecycle from raw material to waste or in our case recycling, taking into account the environmental impact in each part of the supply chain.  <\/li><\/ul>"}},"question_WiiGGa":{"type":"question","settings":{"title":"Do you use certified organic cotton?","answer":"<p>Any non-recycled cotton we use is certified organic cotton. This cotton is guaranteed to come from sources where no toxic chemicals, pesticides, or genetically modified seeds are used. Our fabrics are certified through OCS, which stands for Organic Content Standard.<\/p>"}},"question_UJbMtg":{"type":"question","settings":{"title":"Where can I find your latest Sustainability Report?","answer":"<p>We are proud to share our sustainability report from 2022, please enjoy reading it <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0432\/6427\/8679\/files\/MUD_Sustainability_Report_2022.pdf?v=1720623508?attachment=1\" target=\"_blank\">here<\/a>.<\/p>"}},"question_L4c9Rd":{"type":"question","settings":{"title":"Where can I check out your Life Cycle Analysis?","answer":"<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0432\/6427\/8679\/files\/MUD_LCA_Report_2022.pdf?v=1720623517?attachment=1\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0432\/6427\/8679\/files\/MUD_LCA_Report_2022.pdf?v=1720623517?attachment=1\">Here <\/a>you go!<\/p>"}}},"block_order":["question_brrbkH","question_TRTE8G","question_r6cU8W","question_YcRnHN","question_Wk8fAg","question_M9KLCW","question_LgaP9H","question_mrWydF","question_WiiGGa","question_UJbMtg","question_L4c9Rd"],"settings":{"title":"Sustainability"}},"collapsible_tabs_68wnDJ":{"type":"collapsible-tabs","blocks":{"question_JrbYeG":{"type":"question","settings":{"title":"Where does the name MUD Jeans come from?","answer":"<p>Well, mud is a mixture of water and any combination of soil, silt and clay, and usually forms after rainfall or near water sources. Mud plays an important role in the ecosystem. But most important of all, mud can be recycled eternally. So it’s one of the best examples in nature of the circle economy – something we aspire to at MUD Jeans!<\/p>"}},"question_YrXPHi":{"type":"question","settings":{"title":"Who’s behind the brand?  ","answer":"<p>Team MUD is an energetic crowd with a shared aim of creating change in the fashion industry. Our team varies from young to old and consists of people coming from various backgrounds and a multitude of countries. Our forest office is based at circular working space De Groene Afslag in Laren, the Netherlands. You are welcome to visit the first Lease A Jeans store at De Groene Afslag, looking for another store nearby? – store locator.<\/p>"}},"question_Xeg36k":{"type":"question","settings":{"title":"Can you attend a lecture\/workshop and give a talk about MUD Jeans?","answer":"<p>The more people know about the circular economy, the better! You can book someone from MUD Jeans for a lecture or workshop. Prices and further information can be requested via info@mudjeans.eu.<\/p>"}},"question_zXXt73":{"type":"question","settings":{"title":" Do you have your own stores? ","answer":"<p>We sell in 300 stores and only have one own store, based at The Groene Afslag in Laren (where our office is based).<\/p>"}}},"block_order":["question_JrbYeG","question_YrXPHi","question_Xeg36k","question_zXXt73"],"settings":{"title":"Company information"}},"contact":{"type":"rich-text","blocks":{"icon":{"type":"icon","settings":{"icon":"chat_bubble"}},"heading":{"type":"heading","settings":{"title":"Get in touch","use_h1":false}},"text":{"type":"text","settings":{"text":"<p>Have questions about your order, or a general enquiry?<\/p>","enlarge_text":true}},"button":{"type":"button","settings":{"button_label":"Contact us","button_link":"","button_style":"primary"}}},"block_order":["icon","heading","text","button"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"1"}}},"order":["main","faq-content-1","collapsible_tabs_HHDHMw","faq-content-2","collapsible_tabs_a7R7R3","collapsible_tabs_akEHpF","collapsible_tabs_hwixjK","collapsible_tabs_jBLhHp","collapsible_tabs_KfxXM7","collapsible_tabs_D3ipDf","collapsible_tabs_68wnDJ","contact"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "faq-header",
+      "settings": {
+        "title": "FAQ",
+        "use_h1": false,
+        "text": "<p>We might have already read your mind. Use the search to find what you are looking for.</p>",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Which payment methods can I use?",
+            "answer": "<p>You can pay via Sofort Banking, iDeal, credit card, Paypal, Bancontact and Klarna.</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "I have changed my mind, can you cancel my order?",
+            "answer": "<p>We cannot change the details of your order once it has been placed as we process and pack your order as quickly as possible. You can try the jeans on at home and if they don't fit, return them to us for an exchange or refund. We charge a return costs contribution for every return shipment. In the event of an exchange, we will cover the return costs and the shipping costs of sending the new pair of jeans.</p>"
+          }
+        },
+        "question_4HpnBp": {
+          "type": "question",
+          "settings": {
+            "title": "I have entered a wrong address, can you change this for me?",
+            "answer": "<p>Unfortunately, we cannot change the details of your order once it’s been made, since we process and pack your order as fast as possible. Once the package has been returned to us, you will be refunded and you can place a new order.</p>"
+          }
+        },
+        "question_PR86Nd": {
+          "type": "question",
+          "settings": {
+            "title": "Are there MUD Jeans gift cards?",
+            "answer": "<p>Yes, you can find them <a href=\"https://mudjeans.com/products/mud-jeans-gift-card?_pos=1&_sid=f60e55afe&_ss=r\" target=\"_blank\">here</a>. Once you place your order for a MUD Jeans gift card, we will send you a digital gift card including discount code via email.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question_4HpnBp",
+        "question_PR86Nd"
+      ],
+      "settings": {
+        "title": "Ordering and payment"
+      }
+    },
+    "collapsible_tabs_HHDHMw": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_VCffqQ": {
+          "type": "question",
+          "settings": {
+            "title": "Which countries are you delivering to?",
+            "answer": "<p>A list of the countries can be found <a href=\"https://mudjeans.com/pages/shipping-information-mud-jeans\" title=\"https://mudjeans.com/pages/shipping-information-mud-jeans\">here</a>.</p>"
+          }
+        },
+        "question_W3hwCT": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take for my delivery to arrive?",
+            "answer": "<p>In the Netherlands and Belgium, if ordered before 22:00 your order will be delivered the next day. Delivery to Germany takes 1-2 days. For all other countries, check out our shipping overview <a href=\"https://mudjeans.com/pages/shipping-information-mud-jeans\">here</a>.</p>"
+          }
+        },
+        "question_k7ztCP": {
+          "type": "question",
+          "settings": {
+            "title": "Can I pick up my order at your office, The Groene Afslag?",
+            "answer": "<p>We love your sustainable mindset, but our warehouse is located in Nieuwegein and not at our office in Laren. The warehouse cannot be visited, so you still have to order via our online webshop, after which the delivery will be delivered to your home.</p>"
+          }
+        },
+        "question_fJcknk": {
+          "type": "question",
+          "settings": {
+            "title": "What are the shipping costs?",
+            "answer": "<p>For orders of €100 or above we offer free shipping to the Netherlands, Belgium, Germany, France, Austria and Luxembourg. For all other countries, have a look at our shipping overview <a href=\"https://mudjeans.com/pages/shipping-information-mud-jeans\">here.</a></p>"
+          }
+        },
+        "question_VUXDcL": {
+          "type": "question",
+          "settings": {
+            "title": "Can you deliver to a pickup station like for example DHL Packstation?",
+            "answer": "<p>At the moment, deliveries to post office boxes such as DHL packstation, pick-up stations or similar are not available. However, you will receive a tracking number where you can follow your parcel and, depending on the delivery company, can request a delivery at a pickup station.  </p>"
+          }
+        },
+        "question_qjaXxt": {
+          "type": "question",
+          "settings": {
+            "title": "My parcel has not arrived, what can I do? ",
+            "answer": "<p>Please check the track & trace information first. If you didn’t receive a tracking link, please check your spam folder. Further contact our service.</p>"
+          }
+        },
+        "question_dmUxmt": {
+          "type": "question",
+          "settings": {
+            "title": "My delivery status says that the package was returned to you. What can I do now? ",
+            "answer": "<p>If your parcel could not be delivered, it can happen that it will be sent back to us automatically. In this case, we cannot resend it unfortunately. We will refund the amount once the parcel has arrived at our warehouse. Please make a new order in our online shop.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_VCffqQ",
+        "question_W3hwCT",
+        "question_k7ztCP",
+        "question_fJcknk",
+        "question_VUXDcL",
+        "question_qjaXxt",
+        "question_dmUxmt"
+      ],
+      "settings": {
+        "title": "Delivery"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is your return policy?",
+            "answer": "<p>You may return items for a refund or exchange within 30 days of receiving your order. Please ensure your item is unworn, unwashed and has all tags attached. We charge a return contribution of €4.95 in the Netherlands and €5.95 to €9.95 in <a href=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\" target=\"_blank\" title=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\">other countries</a>. Exchanges are free.</p>"
+          }
+        },
+        "question_TW76ad": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer free returns?",
+            "answer": "<p>MUD Jeans charges a return contribution ranging between €4.95 to €9.95 depending on your location. For more information, see our <a href=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\" target=\"_blank\" title=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\">returns page</a>. Make sure you receive a track and trace number to keep an eye on your shipment.</p>"
+          }
+        },
+        "question_b6iQPY": {
+          "type": "question",
+          "settings": {
+            "title": "How can I return or exchange my jeans?",
+            "answer": "<p>We can only process registered returns, so please make sure to <a href=\"http://returns.mudjeans.eu/?_gl=1*xfc8j0*_ga*MTQzNzU2MDY4Mi4xNjk3MDA3Mzc4*_ga_5P62G1X8ZT*MTY5NzU0OTI0OS4yMDguMS4xNjk3NTUwNzM5LjUwLjAuMA..\" title=\"http://returns.mudjeans.eu/?_gl=1*xfc8j0*_ga*MTQzNzU2MDY4Mi4xNjk3MDA3Mzc4*_ga_5P62G1X8ZT*MTY5NzU0OTI0OS4yMDguMS4xNjk3NTUwNzM5LjUwLjAuMA..\">register your return</a> before you do anything else! Whether you'd like a refund or an exchange, your request can be registered via <a href=\"https://returns.mudjeans.eu/\" title=\"https://returns.mudjeans.eu/\">the returns portal.</a></p><p>If you live within our \"Free Returns Zone\", your free return label should be directly included in your box. If not, check our <a href=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\" title=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\"><span style=\"text-decoration:underline\">general return info section.</span></a></p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do I get a return label?",
+            "answer": "<p>After you have registered the return, the return instructions and label will be shared digitally. You can request your copy directly via <br/><a href=\"https://mudjeans.returnista.com\" target=\"_blank\" title=\"https://mudjeans.returnista.com\">mudjeans.returnista.com</a></p>"
+          }
+        },
+        "question_yyhfVW": {
+          "type": "question",
+          "settings": {
+            "title": "Is it possible to exchange my jeans at a store?",
+            "answer": "<p>Unfortunately, it is only possible to exchange your jeans online.</p>"
+          }
+        },
+        "question_3ppwzd": {
+          "type": "question",
+          "settings": {
+            "title": "I missed the 30 days return period, can I still return or exchange my jeans?",
+            "answer": "<p>We understand life gets in the way so if you return your jeans a little late, we understand. As long as they are unworn, unwashed and including all tags we can process your return after a period of 30 days  for an additional 15 days.</p>"
+          }
+        },
+        "question_H7H73J": {
+          "type": "question",
+          "settings": {
+            "title": "I have worn my jeans, can I still return or exchange them?",
+            "answer": "<p>We only accept jeans back for refund or exchange if they are in new condition. This means they need to be unwashed, unworn and tags must still be intact.</p>"
+          }
+        },
+        "question_UNE3m3": {
+          "type": "question",
+          "settings": {
+            "title": "I live near Nieuwegein or Laren, can I drop my return parcel at your warehouse or your office directly?",
+            "answer": "<p>It would be cool but, unfortunately, this is not possible. Please follow the return instructions shared on our <a href=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\" target=\"_blank\" title=\"https://mudjeans.com/pages/returns-exchanges-mud-jeans\">returns page.</a></p><p></p>"
+          }
+        },
+        "question_FfdkW9": {
+          "type": "question",
+          "settings": {
+            "title": "When can I expect my refund?",
+            "answer": "<p>Your refund will be processed within 14 working days after we receive your return in the warehouse. Please note: the refund will be sent via the original payment method used for purchase. Credit card refunds can take longer to process as the refund is dependent on your credit card company.  </p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question_TW76ad",
+        "question_b6iQPY",
+        "question-2",
+        "question_yyhfVW",
+        "question_3ppwzd",
+        "question_H7H73J",
+        "question_UNE3m3",
+        "question_FfdkW9"
+      ],
+      "settings": {
+        "title": "Returns & Exchanges"
+      }
+    },
+    "collapsible_tabs_a7R7R3": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_AXcqRX": {
+          "type": "question",
+          "settings": {
+            "title": "What is leasing and how do I lease my jeans?",
+            "answer": "<ul><li>For leasing you will pay a fixed amount every month, depending on the price of the jeans.</li><li>You have to lease a pair of jeans for 12 months. The payments are withdrawn from your bank account automatically.</li><li>After 12 months you can keep the jeans (the monthly payments stop automatically), swap them for a new pair.</li><li>You can lease more jeans at any time, during your 12-month lease period, or after. The discount for existing leasers will always be applied. </li><li>If you send us an old jeans at the start of your new lease, you'll receive one month discount on your lease.</li></ul>"
+          }
+        },
+        "question_6gzXgy": {
+          "type": "question",
+          "settings": {
+            "title": "Can I lease a second or third jeans while I'm in my 12-month lease period?",
+            "answer": "<p>Yes you can lease a second or third jeans while still in your 12-month period. For any additional jeans you will receive a 10%. In order to only pay that amount and not the initial €9,95 you need to use a discount code at the checkout. Get the code by sending an email to <a href=\"mailto:info@mudjeans.eu\">info@mudjeans.eu</a>.</p>"
+          }
+        },
+        "question_RDX3n7": {
+          "type": "question",
+          "settings": {
+            "title": "Can I swap my jeans before 12 months?",
+            "answer": "<p>When you lease your jeans, you sign up for 12 months of leasing them. After a year of leasing a pair, you have the option to keep wearing them, switch them for a new model – only paying the monthly fee or send them back for reuse/recycling. We recycle our old jeans and therefore don’t see those old jeans as waste but as valuable input for something new.</p>"
+          }
+        },
+        "question_rGPMR9": {
+          "type": "question",
+          "settings": {
+            "title": "Why am I still paying for my lease?",
+            "answer": "<p>When you become a leaser, you sign up for 12 months of leasing. Sometimes a monthly payment does not come through, for example because you have insufficient funds on your bank account. This month will simply be added at the end of your lease. In total, there will always be 12 monthly payments.</p>"
+          }
+        },
+        "question_TWiQtx": {
+          "type": "question",
+          "settings": {
+            "title": "I have a new bank account or credit card, how do I change the bank details linked to my lease?",
+            "answer": "<p>It is only possible to change your payment method to PayPal. Please email info@mudjeans.eu and we will help you out. </p>"
+          }
+        },
+        "question_9mbrr6": {
+          "type": "question",
+          "settings": {
+            "title": "Can I lease a pair of jeans in one of your stores? ",
+            "answer": "<p>At the moment you can lease a pair of jeans at our lease shop at The Groene Afslag (Laren).</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_AXcqRX",
+        "question_6gzXgy",
+        "question_RDX3n7",
+        "question_rGPMR9",
+        "question_TWiQtx",
+        "question_9mbrr6"
+      ],
+      "settings": {
+        "title": "Leasing"
+      }
+    },
+    "collapsible_tabs_akEHpF": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_dEQjeQ": {
+          "type": "question",
+          "settings": {
+            "title": "What is my size?",
+            "answer": "<p>We have tried our best to make the experience of buying jeans online as easy as possible because we know how difficult it can be. You can find your size by using our sizing & fitting tool, Fitle. This is available on our product pages. Please also check our size chart for specific dimensions and recommendations per style, also to be found on the product pages in the tab Size & fit.  <br/>If you still need help with sizing, we are happy to help. Please email info@mudjeans.eu for styling and fit advice.</p>"
+          }
+        },
+        "question_e4H9gE": {
+          "type": "question",
+          "settings": {
+            "title": "You have the same style jeans in stretch and non-stretch, what is the difference?",
+            "answer": "<p>Please note the fabric composition of jeans before you place your order. Our non-stretch fabric is produced from 100% cotton (40% recycled, 60% GOTS certified organic). These jeans will have a more rigid fit and feel. Any fabric that contains elastane, on the other hand, is considered stretch (1% - 2% elastane), these jeans will have a softer feel and stretch with movement.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_dEQjeQ",
+        "question_e4H9gE"
+      ],
+      "settings": {
+        "title": "Styling advice"
+      }
+    },
+    "collapsible_tabs_hwixjK": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_wUim4n": {
+          "type": "question",
+          "settings": {
+            "title": "My MUD Jeans are torn. Can you repair them for me?",
+            "answer": "<p><strong>Are you a leaser?</strong> We offer free repairs for our leasers within the 1st year of purchase. We fully support extending the life of your beloved jeans and keeping them in the circular loop. Please make sure your jeans have been washed before sending, we only accept clean jeans for repair. Please add a note including your name, your delivery address and “repair - what you need repaired.” Please email info@mudjeans.eu for our current repair address. Keep in mind: repairs can take up to 30 days and we will inform you once the jeans are ready.</p><p>Sustainability tip: Keep in mind that the most sustainable option is to get your jeans repaired locally, as you avoid shipping your denim back and forth and, at the same time support smaller local repair shops.<br/><br/><strong>Not a leaser? </strong>We cover 50% of the repair cost within the first year of purchase. Send an email to info@mudjeans.eu and we can help you further.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_wUim4n"
+      ],
+      "settings": {
+        "title": "Repair"
+      }
+    },
+    "collapsible_tabs_jBLhHp": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_EtmaJh": {
+          "type": "question",
+          "settings": {
+            "title": "Can I get a return label for recycling my old jeans (I live in the free shipping zone: NL, BE, DE, FR, DK, AT, LU)?",
+            "answer": "<p>Great to hear that you want to recycle your old jeans and save them from waste. If you place an order for a MUD Jeans, you can get a discount and send your old jeans back for free. If you need to make an exchange, please send the jeans for exchange and the old jeans for recycling in the same parcel. We want to recycle your old jeans, but as the transport, discount and recycling process add up, we can only offer one free return label when you place an order on our webshop.</p>"
+          }
+        },
+        "question_FNkb4n": {
+          "type": "question",
+          "settings": {
+            "title": "Can I get a return label for recycling my old jeans (I live outside the free shipping zone)?",
+            "answer": "<p>If you live outside the free shipping zone, we cannot offer you a free return label. You can check on our <a href=\"https://mudjeans.com/pages/store-locator-mud-jeans\"><span style=\"text-decoration:underline\">store finder</span></a><span style=\"text-decoration:underline\"> </span>if there is a store nearby that takes back old jeans when purchasing a new one.</p>"
+          }
+        },
+        "question_MeePmD": {
+          "type": "question",
+          "settings": {
+            "title": "I have a lot of old jeans; can I send all of them to you?",
+            "answer": "<p>As a circular brand, we make sure that no MUD Jeans are wasted and all stay in our denim loop. On top of that, we also do take back jeans of other brands (made of at least 96% cotton) and with this, we take care of the transportation costs and handling costs to get these jeans to our recycling partner in Valencia. Our business model is calculated on taking back one old pair of jeans at the purchase of a new one.</p>"
+          }
+        },
+        "question_D6EFqF": {
+          "type": "question",
+          "settings": {
+            "title": "Do I get a discount for recycling my old jeans?  ",
+            "answer": "<p>Yes, we encourage you to save your old jeans from ending up as waste. <br/><br/>If you live in the free shipping zone (Netherlands, Belgium, Germany, France, Denmark, Austria & Luxembourg) then you can ask us for a return label. Just go to the return link in the footer and follow the instructions.</p><p>If you live outside the free shipping zone, we cannot offer you a free return label. You can check on our <a href=\"https://mudjeans.eu/pages/store-finder\">store finder</a> if there is a store nearby that takes back old jeans when purchasing a new one.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_EtmaJh",
+        "question_FNkb4n",
+        "question_MeePmD",
+        "question_D6EFqF"
+      ],
+      "settings": {
+        "title": "Recycling"
+      }
+    },
+    "collapsible_tabs_KfxXM7": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_g9cCH8": {
+          "type": "question",
+          "settings": {
+            "title": " Where can I buy your jeans?",
+            "answer": "<p>You can buy our jeans in our online shop or in one of the amazing stores that sell our jeans. Find a nearby store in our <a href=\"https://mudjeans.eu/pages/store-finder\" target=\"_blank\">store finder</a>. </p>"
+          }
+        },
+        "question_beGebm": {
+          "type": "question",
+          "settings": {
+            "title": "Do you have your own stores? ",
+            "answer": "<p>Yes, in September 2024 we opened our new MUD Jeans Brand-store in the city center of Amsterdam at Torensteeg 3a. </p>"
+          }
+        },
+        "question_Mga3wE": {
+          "type": "question",
+          "settings": {
+            "title": "Can I also lease in stores?",
+            "answer": "<p>At the moment you can lease a pair of jeans at: Eerlijk Waar (Amsterdam), Sus & So (Hilversum) and our lease store at the Groene Afslag (Laren).</p>"
+          }
+        },
+        "question_GenCxj": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return my old jeans for recycling in a store?",
+            "answer": "<p>Some stores that sell our jeans are offering the option to return an old jeans when purchasing a pair of new MUD Jeans at their store. You can filter for these stores in our <a href=\"https://mudjeans.com/pages/store-locator-mud-jeans\">store finder </a>by ticking the box “Recycling collection point”.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_g9cCH8",
+        "question_beGebm",
+        "question_Mga3wE",
+        "question_GenCxj"
+      ],
+      "settings": {
+        "title": "Stores"
+      }
+    },
+    "collapsible_tabs_D3ipDf": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_brrbkH": {
+          "type": "question",
+          "settings": {
+            "title": "Where are all products produced?",
+            "answer": "<p>All our products are made in Tunisia, where we work closely with the ethical factory and long-time partner, Yousstex International. Our old jeans are shredded and mixed with fresh organic cotton at Recover in Spain, and then dyed and woven into new fabrics by Tejidos Royo - also in Spain. To find out more about our supply chain and sustainable practices, you can read our sustainability report <a href=\"https://cdn.shopify.com/s/files/1/0432/6427/8679/files/MUD_Sustainability_Report_2022.pdf?v=1720623508?attachment=1\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0432/6427/8679/files/MUD_Sustainability_Report_2022.pdf?v=1720623508?attachment=1\">here</a>.</p>"
+          }
+        },
+        "question_TRTE8G": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offset your CO2 shipping emissions?  ",
+            "answer": "<p>We sure do! Since 2016 we’ve been offsetting our transport emissions.</p>"
+          }
+        },
+        "question_r6cU8W": {
+          "type": "question",
+          "settings": {
+            "title": "So your jeans are recycled but not second-hand?",
+            "answer": "<p>The fabrics of our new jeans contain recycled fibres from recycling old jeans. So, yes they are fresh and new, but the fabric used was used before. Sometimes, if you’re lucky, you will notice a little recycled fibre in your jeans. This shows that we walk the talk on our mission to create a world without waste. We do not see this as a fault, but as something that makes our jeans unique.</p>"
+          }
+        },
+        "question_YcRnHN": {
+          "type": "question",
+          "settings": {
+            "title": "Are your jeans completely circular?",
+            "answer": "<p>Yes! Our products are designed to be circular, so each component is made with one material only (monomaterial) to ensure recycling. </p>"
+          }
+        },
+        "question_Wk8fAg": {
+          "type": "question",
+          "settings": {
+            "title": "What dyes do you use, are they toxic?",
+            "answer": "<p>Our dyes are cradle2cradle (C2C) certified, which means they are non-toxic. Material health means that the resources and materials used in a product are safe for the consumer and everyone who gets in touch with them in the supply chain.</p>"
+          }
+        },
+        "question_M9KLCW": {
+          "type": "question",
+          "settings": {
+            "title": "Are your products vegan?",
+            "answer": "<p>Yes, all our products are vegan. We are PETA-approved vegan, which ensures that no animal products were used throughout the production of our jeans. Being sustainable goes further than human welfare, that’s why all our denim is cruelty-free.</p>"
+          }
+        },
+        "question_LgaP9H": {
+          "type": "question",
+          "settings": {
+            "title": "How many planet resources do I save if I buy a pair of MUD jeans?",
+            "answer": "<p>Per jeans compared to industry standard we use (so you save):<br/>93% less water<br/>74% less carbon emissions<br/>47% less land use<br/>As a company we have a 51% lower impact on biodiversity than industry standard.</p>"
+          }
+        },
+        "question_mrWydF": {
+          "type": "question",
+          "settings": {
+            "title": "What certifications do you have?",
+            "answer": "<ul><li>BCORP: B Corps are for-profit companies that use business as a force for good. They are certified by the non-profit organisation B Lab, which checks specific standards of social and environmental performance, transparency and accountability. The Nordic Swan Ecolabel: evaluates a product’s total lifecycle from raw material to waste or in our case recycling, taking into account environmental impact in each part of the supply chain. After an extensive process of 1.5 years we’re proud to say all our products are Nordic Swan Ecolabel certified. </li><li>GRS: The GRS (Global Recycle Standard) is a full product standard that sets requirements of recycled content, chain of custody, social and environmental practices and chemical restrictions. By being GRS certified we ensure that the recycled components of our jeans are safe for the wearer and the planet.</li><li>Cradle 2 Cradle: evaluates a product’s total lifecycle from raw material to waste or in our case recycling, taking into account the environmental impact in each part of the supply chain.  </li></ul>"
+          }
+        },
+        "question_WiiGGa": {
+          "type": "question",
+          "settings": {
+            "title": "Do you use certified organic cotton?",
+            "answer": "<p>Any non-recycled cotton we use is certified organic cotton. This cotton is guaranteed to come from sources where no toxic chemicals, pesticides, or genetically modified seeds are used. Our fabrics are certified through OCS, which stands for Organic Content Standard.</p>"
+          }
+        },
+        "question_UJbMtg": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I find your latest Sustainability Report?",
+            "answer": "<p>We are proud to share our sustainability report from 2022, please enjoy reading it <a href=\"https://cdn.shopify.com/s/files/1/0432/6427/8679/files/MUD_Sustainability_Report_2022.pdf?v=1720623508?attachment=1\" target=\"_blank\">here</a>.</p>"
+          }
+        },
+        "question_L4c9Rd": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I check out your Life Cycle Analysis?",
+            "answer": "<p><a href=\"https://cdn.shopify.com/s/files/1/0432/6427/8679/files/MUD_LCA_Report_2022.pdf?v=1720623517?attachment=1\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0432/6427/8679/files/MUD_LCA_Report_2022.pdf?v=1720623517?attachment=1\">Here </a>you go!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_brrbkH",
+        "question_TRTE8G",
+        "question_r6cU8W",
+        "question_YcRnHN",
+        "question_Wk8fAg",
+        "question_M9KLCW",
+        "question_LgaP9H",
+        "question_mrWydF",
+        "question_WiiGGa",
+        "question_UJbMtg",
+        "question_L4c9Rd"
+      ],
+      "settings": {
+        "title": "Sustainability"
+      }
+    },
+    "collapsible_tabs_68wnDJ": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_JrbYeG": {
+          "type": "question",
+          "settings": {
+            "title": "Where does the name MUD Jeans come from?",
+            "answer": "<p>Well, mud is a mixture of water and any combination of soil, silt and clay, and usually forms after rainfall or near water sources. Mud plays an important role in the ecosystem. But most important of all, mud can be recycled eternally. So it’s one of the best examples in nature of the circle economy – something we aspire to at MUD Jeans!</p>"
+          }
+        },
+        "question_YrXPHi": {
+          "type": "question",
+          "settings": {
+            "title": "Who’s behind the brand?  ",
+            "answer": "<p>Team MUD is an energetic crowd with a shared aim of creating change in the fashion industry. Our team varies from young to old and consists of people coming from various backgrounds and a multitude of countries. Our forest office is based at circular working space De Groene Afslag in Laren, the Netherlands. You are welcome to visit the first Lease A Jeans store at De Groene Afslag, looking for another store nearby? – store locator.</p>"
+          }
+        },
+        "question_Xeg36k": {
+          "type": "question",
+          "settings": {
+            "title": "Can you attend a lecture/workshop and give a talk about MUD Jeans?",
+            "answer": "<p>The more people know about the circular economy, the better! You can book someone from MUD Jeans for a lecture or workshop. Prices and further information can be requested via info@mudjeans.eu.</p>"
+          }
+        },
+        "question_zXXt73": {
+          "type": "question",
+          "settings": {
+            "title": " Do you have your own stores? ",
+            "answer": "<p>We sell in 300 stores and only have one own store, based at The Groene Afslag in Laren (where our office is based).</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_JrbYeG",
+        "question_YrXPHi",
+        "question_Xeg36k",
+        "question_zXXt73"
+      ],
+      "settings": {
+        "title": "Company information"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Get in touch",
+            "use_h1": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?</p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq-content-1",
+    "collapsible_tabs_HHDHMw",
+    "faq-content-2",
+    "collapsible_tabs_a7R7R3",
+    "collapsible_tabs_akEHpF",
+    "collapsible_tabs_hwixjK",
+    "collapsible_tabs_jBLhHp",
+    "collapsible_tabs_KfxXM7",
+    "collapsible_tabs_D3ipDf",
+    "collapsible_tabs_68wnDJ",
+    "contact"
+  ]
+}
