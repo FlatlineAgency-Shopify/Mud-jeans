@@ -27,6 +27,29 @@
   endif
 -%}
 
+<div class="size_select_popup">
+  <div class="heading">
+    <h5>
+      {{ 'general.multi_size_popup.heading' | t }}
+    </h5>
+    <button type="button" class="drawer__close-btn x-btn">
+      <span class="visually-hidden">{{ 'accessibility.close' | t }}</span>
+      {% render 'icon-close' %}
+    </button>
+  </div>
+  <p>
+    {{ 'general.multi_size_popup.text' | t }}
+  </p>
+
+  <div class="button-group">
+    <a href="/pages/size-chart-mud-jeans" >
+      <button class="cta-btn button w-full">
+        {{ 'general.multi_size_popup.button_text' | t }}
+      </button>
+    </a>
+  </div>
+</div>
+
 {%- if product.media.size > 1 -%}
   <script src="{{ 'slideshow.js' | asset_url }}" defer></script>
 {%- endif -%}
@@ -308,13 +331,12 @@
           {% when 'price' %}
             <div class="price-container" {{ block.shopify_attributes }}>
               <div class="product-info__price product-price product-price--large">
-                
                 {% if product.tags contains 'FIRMHOUSE_SUBSCRIPTION' and current_variant.compare_at_price == blank %}
                   {% assign showLeasePrice = true %}
                 {% else %}
                   {% assign showLeasePrice = false %}
                 {% endif %}
-                
+
                 {% if block.settings.show_lease_price and showLeasePrice %}
                   {% assign show_lease_price = true %}
                 {% else %}
@@ -366,7 +388,11 @@
                           endif
                         -%}
                         <script type="text/template" data-variant="{{ variant.id }}">
-                          {{ incoming_html }}
+                          {
+                            {
+                              incoming_html;
+                            }
+                          }
                         </script>
 
                         {%- if current_variant and variant.id == current_variant.id -%}{{ incoming_html }}{%- endif -%}
@@ -480,7 +506,6 @@
             </div>
 
           {% when 'variant-picker' %}
-            
             <div class="input-row" {{ block.shopify_attributes }}>
               {%- capture size_chart_icon -%}{%- render 'icon', icon: 'ruler', size: 'small' -%}{%- endcapture -%}
               {% render 'variant-picker',
@@ -589,7 +614,11 @@
 
                     {% if enable_dynamic_payment_button %}
                       <script class="dynamic-payment-button-template" type="text/template">
-                        {{ form | payment_button }}
+                        {
+                          {
+                            form | payment_button;
+                          }
+                        }
                       </script>
                     {% endif %}
 
@@ -614,23 +643,24 @@
               {%- endif -%}
 
               {% if product.tags contains 'FIRMHOUSE_SUBSCRIPTION' and current_variant.compare_at_price == blank %}
-                  {% assign showLeaseBtn = true %}
-                {% else %}
-                  {% assign showLeaseBtn = false %}
-                {% endif %}
+                {% assign showLeaseBtn = true %}
+              {% else %}
+                {% assign showLeaseBtn = false %}
+              {% endif %}
 
               {% if block.settings.show_lease_option and showLeaseBtn %}
-                {%  unless product.tags contains "preordermud" %} 
-                 
-               <button
-                  id="leaseBtn" 
-                  class="lease-btn"
-                >
-                  Lease this jeans →
-                </button>
-                <p class="size-not-for-lease" style="display: none">This size is not available for lease at the moment, please check again later.</p>
-               {%  endunless %}
-                  {% endif %}
+                {% unless product.tags contains 'preordermud' %}
+                  <button
+                    id="leaseBtn"
+                    class="lease-btn"
+                  >
+                    Lease this jeans →
+                  </button>
+                  <p class="size-not-for-lease" style="display: none">
+                    This size is not available for lease at the moment, please check again later.
+                  </p>
+                {% endunless %}
+              {% endif %}
             </buy-buttons>
 
           {% when 'inventory-level' %}
@@ -782,14 +812,14 @@
                     {% endif %}
                     <div class="with-icon__beside rte cf richttext_icon">
                       {{ block.settings.richtext }}
-                      {%  if block.settings.url_richt_text != blank %}
+                      {% if block.settings.url_richt_text != blank %}
                         <a href="{{ block.settings.url_richt_text }}">{{ block.settings.url_text }}</a>
                         <style>
                           .richttext_icon p {
                             margin-bottom: 0;
                           }
-                          </style>
-                      {%  endif %}
+                        </style>
+                      {% endif %}
                     </div>
                   {%- endif -%}
                 </div>
@@ -1209,14 +1239,14 @@
     product: product,
     current_variant: product.selected_or_first_available_variant
   -%}
-   <script type="application/ld+json" class="globo-swatch-product-quickview">
+  <script type="application/ld+json" class="globo-swatch-product-quickview">
     {
       "curVariant": {{ product.selected_or_first_available_variant | json }},
       "featuredProduct": {{ product | json }},
       "options_with_values": {{ product.options_with_values | json }},
       "has_only_default_variant": {{ product.has_only_default_variant }}
     }
-  </script>                        
+  </script>
 </product-form>
 
 {% if section.settings.show_location_underneath %}
@@ -1225,31 +1255,30 @@
 
 <script>
   document.addEventListener('on:variant:change', (e) => {
-    if(e.target.variant.available){
-      document.querySelector('.lease-btn').style.display = "block";
-    }else{
-      document.querySelector('.lease-btn').style.display = "none";
+    if (e.target.variant.available) {
+      document.querySelector('.lease-btn').style.display = 'block';
+    } else {
+      document.querySelector('.lease-btn').style.display = 'none';
     }
-    
-    const lease_error = document.querySelector('.size-not-for-lease');
-    if(lease_error.style.display === 'block'){
-      lease_error.style.display = 'none'
-    }
-  })
-</script>
 
+    const lease_error = document.querySelector('.size-not-for-lease');
+    if (lease_error.style.display === 'block') {
+      lease_error.style.display = 'none';
+    }
+  });
+</script>
 
 <script>
   document.addEventListener('on:cart:after-merge', () => {
     fetch('/cart.js')
-      .then(response => response.json())
-      .then(cart => {
-        const cartItems = cart.items
+      .then((response) => response.json())
+      .then((cart) => {
+        const cartItems = cart.items;
         let isLease = false;
 
         for (let i = 0; i < cartItems.length; i++) {
           let item = cartItems[i];
-          if(item.properties.lease_text === 'lease'){
+          if (item.properties.lease_text === 'lease') {
             isLease = true;
             break;
           }
@@ -1257,30 +1286,73 @@
 
         const checkoutButtonContainer = document.querySelector('.checkout-buttons');
         if (checkoutButtonContainer) {
-           if (isLease) {
+          if (isLease) {
             checkoutButtonContainer.innerHTML = `<button onclick="handleFirmHouseCheckout()" class="btn btn--large btn--wide">Checkout</button>`;
           } else {
             checkoutButtonContainer.innerHTML = `
-                 <a href="{{ routes.root_url | append: '/checkout' | replace: '//', '/' }}" class="btn btn--large btn--wide">{{ 'cart.summary.checkout' | t }}</a>`
+                 <a href="{{ routes.root_url | append: '/checkout' | replace: '//', '/' }}" class="btn btn--large btn--wide">{{ 'cart.summary.checkout' | t }}</a>`;
           }
         }
       })
-    .catch(error => console.error('Error fetching cart or product details:', error))
-  })
+      .catch((error) => console.error('Error fetching cart or product details:', error));
+  });
 </script>
 
 <script>
   const leaseBtn = document.getElementById('leaseBtn');
-  
+
   leaseBtn.addEventListener('click', (event) => {
     document.getElementById('lease_text').value = 'lease';
-    const submitBtn = document.querySelector('button[name="add"]')
+    const submitBtn = document.querySelector('button[name="add"]');
     submitBtn.click();
 
     setTimeout(() => {
       document.getElementById('lease_text').value = '';
-    }, "100");
-  })
+    }, '100');
+  });
+</script>
+
+<script>
+  function checkMultipleSizes(cart) {
+    const productSizes = {};
+
+    cart.items.forEach((item) => {
+      if (!productSizes[item.product_id]) {
+        productSizes[item.product_id] = new Set();
+      }
+      productSizes[item.product_id].add(item.variant_title);
+    });
+
+    for (const sizes of Object.values(productSizes)) {
+      if (sizes.size > 1) {
+        return true;
+      }
+    }
+
+    return false;
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const xBtn = document.querySelector('.x-btn');
+    const ctaBtn = document.querySelector('.cta-btn');
+    const popup = document.querySelector('.size_select_popup');
+
+    xBtn.addEventListener('click', () => {
+      popup.classList.remove('active');
+    });
+  });
+
+  document.addEventListener('on:cart:add', async (event) => {
+    const cart = await fetch('/cart.js')
+      .then((response) => response.json())
+      .then((cart) => {
+        if (checkMultipleSizes(cart)) {
+          event.preventDefault();
+          document.querySelector('.size_select_popup').classList.add('active');
+        }
+      })
+      .catch((error) => console.error('Error fetching cart:', error));
+  });
 </script>
 
 {% schema %}

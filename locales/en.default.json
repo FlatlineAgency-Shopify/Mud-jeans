@@ -59,6 +59,11 @@
     "meta": {
       "page": "Page {{ page }}",
       "tags": "Tagged \"{{ tags }}\""
+    },
+    "multi_size_popup":{
+      "heading": "Need help with size selection?",
+      "text": "It looks like you've added multiple sizes of the same style to your cart. Choosing the right size helps minimize the emissions for the delivery and returns. For size assistance, click on 'Find my size' link or 'Size and Fit' tab on the product page.",
+      "button_text": "Check our size guide"
     }
   },
   "accessibility": {
