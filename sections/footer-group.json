@@ -1,1 +1,131 @@
-{"type":"footer","name":"Footer Group","sections":{"cross-page-promos":{"type":"cross-page-promos","blocks":{"1478526632862":{"type":"icon","settings":{"icon":"box","text":"Free shipping over 100$","link_url":""}},"1478526647261":{"type":"icon","settings":{"icon":"leaf","text":"Consciously crafted","link_url":""}},"1478526645605":{"type":"icon","settings":{"icon":"map_pin","text":"Come say hi","link_url":""}}},"block_order":["1478526632862","1478526647261","1478526645605"],"disabled":true,"settings":{"cross_page_promo_bg":"#ffffff","cross_page_promo_color":"#454564","show_on_home_page":true}},"footer":{"type":"footer","blocks":{"text_cPzDyt":{"type":"text","settings":{"title":"","text":"","img_link":"shopify:\/\/collections\/all","image":"shopify:\/\/shop_images\/MUD-Logo.svg","img_link2":"","image_width":175,"show_social_icons":false,"soc_icons_large":false,"enable_follow_on_shop":false}},"1601308717434":{"type":"text","settings":{"title":"Company","text":"<p><a href=\"https:\/\/platform.eyevestor.com\/eyeventures\/NL_MUD?lang=en&utm_source=Klaviyo&utm_medium=email&utm_campaign=Funding%20round%20-%20Convert%20reservation%20into%20investment%203&utm_id=01HWD2JJ1D3G3Y4B9GMAWN0EQC&utm_term=QSewMf&_kx=-fD6Cy-_DCtFQE6qNJZpKw.SqCHWm\" title=\"https:\/\/platform.eyevestor.com\/eyeventures\/NL_MUD?lang=en&utm_source=Klaviyo&utm_medium=email&utm_campaign=Funding%20round%20-%20Convert%20reservation%20into%20investment%203&utm_id=01HWD2JJ1D3G3Y4B9GMAWN0EQC&utm_term=QSewMf&_kx=-fD6Cy-_DCtFQE6qNJZpKw.SqCHWm\">Invest in MUD Jeans<\/a><br\/><a href=\"\/pages\/ambassador-program-mud-jeans\" title=\"Ambassador Program | MUD Jeans\">Ambassador Program<br\/><\/a><a href=\"\/pages\/sustainability-mud-jeans\" title=\"Sustainability | MUD Jeans\">Sustainability<\/a><br\/><a href=\"\/pages\/sustainability-report-mud-jeans\" title=\"Sustainability Report | MUD Jeans\">Sustainability Report 2022<\/a><br\/><a href=\"\/pages\/student-page-mud-jeans\" title=\"Student Page | MUD Jeans\">Knowledge Hub<br\/><\/a><a href=\"\/pages\/voices-for-good-mud-jeans\" title=\"Voices For Good | MUD Jeans\">Voices For Good<\/a><br\/><a href=\"\/pages\/vacancies-mud-jeans\" title=\"Vacancies | MUD Jeans\">Job Vacancies<\/a><\/p>","img_link":"","img_link2":"","image_width":150,"show_social_icons":false,"soc_icons_large":false,"enable_follow_on_shop":false}},"text_heqCxn":{"type":"text","settings":{"title":"Need Help?","text":"<p><a href=\"\/pages\/faq-mud-jeans\" title=\"FAQ | MUD Jeans\">FAQ<\/a><br\/><a href=\"\/pages\/shipping-information-mud-jeans\" title=\"Shipping Information | MUD Jeans\">Shipping Information<br\/><\/a><a href=\"\/pages\/returns-exchanges-mud-jeans\" title=\"Returns & Exchanges | MUD Jeans\">Returns & Exchanges<\/a><br\/><a href=\"\/pages\/privacy-policy-1\" title=\"Privacy Policy | MUD Jeans\">Privacy Policy<br\/><\/a><a href=\"\/pages\/terms-conditions-mud-jeans\" title=\"Terms & Conditions | MUD Jeans\">Terms & Conditions<\/a><br\/><a href=\"\/pages\/cookie-policy-mud-jeans\" title=\"Cookie Policy | MUD Jeans\">Cookie Policy<br\/><\/a><a href=\"\/pages\/request-personal-data-1\" title=\"Request Personal Data | MUD Jeans\">Request Personal Data<\/a><\/p>","img_link":"","img_link2":"","image_width":150,"show_social_icons":false,"soc_icons_large":false,"enable_follow_on_shop":false}},"text_7HgEQe":{"type":"text","settings":{"title":"Contact","text":"<p><a href=\"\/pages\/store-locator-mud-jeans\" title=\"Store Locator | MUD Jeans\">Our Stores<\/a><br\/><a href=\"\/pages\/contact-us-mud-jeans\" title=\"Contact Us | MUD Jeans\">Contact Information<br\/><\/a><a href=\"tel:+31352031786\" title=\"+31 (0)35 203 1786\">+31 (0)35 203 1786<br\/><\/a><a href=\"mailto:info@mudjeans.eu\" title=\"info@mudjeans.eu\">info@mudjeans.eu<\/a><\/p>","img_link":"shopify:\/\/pages\/our-mission-about-us","image":"shopify:\/\/shop_images\/Asset_3sustainability-icons.svg","img_link2":"shopify:\/\/pages\/about-us-mud-jeans","image_width":150,"show_social_icons":true,"soc_icons_large":false,"enable_follow_on_shop":false}}},"block_order":["text_cPzDyt","1601308717434","text_heqCxn","text_7HgEQe"],"settings":{"lower_menu":"","show_powered_by":false,"show_payment_icons":true,"enable_country_selector":true,"enable_language_selector":true}}},"order":["cross-page-promos","footer"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "cross-page-promos": {
+      "type": "cross-page-promos",
+      "blocks": {
+        "1478526632862": {
+          "type": "icon",
+          "settings": {
+            "icon": "box",
+            "text": "Free shipping over 100$",
+            "link_url": ""
+          }
+        },
+        "1478526647261": {
+          "type": "icon",
+          "settings": {
+            "icon": "leaf",
+            "text": "Consciously crafted",
+            "link_url": ""
+          }
+        },
+        "1478526645605": {
+          "type": "icon",
+          "settings": {
+            "icon": "map_pin",
+            "text": "Come say hi",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1478526632862",
+        "1478526647261",
+        "1478526645605"
+      ],
+      "disabled": true,
+      "settings": {
+        "cross_page_promo_bg": "#ffffff",
+        "cross_page_promo_color": "#454564",
+        "show_on_home_page": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_cPzDyt": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "img_link": "shopify://collections/all",
+            "image": "shopify://shop_images/MUD-Logo.svg",
+            "img_link2": "",
+            "image_width": 175,
+            "show_social_icons": false,
+            "soc_icons_large": false,
+            "enable_follow_on_shop": false
+          }
+        },
+        "1601308717434": {
+          "type": "text",
+          "settings": {
+            "title": "Company",
+            "text": "<p><a href=\"https://platform.eyevestor.com/eyeventures/NL_MUD?lang=en&utm_source=Klaviyo&utm_medium=email&utm_campaign=Funding%20round%20-%20Convert%20reservation%20into%20investment%203&utm_id=01HWD2JJ1D3G3Y4B9GMAWN0EQC&utm_term=QSewMf&_kx=-fD6Cy-_DCtFQE6qNJZpKw.SqCHWm\" title=\"https://platform.eyevestor.com/eyeventures/NL_MUD?lang=en&utm_source=Klaviyo&utm_medium=email&utm_campaign=Funding%20round%20-%20Convert%20reservation%20into%20investment%203&utm_id=01HWD2JJ1D3G3Y4B9GMAWN0EQC&utm_term=QSewMf&_kx=-fD6Cy-_DCtFQE6qNJZpKw.SqCHWm\">Invest in MUD Jeans</a><br/><a href=\"/pages/ambassador-program-mud-jeans\" title=\"Ambassador Program | MUD Jeans\">Ambassador Program<br/></a><a href=\"/pages/sustainability-mud-jeans\" title=\"Sustainability | MUD Jeans\">Sustainability</a><br/><a href=\"/pages/sustainability-report-mud-jeans\" title=\"Sustainability Report | MUD Jeans\">Sustainability Report 2023 / 2024</a><br/><a href=\"/pages/student-page-mud-jeans\" title=\"Student Page | MUD Jeans\">Knowledge Hub<br/></a><a href=\"/pages/voices-for-good-mud-jeans\" title=\"Voices For Good | MUD Jeans\">Voices For Good</a><br/><a href=\"/pages/vacancies-mud-jeans\" title=\"Vacancies | MUD Jeans\">Job Vacancies</a></p>",
+            "img_link": "",
+            "img_link2": "",
+            "image_width": 150,
+            "show_social_icons": false,
+            "soc_icons_large": false,
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_heqCxn": {
+          "type": "text",
+          "settings": {
+            "title": "Need Help?",
+            "text": "<p><a href=\"/pages/faq-mud-jeans\" title=\"FAQ | MUD Jeans\">FAQ</a><br/><a href=\"/pages/shipping-information-mud-jeans\" title=\"Shipping Information | MUD Jeans\">Shipping Information<br/></a><a href=\"/pages/returns-exchanges-mud-jeans\" title=\"Returns & Exchanges | MUD Jeans\">Returns & Exchanges</a><br/><a href=\"/pages/privacy-policy-1\" title=\"Privacy Policy | MUD Jeans\">Privacy Policy<br/></a><a href=\"/pages/terms-conditions-mud-jeans\" title=\"Terms & Conditions | MUD Jeans\">Terms & Conditions</a><br/><a href=\"/pages/cookie-policy-mud-jeans\" title=\"Cookie Policy | MUD Jeans\">Cookie Policy<br/></a><a href=\"/pages/request-personal-data-1\" title=\"Request Personal Data | MUD Jeans\">Request Personal Data</a></p>",
+            "img_link": "",
+            "img_link2": "",
+            "image_width": 150,
+            "show_social_icons": false,
+            "soc_icons_large": false,
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_7HgEQe": {
+          "type": "text",
+          "settings": {
+            "title": "Contact",
+            "text": "<p><a href=\"/pages/store-locator-mud-jeans\" title=\"Store Locator | MUD Jeans\">Our Stores</a><br/><a href=\"/pages/contact-us-mud-jeans\" title=\"Contact Us | MUD Jeans\">Contact Information<br/></a><a href=\"tel:+31352031786\" title=\"+31 (0)35 203 1786\">+31 (0)35 203 1786<br/></a><a href=\"mailto:info@mudjeans.eu\" title=\"info@mudjeans.eu\">info@mudjeans.eu</a></p>",
+            "img_link": "shopify://pages/our-mission-about-us",
+            "image": "shopify://shop_images/Asset_3sustainability-icons.svg",
+            "img_link2": "shopify://pages/about-us-mud-jeans",
+            "image_width": 150,
+            "show_social_icons": true,
+            "soc_icons_large": false,
+            "enable_follow_on_shop": false
+          }
+        }
+      },
+      "block_order": [
+        "text_cPzDyt",
+        "1601308717434",
+        "text_heqCxn",
+        "text_7HgEQe"
+      ],
+      "settings": {
+        "lower_menu": "",
+        "show_powered_by": false,
+        "show_payment_icons": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true
+      }
+    }
+  },
+  "order": [
+    "cross-page-promos",
+    "footer"
+  ]
+}
