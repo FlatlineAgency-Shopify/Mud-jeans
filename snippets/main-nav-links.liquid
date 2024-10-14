@@ -151,7 +151,7 @@
                           <ul class="navigation__tier-3">
                             {% for child_child_link in child_link.links %}
                             <li class="navigation__item{% if featured_links contains child_child_link.title %} featured-link{% endif %}">
-                              <a class="navigation__link" href="{{ child_child_link.url }}">{{ child_child_link.title | escape }}</a>
+                              <a  id="HeaderMenu-{{ link.handle }}-{{ childlink.handle }}-{{ child_child_link.handle }}" class="navigation__link" href="{{ shop.url }}{{ child_child_link.url }}">{{ child_child_link.title | escape }}</a>
                             </li>
                             {% endfor %}
                           </ul>
