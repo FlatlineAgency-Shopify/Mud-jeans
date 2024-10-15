@@ -36,7 +36,7 @@
       endif
     -%}
     <li class="navigation__item{% if has_dropdown %} navigation__item--with-children {% if use_columns %}navigation__item--with-mega-menu{% else %}navigation__item--with-small-menu{% endif %}{% endif %}{% if featured_links contains link.title %} featured-link{% endif %}{% if link.active %} navigation__item--active{% endif %}">
-      <a href="{{ link.url }}" class="navigation__link" {% if has_dropdown %}aria-haspopup="true" aria-expanded="false" aria-controls="NavigationTier2-{{ forloop.index }}{% if mobile %}-mob{% endif %}"{% endif %}>
+      <a href="{{ shop.url }}{{ link.url }}" class="navigation__link" {% if has_dropdown %}aria-haspopup="true" aria-expanded="false" aria-controls="NavigationTier2-{{ forloop.index }}{% if mobile %}-mob{% endif %}"{% endif %}>
         {{- link.title | escape -}}
       </a>
 
@@ -151,7 +151,7 @@
                           <ul class="navigation__tier-3">
                             {% for child_child_link in child_link.links %}
                             <li class="navigation__item{% if featured_links contains child_child_link.title %} featured-link{% endif %}">
-                              <a class="navigation__link" href="{{ child_child_link.url }}">{{ child_child_link.title | escape }}</a>
+                              <a  id="HeaderMenu-{{ link.handle }}-{{ childlink.handle }}-{{ child_child_link.handle }}" class="navigation__link" href="{{ shop.url }}{{ child_child_link.url }}">{{ child_child_link.title | escape }}</a>
                             </li>
                             {% endfor %}
                           </ul>
@@ -171,7 +171,7 @@
                         <li class="desktop-only navigation__column navigation__column--promotion" {{ block.shopify_attributes }}>
                           <div class="menu-promotion">
                             {%- if block.settings.link_url != blank -%}
-                              <a class="menu-promotion__link" href="{{ block.settings.link_url }}">
+                              <a class="menu-promotion__link" href="{{ shop.url }}{{ block.settings.link_url }}">
                             {%- endif -%}
                             <div class="menu-promotion__image">
                               {%- render 'image' with block.settings.image, size_cols_desktop: 4, loading: 'manual' -%}
@@ -193,7 +193,7 @@
                         {%- if dropdown_link_title_sanitised == link_title_sanitised and block.type == 'menu-promotion-small' -%}
                           <div class="menu-promotion">
                             {%- if block.settings.link_url != blank -%}
-                              <a class="menu-promotion__link" href="{{ block.settings.link_url }}">
+                              <a class="menu-promotion__link" href="{{ shop.url }}{{ block.settings.link_url }}">
                             {%- endif -%}
                             <div class="menu-promotion__image">
                               {%- render 'image' with block.settings.image, size_cols_desktop: 4, loading: 'manual' -%}
