@@ -41,13 +41,13 @@
     {{ 'general.multi_size_popup.text' | t }}
   </p>
 
-  <div class="button-group">
+  {% comment %} <div class="button-group">
     <a href="/pages/size-chart-mud-jeans" >
       <button class="cta-btn button w-full">
         {{ 'general.multi_size_popup.button_text' | t }}
       </button>
     </a>
-  </div>
+  </div> {% endcomment %}
 </div>
 
 {%- if product.media.size > 1 -%}
@@ -1334,7 +1334,7 @@
 
   document.addEventListener('DOMContentLoaded', () => {
     const xBtn = document.querySelector('.x-btn');
-    const ctaBtn = document.querySelector('.cta-btn');
+    // const ctaBtn = document.querySelector('.cta-btn');
     const popup = document.querySelector('.size_select_popup');
 
     xBtn.addEventListener('click', () => {

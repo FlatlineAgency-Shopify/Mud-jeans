@@ -74,7 +74,7 @@
     <div class="article__inner {% if section.settings.layout != 'columns' %}container container--reading-width{% endif %}">
       {% if article.image %}
         <div class="article-image">
-          <a href="{{ article.url }}">
+          <a href="{{ shop.url }}{{ article.url }}">
             {%- liquid
               assign loading = 'lazy'
               if section.settings.layout == 'columns'
