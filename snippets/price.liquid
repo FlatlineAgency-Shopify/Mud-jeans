@@ -83,6 +83,6 @@
   {% endif %}
 
   {% if show_lease_price %}
-    <p> or lease for  {{ product.metafields.firmhouse.subscription_price |  replace: '.', '' | money  }}</p>
+    <p> or lease for  €{{ product.metafields.firmhouse.subscription_price }}</p>
   {% endif %}
 </div>
