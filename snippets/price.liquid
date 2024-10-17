@@ -83,6 +83,13 @@
   {% endif %}
 
   {% if show_lease_price %}
-    <p> or lease for  €{{ product.metafields.firmhouse.subscription_price }}</p>
+    {% assign subscription_price = product.metafields.firmhouse.subscription_price %}
+    {%  assign decimal_point = subscription_price |  split: '.' | last | size %}
+
+    {% if decimal_point  == 1 %}
+     <p> or lease for  €{{ subscription_price | append: '0' }}</p>
+    {% else %}
+     <p> or lease for  €{{ subscription_price }}</p>
+    {% endif %}
   {% endif %}
 </div>
