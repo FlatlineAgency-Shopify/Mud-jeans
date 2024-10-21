@@ -1,14 +1,21 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "custom_liquid_ey38jK": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script defer src=\"https://help-center.gorgias.help/api/help-centers/loader.js?v=2\" data-gorgias-loader-help-center data-gorgias-help-center-uid=\"5uouzfp2\"></script>"
+      }
+    },
     "main": {
       "type": "faq-header",
       "settings": {
@@ -583,6 +590,7 @@
     }
   },
   "order": [
+    "custom_liquid_ey38jK",
     "main",
     "faq-content-1",
     "collapsible_tabs_HHDHMw",
