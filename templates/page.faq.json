@@ -18,6 +18,7 @@
     },
     "main": {
       "type": "faq-header",
+      "disabled": true,
       "settings": {
         "title": "FAQ",
         "use_h1": false,
@@ -65,6 +66,7 @@
         "question_4HpnBp",
         "question_PR86Nd"
       ],
+      "disabled": true,
       "settings": {
         "title": "Ordering and payment"
       }
@@ -131,6 +133,7 @@
         "question_qjaXxt",
         "question_dmUxmt"
       ],
+      "disabled": true,
       "settings": {
         "title": "Delivery"
       }
@@ -213,6 +216,7 @@
         "question_UNE3m3",
         "question_FfdkW9"
       ],
+      "disabled": true,
       "settings": {
         "title": "Returns & Exchanges"
       }
@@ -271,6 +275,7 @@
         "question_TWiQtx",
         "question_9mbrr6"
       ],
+      "disabled": true,
       "settings": {
         "title": "Leasing"
       }
@@ -297,6 +302,7 @@
         "question_dEQjeQ",
         "question_e4H9gE"
       ],
+      "disabled": true,
       "settings": {
         "title": "Styling advice"
       }
@@ -315,6 +321,7 @@
       "block_order": [
         "question_wUim4n"
       ],
+      "disabled": true,
       "settings": {
         "title": "Repair"
       }
@@ -357,6 +364,7 @@
         "question_MeePmD",
         "question_D6EFqF"
       ],
+      "disabled": true,
       "settings": {
         "title": "Recycling"
       }
@@ -399,6 +407,7 @@
         "question_Mga3wE",
         "question_GenCxj"
       ],
+      "disabled": true,
       "settings": {
         "title": "Stores"
       }
@@ -497,6 +506,7 @@
         "question_UJbMtg",
         "question_L4c9Rd"
       ],
+      "disabled": true,
       "settings": {
         "title": "Sustainability"
       }
@@ -539,6 +549,7 @@
         "question_Xeg36k",
         "question_zXXt73"
       ],
+      "disabled": true,
       "settings": {
         "title": "Company information"
       }
@@ -581,6 +592,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "height": "medium",
         "text_alignment": "center",
