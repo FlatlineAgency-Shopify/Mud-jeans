@@ -23,17 +23,17 @@
         "heading_p7QQ93": {
           "type": "heading",
           "settings": {
-            "title": "SUSTAINABILITY REPORT <br> 2023 / 2024",
+            "title": "SUSTAINABILITY REPORT  2023 / 2024",
             "heading_max_width": 16,
             "title_size": 66,
             "title_size_mobile": 32,
-            "use_h1": false
+            "use_h1": true
           }
         },
         "text_QRkt4f": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe that simple claims about sustainability are just not enough. This is why, every year, we publish our MUD sustainability report. Here, we reflect on our achievements, failures and future goals. It is our way of diving deeper and showing you exactly what we are up to, now and in the future.</p>",
+            "text": "<p>We believe that simple claims about sustainability are just not enough. This is why, every year, we publish our MUD Sustainability Report. Here, we reflect on our achievements, failures and future goals. It is our way of diving deeper and showing you exactly what we are up to, now and in the future.</p>",
             "enlarge_text": true
           }
         }
@@ -60,7 +60,7 @@
         "heading_BpjabH": {
           "type": "heading",
           "settings": {
-            "title": "Our latest numbers are in 🌍",
+            "title": "Our latest impact numbers are in 🌍",
             "use_h1": false
           }
         }
@@ -83,7 +83,7 @@
           "settings": {
             "width": "half",
             "subheading": "",
-            "title": "72%",
+            "title": "90%",
             "text": "<p><strong>Water Saved</strong></p>",
             "button_label": "",
             "button_link": "",
@@ -96,7 +96,7 @@
           "settings": {
             "width": "half",
             "subheading": "",
-            "title": "41%",
+            "title": "47%",
             "text": "<p><strong>CO2 Saved</strong></p>",
             "button_label": "",
             "button_link": "",
@@ -119,7 +119,7 @@
         "text_NrJKb7": {
           "type": "text",
           "settings": {
-            "text": "<p>Every year we conduct a Lifecycle Analysis (LCA) on our products to find out exactly what their environmental impact is and how much impact we can save through our sustainable materials and methods. The percentages above refer to the average impact of a MUD Jeans. To find out more about how we calculate these values, read our LCA report below. To read our full sustainability report, scroll to the bottom of this page.</p>",
+            "text": "<p>Every year we conduct in-depth analysis and measure the impact of our products to find out exactly what their environmental impact is and how much impact we can save through our sustainable materials and methods. The percentages above refer to the average impact of a MUD Jeans. To find out more about how we calculate these values, read our LCA report. To read our full sustainability report, scroll to the bottom of this page.</p>",
             "enlarge_text": false
           }
         },
@@ -127,7 +127,7 @@
           "type": "button",
           "settings": {
             "button_label": "Read LCA Report",
-            "button_link": "https://mudjeans.com/reports/lca-report-2022-mud-jeans",
+            "button_link": "",
             "button_style": "primary"
           }
         }
@@ -403,7 +403,7 @@
         "button_9j38ep": {
           "type": "button",
           "settings": {
-            "button_label": "Read Full Report",
+            "button_label": "Read Full Sustainability Report",
             "button_link": "https://cdn.shopify.com/s/files/1/0432/6427/8679/files/MUD-Sustainability-Report_2023-2024.pdf?v=1729076436",
             "button_style": "secondary"
           }
@@ -411,6 +411,33 @@
       },
       "block_order": [
         "button_9j38ep"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Sustainability-Report-23-24.jpg",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "bottom center",
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "image_with_text_overlay_J3tKJM": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "button_kKAtMJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read Full LCA Report",
+            "button_link": "https://mudjeans.com/reports/lca-report-2022-mud-jeans",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "button_kKAtMJ"
       ],
       "settings": {
         "image": "shopify://shop_images/Sustainability-Report-23-24.jpg",
@@ -488,6 +515,7 @@
     "image_with_text_dKeWNw",
     "image_with_text_rnRq4j",
     "image_with_text_overlay_86N4FX",
+    "image_with_text_overlay_J3tKJM",
     "gallery_YQbaVW"
   ]
 }
