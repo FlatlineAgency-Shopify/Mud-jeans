@@ -476,7 +476,7 @@
       ],
       "settings": {
         "grid_desktop": 2,
-        "grid_mobile": "1",
+        "grid_mobile": "2",
         "height": "fixed",
         "desktop_image_height": 690,
         "mobile_image_height": 400,
