@@ -332,14 +332,14 @@
         "heading_nFFywK": {
           "type": "heading",
           "settings": {
-            "title": "Van Gogh Museum Collaboration",
+            "title": "A Proud B Corp",
             "use_h1": false
           }
         },
         "text_cVAYTJ": {
           "type": "text",
           "settings": {
-            "text": "<p>In 2022 we launched a unique collection that was created in collaboration with the Van Gogh Museum. The collection was based on a shared passion for a beautiful planet and a belief in a better future.</p><p>We have merged intricate artwork with forward-thinking technology and design. Each piece contains 30% hemp fibres that perfectly co-exist with the 20% recycled post-consumer denim and 50% organic cotton.</p>",
+            "text": "<p>MUD Jeans has been a proud B Corp since 2015. In 2020 we completed our reassessment, hitting 124.7 points. And in 2022, we were recognised as “Best for the World” for our environmental performance, meaning our score was in the global top 5% in this category!</p><p>And this year, we successfully completed the recertification process once again and continue to be a certified B Corp.</p>",
             "enlarge_text": false
           }
         }
@@ -349,7 +349,7 @@
         "text_cVAYTJ"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-4.jpg",
+        "image": "shopify://shop_images/sus-report-23-B-Corp.jpg",
         "image_width": 700,
         "image_link": "",
         "image_position": "left",
@@ -363,14 +363,14 @@
         "heading_DdEDzA": {
           "type": "heading",
           "settings": {
-            "title": "Koning Willem 1 Award",
+            "title": "MUD Jeans & IKEA",
             "use_h1": false
           }
         },
         "text_gQcpYF": {
           "type": "text",
           "settings": {
-            "text": "<p>We were awarded the Koning Willem I Plaquette for sustainable entrepreneurship, awarded by Queen Máxima of the Netherlands, in the name of the Koning Willem I Stichting and De Nederlandsche Bank.  </p><p>This also meant that we were visited by Her Majesty Queen Máxima in our headquarters!</p>",
+            "text": "<p>In collaboration with IKEA, we dressed their iconic KLIPPAN sofa with a circular denim cover. This new cover is made with our denim fabric: a combination of organic cotton and post-consumer recycled cotton, from old jeans.</p><p>This year, we’re proud to continue this collaboration with IKEA and their iconic Klippan couch.</p>",
             "enlarge_text": false
           }
         }
@@ -380,7 +380,7 @@
         "text_gQcpYF"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-1.jpg",
+        "image": "shopify://shop_images/mud-ikea-23.jpg",
         "image_width": 700,
         "image_link": "",
         "image_position": "right",
