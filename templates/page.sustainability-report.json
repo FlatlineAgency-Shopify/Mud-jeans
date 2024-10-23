@@ -122,19 +122,10 @@
             "text": "<p>Every year we conduct in-depth analysis and measure the impact of our products to find out exactly what their environmental impact is and how much impact we can save through our sustainable materials and methods. The percentages above refer to the average impact of a MUD Jeans. To find out more about how we calculate these values, read our LCA report. To read our full sustainability report, scroll to the bottom of this page.</p>",
             "enlarge_text": false
           }
-        },
-        "button_hPfrUi": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read LCA Report",
-            "button_link": "",
-            "button_style": "primary"
-          }
         }
       },
       "block_order": [
-        "text_NrJKb7",
-        "button_hPfrUi"
+        "text_NrJKb7"
       ],
       "settings": {
         "height": "medium",
@@ -264,7 +255,7 @@
         "text_ANpa4f": {
           "type": "text",
           "settings": {
-            "text": "<p>The aim of our Road to 100 project was to make a pair of jeans from 100% post-consumer recycled cotton. The outcome of this project would allow us to make new jeans without using any new cotton.</p><p>The project began in 2019 and after endless testing and trying together with Saxion University, we finally created our first sample in early 2022. The worldwide first of its kind! This was celebrated with the launch of a mini documentary series.</p>",
+            "text": "<p>Started in 2019, the aim of our Road to 100 project was to make a pair of jeans from 100% post-consumer recycled cotton. The outcome of this project would allow us to make new jeans without using any new cotton.</p><p>In 2024 we remain committed to bringing jeans made from 100% closed-loop, post-consumer recycled cotton to market by collaborating closely with our partners. The worldwide first of its kind!</p><p>Learn more about sustainability and the journey in our mini documentary series.</p>",
             "enlarge_text": false
           }
         },
@@ -297,7 +288,7 @@
         "heading_tUCyAE": {
           "type": "heading",
           "settings": {
-            "title": "3227",
+            "title": "+100,000",
             "heading_max_width": 16,
             "title_size": 30,
             "title_size_mobile": 32,
@@ -307,13 +298,13 @@
         "subheading_pAL6RG": {
           "type": "subheading",
           "settings": {
-            "subheading": "Trees regenerated & jeans collected for recycling"
+            "subheading": "Trees regenerated & jeans collected for recycling so far!"
           }
         },
         "text_gRYTpU": {
           "type": "text",
           "settings": {
-            "text": "<p>With every MUD purchase you can send any old jeans back to us for recycling, as long as they are at least 96% cotton. This is our way of preventing jeans from ending up in landfill and valuable resources from being wasted. In 2022 you sent us 3227 old jeans for recycling!</p><p>And for every old jeans sent back to us, we donate to the non-profit Justdiggit to regenerate one tree. Through a special pruning technique Justdiggit regenerates forgotten tree stumps in previously deforested areas in Sub-Saharan Africa. This brings back the once naturally occurring trees, which can then store CO2, cool down the area, increase water retention and promote biodiversity.</p>",
+            "text": "<p>With every MUD purchase you can send any old jeans back to us for recycling, as long as they are at least 96% cotton. This is our way of preventing jeans from ending up in landfill and valuable resources from being wasted. In 2023 you sent us 2317 old jeans for recycling!</p><p>And for every old jeans sent back to us, we donate to the non-profit Justdiggit to regenerate one tree. Through a special pruning technique Justdiggit regenerates forgotten tree stumps in previously deforested areas in Sub-Saharan Africa. This brings back the once naturally occurring trees, which can then store CO2, cool down the area, increase water retention and promote biodiversity.</p>",
             "enlarge_text": false
           }
         }
