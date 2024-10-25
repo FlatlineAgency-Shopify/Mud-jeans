@@ -616,7 +616,7 @@
           "option_flag_style": "none",
           "option_currency_type": "none",
           "option_language": true,
-          "option_search_country": false,
+          "option_search_country": true,
           "title": "Are you in the right place?",
           "text": "Please select your shipping country.",
           "helper_text": "<p>Shop from the country of your choice. Remember that we can only ship your order to addresses located in the chosen country.</p>",
