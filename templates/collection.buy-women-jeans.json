@@ -1,0 +1,150 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection_list_7d3JGj": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_TnLyG6": {
+          "type": "collection",
+          "settings": {
+            "collection": "slim",
+            "image": "shopify://shop_images/Screenshot_2024-03-04_at_15.03.04.png",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_wBkthW": {
+          "type": "collection",
+          "settings": {
+            "collection": "straight",
+            "image": "shopify://shop_images/Screenshot_2024-03-04_at_15.02.55.png",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_LD843z": {
+          "type": "collection",
+          "settings": {
+            "collection": "loose",
+            "image": "shopify://shop_images/Screenshot_2024-03-04_at_15.02.45.png",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_cKJfK9": {
+          "type": "collection",
+          "settings": {
+            "collection": "tapered",
+            "image": "shopify://shop_images/Screenshot_2024-03-04_at_15.02.37.png",
+            "subheading": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_TnLyG6",
+        "collection_wBkthW",
+        "collection_LD843z",
+        "collection_cKJfK9"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Collection list",
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true,
+        "coll_grid_image_shape": "landscape-54",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": false,
+        "coll_text_position": "below",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "primary"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_title": false,
+        "show_image_behind_heading": false,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_desc_pos": "above",
+        "coll_num_per_page_int": 50,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": true,
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": true,
+        "collapse_filters_method": "over-6",
+        "show_filter_counts": true,
+        "show_disabled_filters": true,
+        "auto_apply_hide_unavailable": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "show_sort": true,
+        "sort_show_featured": false,
+        "sort_show_best": true,
+        "sort_show_alpha": true,
+        "sort_show_price": true,
+        "sort_show_date": true,
+        "related_collections": [
+          "tapered-fit",
+          "loose-fit",
+          "straight-fit",
+          "slim-fit"
+        ],
+        "related_collections_style": "gallery",
+        "rel_coll_gall_aspect_ratio": "1.25",
+        "image_position": "center center",
+        "rel_coll_gall_enable_margin": true,
+        "rel_coll_gall_full_width": false,
+        "rel_coll_gall_overlay_style": "shadow",
+        "rel_coll_gall_text_alignment": "bottom left",
+        "rel_coll_grid_mobile": "2"
+      }
+    },
+    "collapsible_tabs_wBQWVz": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_pXR4Ji": {
+          "type": "question",
+          "settings": {
+            "title": "Where is MUD Jeans manufatured?",
+            "answer": "<p>We aim to create products that are good for the planet and every person that encounters them. That’s why we keep our supply chain short and build long-lasting relations with our suppliers. Read more about it <a href=\"/pages/fair-production-mud-jeans\" target=\"_blank\" title=\"Fair Production | MUD Jeans\">here.</a></p>"
+          }
+        },
+        "question_Cb6Ucc": {
+          "type": "question",
+          "settings": {
+            "title": "How sustainable is MUD Jeans?",
+            "answer": "<p>We’re the world’s first circular denim brand. By applying the principles of the circular economy we’re reducing our environmental footprint. Read more about it <a href=\"/pages/sustainability-mud-jeans\" target=\"_blank\" title=\"Sustainability | MUD Jeans\">here.</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_pXR4Ji",
+        "question_Cb6Ucc"
+      ],
+      "settings": {
+        "title": "MUD Jeans FAQs"
+      }
+    }
+  },
+  "order": [
+    "collection_list_7d3JGj",
+    "main",
+    "collapsible_tabs_wBQWVz"
+  ]
+}
