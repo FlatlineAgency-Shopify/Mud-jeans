@@ -118,27 +118,74 @@
     "collapsible_tabs_wBQWVz": {
       "type": "collapsible-tabs",
       "blocks": {
-        "question_pXR4Ji": {
+        "content_njX6mE": {
+          "type": "content",
+          "settings": {
+            "content": "<h1>Comfortable And Sustainable Jeans For Women</h1><p>You always want to look your best. But you also want to do your bit for a better world. MUD Jeans has you covered. At MUD Jeans, you will find a durable and timeless pair of jeans for every occasion. Whether you are having coffee with friends in the city or looking for a casual outfit for work. Discover our collection and look good, feel good, and do good. At our jeans brand, fashion meets the love for our planet.</p>"
+          }
+        },
+        "question_a3Bm9j": {
           "type": "question",
           "settings": {
-            "title": "Where is MUD Jeans manufatured?",
-            "answer": "<p>We aim to create products that are good for the planet and every person that encounters them. That’s why we keep our supply chain short and build long-lasting relations with our suppliers. Read more about it <a href=\"/pages/fair-production-mud-jeans\" target=\"_blank\" title=\"Fair Production | MUD Jeans\">here.</a></p>"
+            "title": "How to take care of your pair of jeans?",
+            "answer": "<p>With a pair of MUD jeans, you are guaranteed that you will be wearing it for a long time. Conscious washing helps to make them last longer. Use our golden <a href=\"https://mudjeans.com/pages/wash-consciously-mud-jeans/\">washing tips</a> that are good for both your jeans and the environment.<br/> </p><ul><li><strong>Wash less: </strong>Wash your jeans only when necessary. Washing them less extends their life.</li><li><strong>Cold wash: </strong>Wash with cold water and use the eco setting on your washing machine to keep the colour and fabric in top condition. 30 degrees Celsius is just right. </li><li><strong>Turn inside out: </strong>Turn your jeans inside out before washing to reduce colour loss.</li><li><strong>Vinegar: </strong>Preserve colour by adding a splash of vinegar to the wash program. Make sure you check first that the vinegar is safe for use in your washing machine. And <strong>never</strong> use fabric softener.</li><li><strong>Air dry: </strong>Dry your jeans on a line rather than in the tumble dryer to prevent shrinkage and to save energy.</li><li><strong>Hand wash:</strong> Wash your jeans in a bucket of lukewarm water. This is the gentlest method.</li></ul>"
           }
         },
         "question_Cb6Ucc": {
           "type": "question",
           "settings": {
-            "title": "How sustainable is MUD Jeans?",
-            "answer": "<p>We’re the world’s first circular denim brand. By applying the principles of the circular economy we’re reducing our environmental footprint. Read more about it <a href=\"/pages/sustainability-mud-jeans\" target=\"_blank\" title=\"Sustainability | MUD Jeans\">here.</a></p>"
+            "title": "Buy or lease your sustainable women’s denim jeans",
+            "answer": "<p>Unique in the denim world: leasing a pair of jeans through our '<a href=\"https://mudjeans.com/pages/lease-a-jeans-mud-jeans\">Lease A Jeans</a>' concept. You lease a beautiful pair of women's jeans for a small monthly fee. And after a year, you have the freedom to choose: return, exchange or keep. </p><p>Prefer to buy? Of course, you can. You will be the proud owner of a pair of durable women's trousers you can enjoy for years and years. After purchase, you don't have to do anything else. Okay, give your jeans an occasional wash.</p>"
+          }
+        },
+        "question_c9g3xz": {
+          "type": "question",
+          "settings": {
+            "title": "Hand in your old jeans",
+            "answer": "<p>A torn or worn out pair of jeans? Both can happen. But don't have to throw them away. We would love to have your jeans so we can turn them into brand-new ones. It doesn't matter what brand it is.<a href=\"https://mudjeans.com/pages/jeans-for-recycling-mud-jeans/\">Give us your jeans</a>, and we will use the material to make new, eco-friendly jeans. As a thank you, we will give you 10% off your next purchase.</p>"
+          }
+        },
+        "question_6DH349": {
+          "type": "question",
+          "settings": {
+            "title": "Find the right size with the MUD Jeans size tool",
+            "answer": "<p>Finding the right size online is not easy. Assistance is at your service. The MUD Jeans sizing tool makes finding the perfect fit a piece of cake. Simply enter your age, height, weight, bra size, waist, hip to bust ratio and favourite brand, and voilà. A carefree shopping experience at your fingertips.</p><p>Our tool saves you time and money. And together we can reduce CO2 emissions. Still not sure about the right fit? Check out our <a href=\"https://mudjeans.com/pages/size-chart-mud-jeans/\">size chart</a>.</p>"
+          }
+        },
+        "question_pXR4Ji": {
+          "type": "question",
+          "settings": {
+            "title": "Recycled and organic cotton jeans for women",
+            "answer": "<p>Meet the <a href=\"https://mudjeans.com/pages/about-us-mud-jeans/\">MUD method</a>. An approach where we ensure that every MUD Jeans is made up of up to 40% <a href=\"https://mudjeans.com/pages/sustainable-materials-mud-jeans\">post-consumer recycled denim</a>. The remaining 60%? We use only OCS and GOTS certified organic cotton. </p><p>Our women's jeans are manufactured without the use of toxic substances, and we recycle 95% of the water we use. But our activism doesn't stop there: it's in the details. The paper labels are OEKO-TEX certified, and our stretchy jeans have a touch of recycled elastane.</p><p>The supply chain is also short to guarantee that our denim experts in the ethical factories earn more than the minimum wage. All of the above is good for them, good for you, and good for the planet.</p>"
+          }
+        },
+        "question_eYwFUe": {
+          "type": "question",
+          "settings": {
+            "title": "Mix and match sustainable denim into a stylish, timeless outfit",
+            "answer": "<p>Timeless women's jeans are the ideal base for any look. They are easy to mix and match. Choose an oversized <a href=\"https://mudjeans.com/collections/shirts-women\">denim shirt</a> for a relaxed vibe. Or go for a <a href=\"https://mudjeans.com/collections/jackets-vests-women\">denim vest</a> with or without sleeves for a classic look. Complete your outfit with matching <a href=\"https://mudjeans.com/collections/accessories-women\">accessories</a> such as a cap or tote bag.</p><p>Do you prefer something else than jeans? No problem. A sustainable <a href=\"https://mudjeans.com/collections/dresses-women\">denim dress</a> or <a href=\"https://mudjeans.com/collections/skirts-women\">denim skirt</a> is the perfect base for your own personal style. Add a bold belt or bag to give your outfit that extra touch.</p>"
+          }
+        },
+        "question_fYfKy3": {
+          "type": "question",
+          "settings": {
+            "title": "Discover our collection",
+            "answer": "<p>Each person's clothing style is different. Different fits are therefore a must. With MUD Jeans, you will find a wide range of women's jeans. Sleek look? <a href=\"https://mudjeans.com/collections/slim-fits-women\">Slim fit jeans</a> are the right choice. Casual style? Choose the <a href=\"https://mudjeans.com/collections/loose-fits\">loose fit jeans</a>. But even if you're looking for something in between, you've come to the right place. For a classic silhouette, <a href=\"https://mudjeans.com/collections/straight-w\">straight fit jeans</a> are the way to go. And <a href=\"https://mudjeans.com/collections/tapered-fits-women\">tapered jeans</a> are the best option if you want something that is neither too tight nor too loose.</p><p>Classic fits and durability: that's our jeans collection. Only occasionally we add a new style to surprise you. And the colours? These are true classics too. Choose from colours like iconic blue or bold black. Or go for fresh white or subtle grey. Whichever fit and whatever colour you choose, our jeans will make sure you look your best every time.</p>"
           }
         }
       },
       "block_order": [
+        "content_njX6mE",
+        "question_a3Bm9j",
+        "question_Cb6Ucc",
+        "question_c9g3xz",
+        "question_6DH349",
         "question_pXR4Ji",
-        "question_Cb6Ucc"
+        "question_eYwFUe",
+        "question_fYfKy3"
       ],
       "settings": {
-        "title": "MUD Jeans FAQs"
+        "title": ""
       }
     }
   },
