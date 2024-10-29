@@ -164,7 +164,7 @@
           "settings": {
             "title": "Model",
             "icon": "",
-            "content": "<p>{{ product.metafields.product_tabs.size_content | metafield_tag }}</p>",
+            "content": "<p>{{ product.metafields.product_tabs.size_content | metafield_tag }}</p><p>Not sure about your size? Click on \"What is my size?\" above! Our convenient tool will help you find your perfect fit, making your shopping experience hassle-free. Save time, money, and reduce emissions by minimizing returns. Shop with confidence!</p><p>Still have questions about fit? <br/><a href=\"/pages/contact-us-mud-jeans\" target=\"_blank\" title=\"Contact Us | MUD Jeans\">Contact Us<br/></a><a href=\"/pages/size-chart-mud-jeans\" target=\"_blank\" title=\"Size Chart | MUD Jeans\">Size Guide</a></p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
