@@ -70,8 +70,8 @@
       "tags": "Tagged \"{{ tags }}\""
     },
     "multi_size_popup": {
-      "heading": "Need help choosing your perfect size?",
-      "text": "It looks like you've added multiple sizes of the same item to your cart. By selecting the right size, you can reduce the environmental impact of delivery and returns—every choice you make helps shape a more sustainable future.  For help finding your best fit, click the \"What is my size?\" link on the product page. Together, we can lead the way toward circular fashion and positive change.",
+      "heading": "Did you know that by selecting the right size, you can reduce the environmental impact of delivery and returns?  ",
+      "text": "Find your best fit by clicking the “What’s my size?” link on the product page. Thank you. Every choice you make helps shape a more sustainable future.",
       "button_text": "Check our size guide"
     }
   },
