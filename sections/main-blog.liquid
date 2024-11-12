@@ -93,7 +93,9 @@
         </div>
       {% endif %}
 
-      <h2>{{ article.title | escape | link_to: article.url }}</h2>
+      <h2>
+        <a href="{{ shop.url }}{{ article.url }}">{{ article.title | escape }}</a>
+      </h2>
 
       {%- if section.settings.show_excerpts -%}
         <div class="rte cf">
