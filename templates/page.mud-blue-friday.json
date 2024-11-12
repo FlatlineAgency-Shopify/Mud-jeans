@@ -44,7 +44,7 @@
         "text_tbQ3cF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Turn Black Friday Blue by investing in jeans that make a difference for people and the planet.</strong></p><p>Add some description text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+            "text": "<p><strong>Turn Black Friday into </strong><em><strong>Blue Friday</strong></em><strong> by investing in jeans that make a difference for people and the planet.</strong></p><p>Add some description text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
             "enlarge_text": true
           }
         },
