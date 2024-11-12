@@ -44,7 +44,7 @@
         "text_tbQ3cF": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Turn Black Friday Blue</em> by investing in jeans that make a difference for people and the planet.</p><p>Add some description text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+            "text": "<p><strong>Turn Black Friday Blue by investing in jeans that make a difference for people and the planet.</strong></p><p>Add some description text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
             "enlarge_text": true
           }
         },
@@ -76,6 +76,35 @@
         "text_alignment": "center",
         "full_width": false,
         "color_scheme": "default"
+      }
+    },
+    "scrolling_banner_V8X97L": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_pYFhAr": {
+          "type": "text",
+          "settings": {
+            "text": "LET'S TURN BLACK FRIDAY BLUE",
+            "color": "#e7edfd",
+            "link": "",
+            "use_h1": false,
+            "stencil_all_text": false,
+            "stencil_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_pYFhAr"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "1",
+        "text_size": 50,
+        "vertical_padding": 20,
+        "speed": 33,
+        "direction": "left",
+        "font": "heading",
+        "space": 50
       }
     },
     "image_with_text_7FhB6D": {
@@ -117,35 +146,6 @@
         "image_position": "left",
         "text_alignment": "left",
         "color_scheme": "default"
-      }
-    },
-    "scrolling_banner_V8X97L": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "text_pYFhAr": {
-          "type": "text",
-          "settings": {
-            "text": "BLUE FRIDAY",
-            "color": "#203e8a",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_pYFhAr"
-      ],
-      "settings": {
-        "full_width": true,
-        "color_scheme": "1",
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 33,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
       }
     },
     "gallery_YQbaVW": {
@@ -211,8 +211,8 @@
     "main",
     "image_with_text_overlay_p3yCVc",
     "rich_text_zYL8Ab",
-    "image_with_text_7FhB6D",
     "scrolling_banner_V8X97L",
+    "image_with_text_7FhB6D",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
