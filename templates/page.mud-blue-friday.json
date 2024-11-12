@@ -59,7 +59,7 @@
         "button_YQpHRF": {
           "type": "button",
           "settings": {
-            "button_label": "Button text",
+            "button_label": "SHOP MEN",
             "button_link": "",
             "button_style": "primary"
           }
@@ -95,18 +95,10 @@
             "enlarge_text": true
           }
         },
-        "button_Fnxepm": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_style": "primary"
-          }
-        },
         "button_GHBKNP": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP MEN",
+            "button_label": "LEARN MORE",
             "button_link": "",
             "button_style": "primary"
           }
@@ -115,7 +107,6 @@
       "block_order": [
         "heading_wHEXgU",
         "text_epqDyE",
-        "button_Fnxepm",
         "button_GHBKNP"
       ],
       "settings": {
