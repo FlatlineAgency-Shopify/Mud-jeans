@@ -47,11 +47,29 @@
             "text": "<p><em>Turn Black Friday Blue</em> by investing in jeans that make a difference for people and the planet.</p><p>Add some description text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
             "enlarge_text": true
           }
+        },
+        "button_MTfbEf": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP WOMEN",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "button_YQpHRF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_style": "primary"
+          }
         }
       },
       "block_order": [
         "heading_bc4fMW",
-        "text_tbQ3cF"
+        "text_tbQ3cF",
+        "button_MTfbEf",
+        "button_YQpHRF"
       ],
       "settings": {
         "height": "medium",
@@ -60,88 +78,53 @@
         "color_scheme": "default"
       }
     },
-    "multi_column_yrDViH": {
-      "type": "multi-column",
+    "image_with_text_7FhB6D": {
+      "type": "image-with-text",
       "blocks": {
-        "text_block_ztB7G4": {
-          "type": "text_block",
+        "heading_wHEXgU": {
+          "type": "heading",
           "settings": {
-            "enable_media": false,
-            "title": "USP 1",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
-            "button_label": "",
-            "link": ""
+            "title": "Why choose MUD Jeans?",
+            "use_h1": false
           }
         },
-        "text_block_erAthC": {
-          "type": "text_block",
+        "text_epqDyE": {
+          "type": "text",
           "settings": {
-            "enable_media": false,
-            "title": "USP 2",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
-            "button_label": "",
-            "link": ""
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+            "enlarge_text": true
           }
         },
-        "text_block_BydHeb": {
-          "type": "text_block",
+        "button_Fnxepm": {
+          "type": "button",
           "settings": {
-            "enable_media": false,
-            "title": "USP 3",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_ztB7G4",
-        "text_block_erAthC",
-        "text_block_BydHeb"
-      ],
-      "settings": {
-        "title": "Why choose MUD Jeans?",
-        "media_aspect_ratio": "1",
-        "media_width": 700,
-        "text_alignment": "center",
-        "button_style": "primary",
-        "color_scheme": "default"
-      }
-    },
-    "multi_column_wPmAgq": {
-      "type": "multi-column",
-      "blocks": {
-        "text_block_V7kwyg": {
-          "type": "text_block",
-          "settings": {
-            "enable_media": false,
-            "title": "",
-            "text": "",
-            "button_label": "SHOP WOMEN",
-            "link": ""
+            "button_label": "Button text",
+            "button_link": "",
+            "button_style": "primary"
           }
         },
-        "text_block_gwtGhC": {
-          "type": "text_block",
+        "button_GHBKNP": {
+          "type": "button",
           "settings": {
-            "enable_media": false,
-            "title": "",
-            "text": "",
             "button_label": "SHOP MEN",
-            "link": ""
+            "button_link": "",
+            "button_style": "primary"
           }
         }
       },
       "block_order": [
-        "text_block_V7kwyg",
-        "text_block_gwtGhC"
+        "heading_wHEXgU",
+        "text_epqDyE",
+        "button_Fnxepm",
+        "button_GHBKNP"
       ],
       "settings": {
-        "title": "",
-        "media_aspect_ratio": "s",
-        "media_width": 700,
-        "text_alignment": "center",
-        "button_style": "primary",
+        "image": "shopify://shop_images/Home-Menu-FW24.png",
+        "image_2": "shopify://shop_images/MUD-Jeans-Organic-Cotton-3.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
         "color_scheme": "default"
       }
     },
@@ -237,8 +220,7 @@
     "main",
     "image_with_text_overlay_p3yCVc",
     "rich_text_zYL8Ab",
-    "multi_column_yrDViH",
-    "multi_column_wPmAgq",
+    "image_with_text_7FhB6D",
     "scrolling_banner_V8X97L",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
