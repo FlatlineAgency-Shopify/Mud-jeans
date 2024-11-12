@@ -85,7 +85,7 @@
           "type": "text",
           "settings": {
             "text": "LET'S TURN BLACK FRIDAY BLUE",
-            "color": "#e7edfd",
+            "color": "#dedede",
             "link": "",
             "use_h1": false,
             "stencil_all_text": false,
