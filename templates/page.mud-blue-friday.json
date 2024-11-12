@@ -148,6 +148,59 @@
         "color_scheme": "default"
       }
     },
+    "video_apncxT": {
+      "type": "video",
+      "blocks": {
+        "heading_MHtjyn": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_gLhUCU": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "play_button_LrmxAm": {
+          "type": "play-button",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_MHtjyn",
+        "text_gLhUCU",
+        "play_button_LrmxAm"
+      ],
+      "settings": {
+        "video_external": "https://youtu.be/VzyXaOm2bSs?si=nxlh0drr20IG2pal",
+        "video_description": "",
+        "placeholder_image": "shopify://shop_images/header-MUD_Sustainability_Report_2023-2024.jpg",
+        "text_alignment": "center center",
+        "full_width": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "featured_collection_WcdH98": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "25% OFF ON BLUE FRIDAY",
+        "collection": "fw24-women",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
     "gallery_YQbaVW": {
       "type": "gallery",
       "blocks": {
@@ -213,6 +266,8 @@
     "rich_text_zYL8Ab",
     "scrolling_banner_V8X97L",
     "image_with_text_7FhB6D",
+    "video_apncxT",
+    "featured_collection_WcdH98",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
