@@ -37,14 +37,14 @@
         "heading_bc4fMW": {
           "type": "heading",
           "settings": {
-            "title": "Welcome to our summer sale!",
-            "use_h1": false
+            "title": "This Black Friday, Buy Better.",
+            "use_h1": true
           }
         },
         "text_tbQ3cF": {
           "type": "text",
           "settings": {
-            "text": "<p>At MUD Jeans we believe that all our jeans should be worn. Our goal is to never produce too much, but let's face it, we're not perfect, we made too many. In our philosophy these jeans are being wasted if they're not worn. </p><p>That's why we're offering them to you at a discounted price. It's time to act - there's no time to waste.</p>",
+            "text": "<p><em>Turn Black Friday Blue</em> by investing in jeans that make a difference for people and the planet.</p><p>Add some description text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
             "enlarge_text": true
           }
         }
@@ -60,14 +60,99 @@
         "color_scheme": "default"
       }
     },
+    "multi_column_yrDViH": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_ztB7G4": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": false,
+            "title": "USP 1",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_erAthC": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": false,
+            "title": "USP 2",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_BydHeb": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": false,
+            "title": "USP 3",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_ztB7G4",
+        "text_block_erAthC",
+        "text_block_BydHeb"
+      ],
+      "settings": {
+        "title": "Why choose MUD Jeans?",
+        "media_aspect_ratio": "1",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "multi_column_wPmAgq": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_V7kwyg": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": false,
+            "title": "",
+            "text": "",
+            "button_label": "SHOP WOMEN",
+            "link": ""
+          }
+        },
+        "text_block_gwtGhC": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": false,
+            "title": "",
+            "text": "",
+            "button_label": "SHOP MEN",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_V7kwyg",
+        "text_block_gwtGhC"
+      ],
+      "settings": {
+        "title": "",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
     "scrolling_banner_V8X97L": {
       "type": "scrolling-banner",
       "blocks": {
         "text_pYFhAr": {
           "type": "text",
           "settings": {
-            "text": "NO TIME TO WASTE",
-            "color": "#8a2f20",
+            "text": "BLUE FRIDAY",
+            "color": "#203e8a",
             "link": "",
             "use_h1": false,
             "stencil_all_text": false,
@@ -77,54 +162,6 @@
       },
       "block_order": [
         "text_pYFhAr"
-      ],
-      "settings": {
-        "full_width": true,
-        "color_scheme": "1",
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 33,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
-      }
-    },
-    "product_list_gk4gHe": {
-      "type": "product-list",
-      "settings": {
-        "title": "",
-        "product_list": [
-          "slim-lassen-o3-grey",
-          "daily-dunn-old-stone",
-          "daily-dunn-stone-indigo",
-          "regular-dunn-pure-blue",
-          "slimmer-rick-sunny-stone",
-          "slimmer-rick-stone-indigo"
-        ],
-        "show_vendor": false,
-        "enable_carousel": false,
-        "grid": 4,
-        "color_scheme": "default",
-        "full_width": true
-      }
-    },
-    "scrolling_banner_qXrcWj": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "text_3iVTLE": {
-          "type": "text",
-          "settings": {
-            "text": "NO TIME TO WASTE",
-            "color": "#8a2f20",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_3iVTLE"
       ],
       "settings": {
         "full_width": true,
@@ -169,6 +206,7 @@
         "media_QgwYAc",
         "media_nWrPQ4"
       ],
+      "disabled": true,
       "settings": {
         "grid_desktop": 2,
         "grid_mobile": "2",
@@ -199,9 +237,9 @@
     "main",
     "image_with_text_overlay_p3yCVc",
     "rich_text_zYL8Ab",
+    "multi_column_yrDViH",
+    "multi_column_wPmAgq",
     "scrolling_banner_V8X97L",
-    "product_list_gk4gHe",
-    "scrolling_banner_qXrcWj",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
