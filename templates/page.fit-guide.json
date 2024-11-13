@@ -1,1 +1,272 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"full_width":false}},"image_with_text_overlay_86N4FX":{"type":"image-with-text-overlay","blocks":{"heading_BfYeen":{"type":"heading","settings":{"title":"Find Your Perfect Fit","heading_max_width":19,"title_size":90,"title_size_mobile":32,"use_h1":false}},"text_aqrDnK":{"type":"text","settings":{"text":"<h2>Denim Fit Guide<\/h2>","enlarge_text":true}}},"block_order":["heading_BfYeen","text_aqrDnK"],"settings":{"image":"shopify:\/\/shop_images\/Screenshot_2024-02-13_at_16.37.32.png","height":"full","height_desktop":600,"height_mobile":460,"image_link":"","full_width":true,"text_alignment":"center center","mobile_overlay_under":false,"overlay_style":"shadow"}},"rich_text_zYL8Ab":{"type":"rich-text","blocks":{"text_rxGc7W":{"type":"text","settings":{"text":"<p><strong>We create elevated essentials and timeless wardrobe staples that allow for continuous reinvention and recreation. Our NOS collection features a range of classic silhouettes, designed with a focus on longevity and everyday wearability.<\/strong><\/p>","enlarge_text":true}}},"block_order":["text_rxGc7W"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"collection_list_jxjN7b":{"type":"collection-list","blocks":{"collection_QihbJJ":{"type":"collection","settings":{"collection":"skinny","subheading":"","button_label":""}},"collection_CCxVay":{"type":"collection","settings":{"collection":"slim-fits-women","subheading":"","button_label":""}},"collection_qc3UYA":{"type":"collection","settings":{"collection":"tapered-fits-women","subheading":"","button_label":""}},"collection_7wGQ9D":{"type":"collection","settings":{"collection":"straight-w","subheading":"","button_label":""}},"collection_QNALM7":{"type":"collection","settings":{"collection":"flared","subheading":"","button_label":""}},"collection_fbzfcc":{"type":"collection","settings":{"collection":"loose-fits","subheading":"","button_label":""}}},"block_order":["collection_QihbJJ","collection_CCxVay","collection_qc3UYA","collection_7wGQ9D","collection_QNALM7","collection_fbzfcc"],"settings":{"title":"Fits for Women","enable_carousel":true,"grid":4,"color_scheme":"default","full_width":true,"coll_grid_image_shape":"portrait-23","coll_grid_image_position":"center center","coll_thumb_mob_per_row":"2","coll_grid_show_count":false,"coll_text_position":"over-full image-overlay--bg-shadow","coll_text_position_under_mobile":false,"coll_thumb_text_align_x":"center","coll_thumb_text_align_y":"center","coll_button_style":"primary"}},"collection_list_wPdRnG":{"type":"collection-list","blocks":{"collection_qfD3F9":{"type":"collection","settings":{"collection":"slim","subheading":"","button_label":""}},"collection_4wdVfX":{"type":"collection","settings":{"collection":"tapered","subheading":"","button_label":""}},"collection_DzkkRG":{"type":"collection","settings":{"collection":"straight","subheading":"","button_label":""}},"collection_XMJ8NU":{"type":"collection","settings":{"collection":"loose","subheading":"","button_label":""}}},"block_order":["collection_qfD3F9","collection_4wdVfX","collection_DzkkRG","collection_XMJ8NU"],"settings":{"title":"Fits for Men","enable_carousel":true,"grid":4,"color_scheme":"default","full_width":true,"coll_grid_image_shape":"portrait-23","coll_grid_image_position":"center center","coll_thumb_mob_per_row":"2","coll_grid_show_count":false,"coll_text_position":"over-full image-overlay--bg-shadow","coll_text_position_under_mobile":false,"coll_thumb_text_align_x":"center","coll_thumb_text_align_y":"center","coll_button_style":"primary"}},"gallery_7jtE4H":{"type":"gallery","blocks":{"media_7QcgQU":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/NEW-IN---Women_3210cfaf-5672-47a2-a11c-364befefd556.png","enlarge_media":false,"subheading":"","title":"","button_label":"Shop Women","link":"shopify:\/\/collections\/jeans-women","text_alignment":"center center"}},"media_tb8NE6":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/NEW-IN---Men_ed6f31f9-4896-436c-80e7-10b742c7eb95.png","enlarge_media":false,"subheading":"","title":"","button_label":"Shop Men","link":"shopify:\/\/collections\/jeans-women","text_alignment":"center center"}}},"block_order":["media_7QcgQU","media_tb8NE6"],"settings":{"grid_desktop":2,"grid_mobile":"2","height":"adapt","desktop_image_height":500,"mobile_image_height":400,"title_size":30,"title_size_mobile":22,"enable_margin":false,"enable_row_spacing":false,"full_width":true,"color_scheme":"default","enable_carousel":false,"overlay_style":"full","button_style":"secondary"}}},"order":["main","image_with_text_overlay_86N4FX","rich_text_zYL8Ab","collection_list_jxjN7b","collection_list_wPdRnG","gallery_7jtE4H"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "image_with_text_overlay_86N4FX": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_BfYeen": {
+          "type": "heading",
+          "settings": {
+            "title": "Find Your Perfect Fit",
+            "heading_max_width": 19,
+            "title_size": 90,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_aqrDnK": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Denim Fit Guide</h2>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_BfYeen",
+        "text_aqrDnK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-02-13_at_16.37.32.png",
+        "height": "full",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "rich_text_zYL8Ab": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rxGc7W": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We create elevated essentials and timeless wardrobe staples that allow for continuous reinvention and recreation. Our Never Out of Stock collection features a range of classic silhouettes, designed with a focus on longevity and everyday wearability.</strong></p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_rxGc7W"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "collection_list_jxjN7b": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_QihbJJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "skinny",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_CCxVay": {
+          "type": "collection",
+          "settings": {
+            "collection": "slim-fits-women",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_qc3UYA": {
+          "type": "collection",
+          "settings": {
+            "collection": "tapered-fits-women",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_7wGQ9D": {
+          "type": "collection",
+          "settings": {
+            "collection": "straight-w",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_QNALM7": {
+          "type": "collection",
+          "settings": {
+            "collection": "flared",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_fbzfcc": {
+          "type": "collection",
+          "settings": {
+            "collection": "loose-fits",
+            "subheading": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_QihbJJ",
+        "collection_CCxVay",
+        "collection_qc3UYA",
+        "collection_7wGQ9D",
+        "collection_QNALM7",
+        "collection_fbzfcc"
+      ],
+      "settings": {
+        "title": "Fits for Women",
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true,
+        "coll_grid_image_shape": "portrait-23",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": false,
+        "coll_text_position": "over-full image-overlay--bg-shadow",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "primary"
+      }
+    },
+    "collection_list_wPdRnG": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_qfD3F9": {
+          "type": "collection",
+          "settings": {
+            "collection": "slim",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_4wdVfX": {
+          "type": "collection",
+          "settings": {
+            "collection": "tapered",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_DzkkRG": {
+          "type": "collection",
+          "settings": {
+            "collection": "straight",
+            "subheading": "",
+            "button_label": ""
+          }
+        },
+        "collection_XMJ8NU": {
+          "type": "collection",
+          "settings": {
+            "collection": "loose",
+            "subheading": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_qfD3F9",
+        "collection_4wdVfX",
+        "collection_DzkkRG",
+        "collection_XMJ8NU"
+      ],
+      "settings": {
+        "title": "Fits for Men",
+        "enable_carousel": true,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true,
+        "coll_grid_image_shape": "portrait-23",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": false,
+        "coll_text_position": "over-full image-overlay--bg-shadow",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "primary"
+      }
+    },
+    "gallery_7jtE4H": {
+      "type": "gallery",
+      "blocks": {
+        "media_7QcgQU": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/NEW-IN---Women_3210cfaf-5672-47a2-a11c-364befefd556.png",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "Shop Women",
+            "link": "shopify://collections/jeans-women",
+            "text_alignment": "center center"
+          }
+        },
+        "media_tb8NE6": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/NEW-IN---Men_ed6f31f9-4896-436c-80e7-10b742c7eb95.png",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "Shop Men",
+            "link": "shopify://collections/jeans-women",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "media_7QcgQU",
+        "media_tb8NE6"
+      ],
+      "settings": {
+        "grid_desktop": 2,
+        "grid_mobile": "2",
+        "height": "adapt",
+        "desktop_image_height": 500,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "color_scheme": "default",
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_86N4FX",
+    "rich_text_zYL8Ab",
+    "collection_list_jxjN7b",
+    "collection_list_wPdRnG",
+    "gallery_7jtE4H"
+  ]
+}
