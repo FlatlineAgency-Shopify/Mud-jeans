@@ -31,6 +31,35 @@
         "overlay_style": "full image-overlay--bg-shadow"
       }
     },
+    "rich_text_RWPCqw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7XiV7d": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "text_dTHMcE": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Choose Premium Circular Denim.<br/>And Save More Than Just Money.</h1>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_7XiV7d",
+        "text_dTHMcE"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "rich_text_zYL8Ab": {
       "type": "rich-text",
       "blocks": {
@@ -277,6 +306,7 @@
   "order": [
     "main",
     "image_with_text_overlay_p3yCVc",
+    "rich_text_RWPCqw",
     "rich_text_zYL8Ab",
     "scrolling_banner_V8X97L",
     "image_with_text_7FhB6D",
