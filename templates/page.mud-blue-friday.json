@@ -66,7 +66,7 @@
         "text_tbQ3cF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>With our 25% discount you save money and the planet. </strong></p><p>For the next four days, we’re making it about impact, not just discounts. Every pair of MUD Jeans helps save virgin cotton and conserves water, using 460 liters per pair versus up to 7,000 for regular jeans—85% of which is recycled. By choosing MUD, you’re also supporting fair wages and protecting farmers from harmful chemicals, helping reduce CO2 emissions for a healthier planet.This isn’t just Black Friday—it’s Impact Days. We’re not just offering deals, we’re offering a choice. A choice to make a real difference.<br/><br/><strong>Let’s turn Black Friday Blue.</strong></p>",
+            "text": "<p><strong>With our 25% discount you save money and the planet. </strong></p><p>For the next four days, we’re making it about impact, not just discounts. Every pair of MUD Jeans helps save virgin cotton and conserves water, using 460 liters per pair versus up to 7,000 for regular jeans—85% of which is recycled. By choosing MUD, you’re also supporting fair wages and protecting farmers from harmful chemicals, helping reduce CO2 emissions for a healthier planet.This isn’t just Black Friday—it’s Impact Days. We’re not just offering deals, we’re offering a choice. A choice to make a real difference.<br/><br/><strong>Turn Black Friday Blue.</strong></p>",
             "enlarge_text": true
           }
         },
@@ -105,7 +105,7 @@
         "text_pYFhAr": {
           "type": "text",
           "settings": {
-            "text": "LET'S TURN BLACK FRIDAY BLUE",
+            "text": "TURN BLACK FRIDAY BLUE",
             "color": "#dedede",
             "link": "",
             "use_h1": false,
