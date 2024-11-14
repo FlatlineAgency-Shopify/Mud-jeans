@@ -44,7 +44,7 @@
         "text_dTHMcE": {
           "type": "text",
           "settings": {
-            "text": "<h1>Choose Premium Circular Denim.<br/>And Save More Than Just Money.</h1>",
+            "text": "<h1><strong>Choose Premium Circular Denim.<br/>And Save More Than Just Money.</strong></h1>",
             "enlarge_text": true
           }
         }
@@ -63,13 +63,6 @@
     "rich_text_zYL8Ab": {
       "type": "rich-text",
       "blocks": {
-        "heading_bc4fMW": {
-          "type": "heading",
-          "settings": {
-            "title": "Choose Premium Circular Denim. And Save More Than Just Money.",
-            "use_h1": true
-          }
-        },
         "text_tbQ3cF": {
           "type": "text",
           "settings": {
@@ -95,7 +88,6 @@
         }
       },
       "block_order": [
-        "heading_bc4fMW",
         "text_tbQ3cF",
         "button_MTfbEf",
         "button_YQpHRF"
