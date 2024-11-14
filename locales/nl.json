@@ -70,7 +70,8 @@
       "tags": "Getagd \"{{ tags }}\""
     },
     "multi_size_popup": {
-      "heading": "Wist je dat je door de juiste maat te kiezen, de milieu-impact van leveringen en retourzendingen kunt verminderen?"
+      "heading": "Wist je dat je door de juiste maat te kiezen, de milieu-impact van leveringen en retourzendingen kunt verminderen?",
+      "text": "Vind de beste maat voor jou door op de link “Wat is mijn maat?” op de productpagina te klikken. Dank je wel. Elke keuze die je maakt, helpt mee aan een duurzamere toekomst."
     }
   },
   "accessibility": {
