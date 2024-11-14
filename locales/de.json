@@ -70,7 +70,8 @@
       "tags": "Getaggt \"{{ tags }}\""
     },
     "multi_size_popup": {
-      "heading": "Wusstest du, dass du durch die Auswahl der richtigen Größe die Umweltbelastung durch Lieferungen und Rücksendungen reduzieren kannst?"
+      "heading": "Wusstest du, dass du durch die Auswahl der richtigen Größe die Umweltbelastung durch Lieferungen und Rücksendungen reduzieren kannst?",
+      "text": "Finde deine beste Passform, indem du auf den Link “Was ist meine Größe?” auf der Produktseite klickst. Danke. Jede Entscheidung, die du triffst, trägt dazu bei, eine nachhaltigere Zukunft zu gestalten."
     }
   },
   "accessibility": {
