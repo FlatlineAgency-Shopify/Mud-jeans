@@ -91,18 +91,17 @@
     },
     "product_list_6JbYTM": {
       "type": "product-list",
-      "disabled": true,
       "settings": {
         "title": "",
         "product_list": [
-          "easy-go-used-black",
           "mams-stretch-tapered-heavy-black-stone",
+          "easy-go-used-black",
           "easy-go-sunny-stone",
           "sky-rise-skinny-strong-blue",
           "moore-denim-pants-stone-washed"
         ],
         "show_vendor": false,
-        "enable_carousel": false,
+        "enable_carousel": true,
         "grid": 4,
         "color_scheme": "default",
         "full_width": true
