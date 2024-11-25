@@ -675,7 +675,7 @@
 
           {% when 'accordion' %}
             {%- liquid
-              assign content = block.settings.content
+              assign content = if block.settings.content_html != blank block.settings.content_html else block.settings.content
               if block.settings.page != blank
                 assign content = pages[block.settings.page].content
               endif
@@ -1354,6 +1354,61 @@
       .catch((error) => console.error('Error fetching cart:', error));
   });
 </script>
+
+<h1>Hello</h1>
+
+
+<script src="https://cdn.shopify.com/extensions/afe6c813-07ad-4629-be96-b1700c2156ed/tex-tracer-32/assets/loadScripts.js"></script>
+
+<style>
+  .tracer-optional-text, .tracer-map__map {
+    display: none;
+  }
+
+  .tex-tracer-app__data {
+    display: block !important;
+  }
+
+  .width-half {
+    width: 100% !important;
+ 
+  }
+
+  .tracer-map__text p{
+    font-size: 14px !important;
+    font-family: "Basic Commercial", sans-serif !important;
+  }
+
+  .tracer-map__text p::after {
+    content: none !important;
+  }
+</style>
+
+<div class="tex-tracer-app-wrapper">
+  <div class="tex-tracer-app" data-shop-name="{{- shop.permanent_domain -}}" data-product-id="{{- product.id -}}">
+    <div class="tex-tracer-app__data"></div>
+  </div>
+</div>
+
+<script type="application/json" id="texTracerBlockOptions">
+{
+  "mapText": "our impact.", {% comment %} This text will be displayed below the map {% endcomment %}
+  "footprintGraphs": {
+    "firstGraphIconText": "{$}% water saved", {% comment %} '{$}' will be replaced with the dynamic value. This text will be displayed below the icon {% endcomment %}
+    "firstGraphText": "Equal to {$} filled bathtubs", {% comment %} '{$}' will be replaced with the dynamic value. This text will be displayed below the graph {% endcomment %}
+    "secondGraphIconText": "{$}% CO2 saved", {% comment %} '{$}' will be replaced with the dynamic value. This text will be displayed below the icon {% endcomment %}
+    "secondGraphText": "Equal to {$}km by car", {% comment %} '{$}' will be replaced with the dynamic value. This text will be displayed below the graph {% endcomment %}
+    "additionalInfo": "<p>* Savings compared to conventional products. Find out more.</p>"
+  },
+  "optionalText": {
+    "heading": "Footprint", 
+    "text": "<p>We use primary source data to follow the journey of our products.</p>"
+  },
+  "modalHeading": "The journey of this product"
+}
+</script>
+
+<h1>Hello</h1>
 
 {% schema %}
 {
@@ -2214,6 +2269,11 @@
           "id": "content",
           "label": "Tab content",
           "default": "<p>Collapsible tab content</p>"
+        },
+        {
+          "type": "html",
+          "id": "content_html",
+          "label": "Tab html content"
         },
         {
           "type": "page",
