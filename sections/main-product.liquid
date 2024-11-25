@@ -675,7 +675,11 @@
 
           {% when 'accordion' %}
             {%- liquid
-              assign content = if block.settings.content_html != blank block.settings.content_html else block.settings.content
+              if block.settings.content_html != blank
+                assign content = block.settings.content_html
+              else
+                  assign content = block.settings.content
+              endif
               if block.settings.page != blank
                 assign content = pages[block.settings.page].content
               endif
