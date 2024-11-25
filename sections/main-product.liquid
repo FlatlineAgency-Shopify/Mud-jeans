@@ -1,3 +1,43 @@
+
+<style>
+  .tex-tracer-app-wrapper{
+    padding: 0 !important;
+  }
+
+  .sustainability-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
+
+  .sustainability-wrapper p{
+    margin: 0 !important;
+  }
+  
+  .tracer-optional-text, .tracer-map__map {
+    display: none;
+  }
+
+  .tex-tracer-app__data {
+    display: block !important;
+  }
+
+  .width-half {
+    width: 100% !important;
+  }
+
+  .tracer-map__text p{
+    font-size: 14px !important;
+    font-family: "Basic Commercial", sans-serif !important;
+    margin: 0 !important;
+    font-weight: 400 !important;
+  }
+
+  .tracer-map__text p::after {
+    content: none !important;
+  }
+</style>
+
 {%- liquid
   assign zoom_size = 5000
   assign min_aspect_ratio = 0.6
@@ -675,11 +715,7 @@
 
           {% when 'accordion' %}
             {%- liquid
-              if block.settings.content_html != blank
-                assign content = block.settings.content_html
-              else
-                  assign content = block.settings.content
-              endif
+              assign content = block.settings.content
               if block.settings.page != blank
                 assign content = pages[block.settings.page].content
               endif
@@ -708,7 +744,18 @@
                     </summary>
                     <div class="disclosure__panel has-motion">
                       <div class="disclosure__content rte cf">
-                        {{- content -}}
+                        {% if block.settings.title == 'Sustainability' %}
+                          <div class="sustainability-wrapper">
+                            <p>Read more about</p>
+                            <div class="tex-tracer-app-wrapper">
+                              <div class="tex-tracer-app" data-shop-name="{{- shop.permanent_domain -}}" data-product-id="{{- product.id -}}">
+                                <div class="tex-tracer-app__data"></div>
+                              </div>
+                            </div>
+                          </div>
+                        {% else %}
+                          {{- content -}}
+                        {% endif %}
                       </div>
                     </div>
                   </details>
@@ -1359,41 +1406,9 @@
   });
 </script>
 
-<h1>Hello</h1>
-
-
 <script src="https://cdn.shopify.com/extensions/afe6c813-07ad-4629-be96-b1700c2156ed/tex-tracer-32/assets/loadScripts.js"></script>
 
-<style>
-  .tracer-optional-text, .tracer-map__map {
-    display: none;
-  }
 
-  .tex-tracer-app__data {
-    display: block !important;
-  }
-
-  .width-half {
-    width: 100% !important;
- 
-  }
-
-  .tracer-map__text p{
-    font-size: 14px !important;
-    font-family: "Basic Commercial", sans-serif !important;
-    font-weight: 400 !important;
-  }
-
-  .tracer-map__text p::after {
-    content: none !important;
-  }
-</style>
-
-<div class="tex-tracer-app-wrapper">
-  <div class="tex-tracer-app" data-shop-name="{{- shop.permanent_domain -}}" data-product-id="{{- product.id -}}">
-    <div class="tex-tracer-app__data"></div>
-  </div>
-</div>
 
 <script type="application/json" id="texTracerBlockOptions">
 {
@@ -1412,8 +1427,6 @@
   "modalHeading": "The journey of this product"
 }
 </script>
-
-<h1>Hello</h1>
 
 {% schema %}
 {
