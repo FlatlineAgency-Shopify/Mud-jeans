@@ -70,7 +70,8 @@
       "tags": "Tagged \"{{ tags }}\""
     },
     "multi_size_popup": {
-      "heading": "Saviez-vous qu'en choisissant la bonne taille, vous pouvez réduire l'impact environnemental des livraisons et des retours?"
+      "heading": "Saviez-vous qu'en choisissant la bonne taille, vous pouvez réduire l'impact environnemental des livraisons et des retours?",
+      "text": "Trouvez la taille qui vous convient en cliquant sur le lien \"Quelle est ma taille ?\" sur la page produit. Merci. Chaque choix que vous faites aide à construire un avenir plus durable."
     }
   },
   "accessibility": {
