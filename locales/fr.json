@@ -124,7 +124,7 @@
         "one": "{{ count }} avis",
         "other": "{{ count }} avis"
       },
-      "sale": "Solde",
+      "sale": "Blue Friday",
       "shipping_policy_html": "<a href=\"{{ link }}\">Frais de livraison</a> calculés lors du paiement.",
       "size_chart": "Guide des tailles",
       "sku": "SKU :",
