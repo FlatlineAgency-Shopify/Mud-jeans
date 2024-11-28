@@ -125,7 +125,7 @@
         "one": "{{ count }} review",
         "other": "{{ count }} reviews"
       },
-      "sale": "Sale",
+      "sale": "Blue Friday",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> calculated at checkout.",
       "size_chart": "Size guide",
       "sku": "SKU:",
