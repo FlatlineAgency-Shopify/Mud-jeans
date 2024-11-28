@@ -124,7 +124,7 @@
         "one": "{{ count }} beoordeling",
         "other": "{{ count }} beoordelingen"
       },
-      "sale": "Uitverkoop",
+      "sale": "Blue Friday",
       "shipping_policy_html": "<a href=\"{{ link }}\">Verzending</a> berekend bij het afrekenen.",
       "size_chart": "Maattabel",
       "sku": "SKU:",
