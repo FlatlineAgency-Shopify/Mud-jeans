@@ -32,10 +32,32 @@
             "button_url_2": "shopify://collections/new-in-men-1",
             "text_alignment": "center center"
           }
+        },
+        "image_rkAq3P": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MUD-Jeans-Blue-Friday-2.jpg",
+            "mobile_image": "shopify://shop_images/MUD-Jeans-Blue-Friday-2-Mobile.jpg",
+            "slide_link": "",
+            "subheading": "THIS BLACK FRIDAY, SAVE MORE THAN JUST MONEY.",
+            "title": "TURN BLACK FRIDAY BLUE",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<h4><strong>25% OFF CIRCULAR JEANS</strong></h4>",
+            "enlarge_text": true,
+            "button_label_1": "WOMEN",
+            "button_url_1": "shopify://collections/blue-friday-women",
+            "button_label_2": "MEN",
+            "button_url_2": "shopify://collections/blue-friday-men",
+            "text_alignment": "center center"
+          }
         }
       },
       "block_order": [
-        "16359276425da8ce46-0"
+        "16359276425da8ce46-0",
+        "image_rkAq3P"
       ],
       "settings": {
         "height": "fixed",
