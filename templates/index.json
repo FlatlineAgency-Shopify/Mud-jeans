@@ -27,9 +27,9 @@
             "text": "<h4><strong>25% OFF CIRCULAR JEANS</strong></h4>",
             "enlarge_text": true,
             "button_label_1": "Shop Women",
-            "button_url_1": "shopify://collections/new-in-women",
+            "button_url_1": "shopify://collections/blue-friday-women",
             "button_label_2": "Shop Men",
-            "button_url_2": "shopify://collections/new-in-men-1",
+            "button_url_2": "shopify://collections/blue-friday-men",
             "text_alignment": "center center"
           }
         },
