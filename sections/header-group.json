@@ -1,1 +1,197 @@
-{"type":"header","name":"Header Group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-1":{"type":"announcement","disabled":true,"settings":{"text":"Invest in MUD Jeans! <a href=\"https:\/\/platform.eyevestor.com\/eyeventures\/NL_MUD?lang=en&tab=home\" target=\"_blank\" title=\"https:\/\/platform.eyevestor.com\/eyeventures\/NL_MUD?lang=en&tab=home\">Become a co-owner today.<\/a>","show_countdown":false,"hide_on_end":false,"end_date":"","end_time":"","number_font":"base","countdown_separator":"box"}},"announcement_BEnDtb":{"type":"announcement","settings":{"text":"New Fall-Winter Collection <a href=\"https:\/\/mudjeans.com\/pages\/feeling-good\" title=\"https:\/\/mudjeans.com\/pages\/feeling-good\">Now Online.<\/a>","show_countdown":false,"hide_on_end":false,"end_date":"","end_time":"","number_font":"base","countdown_separator":"box"}}},"block_order":["announcement-1","announcement_BEnDtb"],"settings":{"announcement_bar_col":"#202020","announcement_text_col":"#ffffff","message_font_size":14,"show_social_icons":false,"menu":"","enable_country_selector":false,"enable_language_selector":true}},"header":{"type":"header","blocks":{"menu_promotion_small_W76UiH":{"type":"menu-promotion-small","settings":{"dropdown_link_title":"Women","image":"shopify:\/\/shop_images\/Home-Menu-FW24.png","title":"NEW IN","link_url":"shopify:\/\/collections\/new-styles-women"}},"menu_promotion_small_48cnh3":{"type":"menu-promotion-small","settings":{"dropdown_link_title":"Women","image":"shopify:\/\/shop_images\/MUD-Jeans-SALE.png","title":"SALE","link_url":"shopify:\/\/pages\/sale-women-mud-jeans"}},"menu_promotion_small_jtakWe":{"type":"menu-promotion-small","settings":{"dropdown_link_title":"MEN","image":"shopify:\/\/shop_images\/Home-Menu-FW24.png","title":"NEW IN","link_url":"shopify:\/\/collections\/new-styles-men"}},"menu_promotion_small_GDEzEx":{"type":"menu-promotion-small","settings":{"dropdown_link_title":"Men","image":"shopify:\/\/shop_images\/MUD-Jeans-SALE.png","title":"SALE","link_url":"shopify:\/\/pages\/sale-men-mud-jeans"}},"menu_promotion_small_KLjiwJ":{"type":"menu-promotion-small","settings":{"dropdown_link_title":"Sustainability","image":"shopify:\/\/shop_images\/Denim-Care-MUD-Jeans.png","title":"DENIM CARE GUIDE","link_url":"shopify:\/\/pages\/wash-consciously-mud-jeans"}},"menu_promotion_small_x6XjHi":{"type":"menu-promotion-small","settings":{"dropdown_link_title":"Sustainability","image":"shopify:\/\/shop_images\/Sustainability-Report-MUD-Jeans.png","title":"IMPACT REPORT","link_url":"shopify:\/\/pages\/sustainability-report-mud-jeans"}}},"block_order":["menu_promotion_small_W76UiH","menu_promotion_small_48cnh3","menu_promotion_small_jtakWe","menu_promotion_small_GDEzEx","menu_promotion_small_KLjiwJ","menu_promotion_small_x6XjHi"],"settings":{"logo":"shopify:\/\/shop_images\/MUD-Jeans.svg","logo_img_width_int":90,"mobile_logo_img_width_int":100,"logo_h1":true,"enable_sticky":true,"enable_transparent":false,"transparent_color":"#ffffff","menu_linklist":"main-menu-mud-jeans","menu_layout":"inline-menu-left","nav_featured_link":"","menu_linklist_mobile":"main-menu-mud-jeans","mobile_expand_with_entire_link":true,"enable_mobile_promo_carousel":true,"enable_nav_mob_products":false,"nav_mob_products_title":"Best Sellers","nav_mob_products_collection":"shorts-skirts","enable_search":true,"search_recommendations_title":"Recommendations","search_recommendations_menu":"main-menu-mud-jeans","icon_strategy":"icons_all","cart_icon":"bag"}},"store-messages":{"type":"store-messages","blocks":{"1601308104445":{"type":"message","settings":{"heading":"","subheading":"Free shipping on orders over $100","link_url":""}},"1601308125690":{"type":"message","settings":{"heading":"","subheading":"Free Click & Collect to US stores*","link_url":""}},"1601308127822":{"type":"message","settings":{"heading":"","subheading":"Free and easy domestic returns","link_url":""}}},"block_order":["1601308104445","1601308125690","1601308127822"],"disabled":true,"settings":{"head_not_home_only":false,"head_not_col_bg":"#f4f6f8","head_not_col_txt1":"#171717","head_not_col_txt2":"#4c4c4b","head_not_mob_show":true,"head_not_mob_text":"Free shipping on orders over $100","head_not_mob_url":""}}},"order":["announcement-bar","header","store-messages"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Invest in MUD Jeans! <a href=\"https://platform.eyevestor.com/eyeventures/NL_MUD?lang=en&tab=home\" target=\"_blank\" title=\"https://platform.eyevestor.com/eyeventures/NL_MUD?lang=en&tab=home\">Become a co-owner today.</a>",
+            "show_countdown": false,
+            "hide_on_end": false,
+            "end_date": "",
+            "end_time": "",
+            "number_font": "base",
+            "countdown_separator": "box"
+          }
+        },
+        "announcement_BEnDtb": {
+          "type": "announcement",
+          "settings": {
+            "text": "New Fall-Winter Collection <a href=\"https://mudjeans.com/pages/feeling-good\" title=\"https://mudjeans.com/pages/feeling-good\">Now Online.</a>",
+            "show_countdown": false,
+            "hide_on_end": false,
+            "end_date": "",
+            "end_time": "",
+            "number_font": "base",
+            "countdown_separator": "box"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1",
+        "announcement_BEnDtb"
+      ],
+      "settings": {
+        "announcement_bar_col": "#202020",
+        "announcement_text_col": "#ffffff",
+        "message_font_size": 14,
+        "show_social_icons": false,
+        "menu": "",
+        "enable_country_selector": false,
+        "enable_language_selector": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "menu_promotion_small_W76UiH": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "Women",
+            "image": "shopify://shop_images/Home-Menu-FW24.png",
+            "title": "NEW IN",
+            "link_url": "shopify://collections/new-styles-women"
+          }
+        },
+        "menu_promotion_small_48cnh3": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "Women",
+            "image": "shopify://shop_images/MUD-Jeans-Sale_4610a3a7-d2e6-4fb7-880e-f0c80457e57c.png",
+            "title": "BLUE FRIDAY SALE",
+            "link_url": "shopify://collections/blue-friday-women"
+          }
+        },
+        "menu_promotion_small_jtakWe": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "MEN",
+            "image": "shopify://shop_images/Home-Menu-FW24.png",
+            "title": "NEW IN",
+            "link_url": "shopify://collections/new-styles-men"
+          }
+        },
+        "menu_promotion_small_GDEzEx": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "Men",
+            "image": "shopify://shop_images/MUD-Jeans-SALE.png",
+            "title": "SALE",
+            "link_url": "shopify://pages/sale-men-mud-jeans"
+          }
+        },
+        "menu_promotion_small_KLjiwJ": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "Sustainability",
+            "image": "shopify://shop_images/Denim-Care-MUD-Jeans.png",
+            "title": "DENIM CARE GUIDE",
+            "link_url": "shopify://pages/wash-consciously-mud-jeans"
+          }
+        },
+        "menu_promotion_small_x6XjHi": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "Sustainability",
+            "image": "shopify://shop_images/Sustainability-Report-MUD-Jeans.png",
+            "title": "IMPACT REPORT",
+            "link_url": "shopify://pages/sustainability-report-mud-jeans"
+          }
+        }
+      },
+      "block_order": [
+        "menu_promotion_small_W76UiH",
+        "menu_promotion_small_48cnh3",
+        "menu_promotion_small_jtakWe",
+        "menu_promotion_small_GDEzEx",
+        "menu_promotion_small_KLjiwJ",
+        "menu_promotion_small_x6XjHi"
+      ],
+      "settings": {
+        "logo": "shopify://shop_images/MUD-Jeans.svg",
+        "logo_img_width_int": 90,
+        "mobile_logo_img_width_int": 100,
+        "logo_h1": true,
+        "enable_sticky": true,
+        "enable_transparent": false,
+        "transparent_color": "#ffffff",
+        "menu_linklist": "main-menu-mud-jeans",
+        "menu_layout": "inline-menu-left",
+        "nav_featured_link": "",
+        "menu_linklist_mobile": "main-menu-mud-jeans",
+        "mobile_expand_with_entire_link": true,
+        "enable_mobile_promo_carousel": true,
+        "enable_nav_mob_products": false,
+        "nav_mob_products_title": "Best Sellers",
+        "nav_mob_products_collection": "shorts-skirts",
+        "enable_search": true,
+        "search_recommendations_title": "Recommendations",
+        "search_recommendations_menu": "main-menu-mud-jeans",
+        "icon_strategy": "icons_all",
+        "cart_icon": "bag"
+      }
+    },
+    "store-messages": {
+      "type": "store-messages",
+      "blocks": {
+        "1601308104445": {
+          "type": "message",
+          "settings": {
+            "heading": "",
+            "subheading": "Free shipping on orders over $100",
+            "link_url": ""
+          }
+        },
+        "1601308125690": {
+          "type": "message",
+          "settings": {
+            "heading": "",
+            "subheading": "Free Click & Collect to US stores*",
+            "link_url": ""
+          }
+        },
+        "1601308127822": {
+          "type": "message",
+          "settings": {
+            "heading": "",
+            "subheading": "Free and easy domestic returns",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1601308104445",
+        "1601308125690",
+        "1601308127822"
+      ],
+      "disabled": true,
+      "settings": {
+        "head_not_home_only": false,
+        "head_not_col_bg": "#f4f6f8",
+        "head_not_col_txt1": "#171717",
+        "head_not_col_txt2": "#4c4c4b",
+        "head_not_mob_show": true,
+        "head_not_mob_text": "Free shipping on orders over $100",
+        "head_not_mob_url": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "store-messages"
+  ]
+}
