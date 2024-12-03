@@ -70,9 +70,9 @@
           "type": "menu-promotion-small",
           "settings": {
             "dropdown_link_title": "Women",
-            "image": "shopify://shop_images/MUD-Jeans-Sale_465f8a8b-fa77-4893-8404-e5b4beac2e72.png",
-            "title": "BLUE FRIDAY SALE",
-            "link_url": "shopify://collections/blue-friday-women"
+            "image": "shopify://shop_images/MUD-Jeans-SALE.png",
+            "title": "SALE",
+            "link_url": "shopify://pages/sale-women-mud-jeans"
           }
         },
         "menu_promotion_small_jtakWe": {
@@ -88,9 +88,9 @@
           "type": "menu-promotion-small",
           "settings": {
             "dropdown_link_title": "Men",
-            "image": "shopify://shop_images/MUD-Jeans-Sale_465f8a8b-fa77-4893-8404-e5b4beac2e72.png",
-            "title": "BLUE FRIDAY SALE",
-            "link_url": "shopify://collections/blue-friday-men"
+            "image": "shopify://shop_images/Website-Banner-SALE-Mobile_a8e14548-b347-41ef-90cc-d3786ac3e410.jpg",
+            "title": "SALE",
+            "link_url": "shopify://pages/sale-women-mud-jeans"
           }
         },
         "menu_promotion_small_KLjiwJ": {
