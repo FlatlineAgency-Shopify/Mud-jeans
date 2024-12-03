@@ -691,6 +691,13 @@
                 {% endif %}
               {% endcomment %}
             </buy-buttons>
+            {% if block.settings.show_payment_icons %}
+            <div class="pdp__payment-icons">
+              {% for type in shop.enabled_payment_types %}
+                {{ type | payment_type_svg_tag: class: 'pdp__payment-icon' }}
+              {% endfor %}
+            </div>
+            {% endif %}
 
           {% when 'inventory-level' %}
             <div
@@ -2008,7 +2015,13 @@
           "id": "show_lease_option",
           "default": false,
           "label": "Show lease option"
-        }
+        },
+        {
+          "type": "checkbox",
+          "id": "show_payment_icons",
+          "label": "Show payment icons",
+          "default": true
+        },
       ]
     },
     {
