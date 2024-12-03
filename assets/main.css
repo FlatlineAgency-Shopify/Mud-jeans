@@ -12531,6 +12531,7 @@ model-viewer .container {
 .pdp__payment-icons {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 10px;
   margin: 0px 0 40px;
 }
