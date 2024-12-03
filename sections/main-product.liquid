@@ -41,13 +41,15 @@
     {{ 'general.multi_size_popup.text' | t }}
   </p>
 
-  {% comment %} <div class="button-group">
-    <a href="/pages/size-chart-mud-jeans" >
-      <button class="cta-btn button w-full">
-        {{ 'general.multi_size_popup.button_text' | t }}
-      </button>
-    </a>
-  </div> {% endcomment %}
+  {% comment %}
+    <div class="button-group">
+      <a href="/pages/size-chart-mud-jeans" >
+        <button class="cta-btn button w-full">
+          {{ 'general.multi_size_popup.button_text' | t }}
+        </button>
+      </a>
+    </div>
+  {% endcomment %}
 </div>
 
 {%- if product.media.size > 1 -%}
@@ -595,21 +597,46 @@
                           {{- 'products.product.add_to_cart' | t -}}
                         {%- endif -%}
                       {%- endcapture -%}
-                      <button
-                        class="btn btn--large add-to-cart"
-                        type="submit"
-                        name="add"
-                        data-add-to-cart-text="{{ add_to_cart_text | escape }}"
-                        {% if product.available == false %}
-                          disabled
+
+                      <div class="atc-button-group">
+                        <button
+                          class="btn btn--large add-to-cart"
+                          type="submit"
+                          name="add"
+                          data-add-to-cart-text="{{ add_to_cart_text | escape }}"
+                          {% if product.available == false %}
+                            disabled
+                          {% endif %}
+                        >
+                          {%- if current_variant.available or current_variant == false -%}
+                            {{- add_to_cart_text -}}
+                          {%- else -%}
+                            {{- 'products.variant.no_stock' | t -}}
+                          {%- endif -%}
+                        </button>
+
+                        {% if product.tags contains 'FIRMHOUSE_SUBSCRIPTION'
+                          and current_variant.compare_at_price == blank
+                        %}
+                          {% assign showLeaseBtn = true %}
+                        {% else %}
+                          {% assign showLeaseBtn = false %}
                         {% endif %}
-                      >
-                        {%- if current_variant.available or current_variant == false -%}
-                          {{- add_to_cart_text -}}
-                        {%- else -%}
-                          {{- 'products.variant.no_stock' | t -}}
-                        {%- endif -%}
-                      </button>
+
+                        {% if block.settings.show_lease_option and showLeaseBtn %}
+                          {% unless product.tags contains 'preordermud' %}
+                            <button
+                              id="leaseBtn"
+                              class="btn btn--large lease-btn"
+                            >
+                              Lease →
+                            </button>
+                            <p class="size-not-for-lease" style="display: none">
+                              This size is not available for lease at the moment, please check again later.
+                            </p>
+                          {% endunless %}
+                        {% endif %}
+                      </div>
                     </div>
 
                     {% if enable_dynamic_payment_button %}
@@ -642,25 +669,27 @@
                 {% render 'pickup-availability', current_variant: current_variant %}
               {%- endif -%}
 
-              {% if product.tags contains 'FIRMHOUSE_SUBSCRIPTION' and current_variant.compare_at_price == blank %}
-                {% assign showLeaseBtn = true %}
-              {% else %}
-                {% assign showLeaseBtn = false %}
-              {% endif %}
+              {% comment %}
+                {% if product.tags contains 'FIRMHOUSE_SUBSCRIPTION' and current_variant.compare_at_price == blank %}
+                  {% assign showLeaseBtn = true %}
+                {% else %}
+                  {% assign showLeaseBtn = false %}
+                {% endif %}
 
-              {% if block.settings.show_lease_option and showLeaseBtn %}
-                {% unless product.tags contains 'preordermud' %}
-                  <button
-                    id="leaseBtn"
-                    class="lease-btn"
-                  >
-                    Lease this jeans →
-                  </button>
-                  <p class="size-not-for-lease" style="display: none">
-                    This size is not available for lease at the moment, please check again later.
-                  </p>
-                {% endunless %}
-              {% endif %}
+                {% if block.settings.show_lease_option and showLeaseBtn %}
+                  {% unless product.tags contains 'preordermud' %}
+                    <button
+                      id="leaseBtn"
+                      class="lease-btn"
+                    >
+                      Lease this jeans →
+                    </button>
+                    <p class="size-not-for-lease" style="display: none">
+                      This size is not available for lease at the moment, please check again later.
+                    </p>
+                  {% endunless %}
+                {% endif %}
+              {% endcomment %}
             </buy-buttons>
 
           {% when 'inventory-level' %}

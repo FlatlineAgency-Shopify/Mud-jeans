@@ -11830,10 +11830,16 @@ model-viewer .container {
   align-items: center !important;
 }
 
+.atc-button-group{
+  display: flex;
+  align-self: center;
+  gap: 5px;
+}
+
 .lease-btn {
-  width: 100%;
+  width: 30%;
   text-align: center;
-  color: #000;
+  /* color: #000; */
 }
 
 .lease-btn:hover {
