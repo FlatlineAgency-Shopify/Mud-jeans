@@ -12532,6 +12532,6 @@ model-viewer .container {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 5px;
   margin: 0px 0 40px;
 }
