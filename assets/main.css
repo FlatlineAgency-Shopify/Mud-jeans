@@ -12383,14 +12383,26 @@ model-viewer .container {
 }
 
 .lease-btn {
-  width: 40%;
+  width: 25%;
   text-align: center;
   /* color: #000; */
 }
 
+@media screen and (min-width: 768px) {
+.lease-btn {
+  width: 30%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lease-btn {
+    width: 25%;
+    }
+  }
+
 @media screen and (min-width: 1440px) {
   .lease-btn {
-    width: 30%;
+    width: 20%;
   }
 }
 
