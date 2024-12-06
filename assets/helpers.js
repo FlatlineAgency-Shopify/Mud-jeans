@@ -241,9 +241,13 @@ const addToCartFH = async (productIds) => {
         token: subscriptionToken,
       },
     }),
-  });  
+  });
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const currency = urlParams.get('currency');
+  const plan = currency;
 
   const finalData = await finalResponse.json();
   const checkoutUrl = finalData.data.getSubscription.checkoutUrl;
-  window.location.assign(checkoutUrl);
+  window.location.assign(checkoutUrl + `&plan=${plan}`);
 };
