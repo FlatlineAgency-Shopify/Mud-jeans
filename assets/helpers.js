@@ -241,10 +241,7 @@ const addToCartFH = async (productIds) => {
         token: subscriptionToken,
       },
     }),
-  });
-
-  const shopCurrency = theme.Shopify.currency;
-  console.log(`Shop selected currency: ${shopCurrency}`);
+  });  
 
   const finalData = await finalResponse.json();
   const checkoutUrl = finalData.data.getSubscription.checkoutUrl;

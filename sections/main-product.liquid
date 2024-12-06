@@ -1270,6 +1270,8 @@
 
 <script>
   document.addEventListener('on:cart:after-merge', () => {
+    const currency = {{ shop.currency | json }}
+
     fetch('/cart.js')
       .then((response) => response.json())
       .then((cart) => {
@@ -1287,6 +1289,9 @@
         const checkoutButtonContainer = document.querySelector('.checkout-buttons');
         if (checkoutButtonContainer) {
           if (isLease) {
+            const url = new URL(window.location.href); // Get the current URL
+            url.searchParams.set('currency', currency); // Set or update the query parameter
+            window.history.pushState({}, '', url);
             checkoutButtonContainer.innerHTML = `<button onclick="handleFirmHouseCheckout()" class="btn btn--large btn--wide">Checkout</button>`;
           } else {
             checkoutButtonContainer.innerHTML = `
