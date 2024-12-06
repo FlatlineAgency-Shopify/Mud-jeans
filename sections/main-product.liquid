@@ -1270,9 +1270,9 @@
 
 <script>
   document.addEventListener('on:cart:after-merge', () => {
-    const currency = {{ shop.currency | json }}
+    const currency = {{ request.currency | json }}
     console.log(">>", currency);
-    
+
     fetch('/cart.js')
       .then((response) => response.json())
       .then((cart) => {
