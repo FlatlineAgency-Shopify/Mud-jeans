@@ -143,13 +143,6 @@ const addToCartFH = async (productIds) => {
       quantity: productId.quantity ?? 1,
     };
 
-    console.log(">>", input);
-
-    //if (!productId.isLease) {
-    //  input.customPriceCents = productId.price;
-    // input.sku = input.sku + '-OTP'
-    //}
-
     const graphql = JSON.stringify({
       query: `mutation CreateOrderedProduct($input: CreateOrderedProductInput!) {
         createOrderedProduct(input: $input) {
@@ -249,6 +242,9 @@ const addToCartFH = async (productIds) => {
       },
     }),
   });
+
+  const shopCurrency = theme.Shopify.currency;
+  console.log(`Shop selected currency: ${shopCurrency}`);
 
   const finalData = await finalResponse.json();
   const checkoutUrl = finalData.data.getSubscription.checkoutUrl;
