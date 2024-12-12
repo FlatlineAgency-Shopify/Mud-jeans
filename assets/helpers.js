@@ -143,13 +143,6 @@ const addToCartFH = async (productIds) => {
       quantity: productId.quantity ?? 1,
     };
 
-    console.log(">>", input);
-
-    //if (!productId.isLease) {
-    //  input.customPriceCents = productId.price;
-    // input.sku = input.sku + '-OTP'
-    //}
-
     const graphql = JSON.stringify({
       query: `mutation CreateOrderedProduct($input: CreateOrderedProductInput!) {
         createOrderedProduct(input: $input) {
@@ -232,7 +225,7 @@ const addToCartFH = async (productIds) => {
       console.log("leasebtn error >>", data.errors[0].message);
     }
   }
-
+ 
   // After all products are added to the cart, redirect to the checkout URL of the last product added
   const finalResponse = await fetch("https://portal.firmhouse.com/graphql", {
     method: "POST",
@@ -250,7 +243,11 @@ const addToCartFH = async (productIds) => {
     }),
   });
 
+  const urlParams = new URLSearchParams(window.location.search);
+  const currency = urlParams.get('currency');
+  const plan = currency;
+
   const finalData = await finalResponse.json();
   const checkoutUrl = finalData.data.getSubscription.checkoutUrl;
-  window.location.assign(checkoutUrl);
+  window.location.assign(checkoutUrl + `&plan=${plan}`);
 };

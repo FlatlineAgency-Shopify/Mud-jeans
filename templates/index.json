@@ -1,28 +1,28 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16359276425da8ce46": {
       "type": "slideshow",
       "blocks": {
-        "16359276425da8ce46-0": {
+        "image_rkAq3P": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/MUD-Jeans-Static-Banner.jpg",
             "mobile_image": "shopify://shop_images/MUD-Jeans-FW24-Mobile.gif",
             "slide_link": "",
-            "subheading": "NEW STYLES NOW ONLINE",
-            "title": "LOOKS GOOD<br>FEELS GOOD<br> IS GOOD",
-            "heading_max_width": 16,
-            "title_size": 60,
-            "title_size_mobile": 30,
+            "subheading": "CIRCULAR WINTER ESSENTIALS",
+            "title": "LOOKS GOOD<br>FEELS GOOD<br>IS GOOD",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
             "use_h1": false,
             "text": "",
             "enlarge_text": true,
@@ -35,7 +35,7 @@
         }
       },
       "block_order": [
-        "16359276425da8ce46-0"
+        "image_rkAq3P"
       ],
       "settings": {
         "height": "fixed",
@@ -317,9 +317,8 @@
       "type": "apps",
       "blocks": {
         "socialwidget_instagram_feed_base_widget_wBWWPj": {
-          "type": "shopify://apps/socialwidget/blocks/base-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
-          "settings": {
-          }
+          "type": "shopify://apps/socialwidget-instafeed/blocks/base-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
+          "settings": {}
         }
       },
       "block_order": [

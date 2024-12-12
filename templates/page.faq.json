@@ -294,7 +294,7 @@
           "type": "question",
           "settings": {
             "title": "You have the same style jeans in stretch and non-stretch, what is the difference?",
-            "answer": "<p>Please note the fabric composition of jeans before you place your order. Our non-stretch fabric is produced from 100% cotton (40% recycled, 60% GOTS certified organic). These jeans will have a more rigid fit and feel. Any fabric that contains elastane, on the other hand, is considered stretch (1% - 2% elastane), these jeans will have a softer feel and stretch with movement.</p>"
+            "answer": "<p>Please note the fabric composition of jeans before you place your order. Our non-stretch fabric is produced from 100% cotton (40% recycled, 60% OCS certified organic). These jeans will have a more rigid fit and feel. Any fabric that contains elastane, on the other hand, is considered stretch (1% - 2% elastane), these jeans will have a softer feel and stretch with movement.</p>"
           }
         }
       },
