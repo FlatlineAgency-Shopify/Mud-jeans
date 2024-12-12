@@ -164,6 +164,9 @@
     "variant": {
       "no_stock": "Sold out",
       "non_existent": "Unavailable"
+    },
+    "accordion": {
+      "product_transparency": "Learn more about the journey of this product here."
     }
   },
   "sections": {

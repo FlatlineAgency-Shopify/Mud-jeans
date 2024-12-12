@@ -163,6 +163,9 @@
     "variant": {
       "no_stock": "Uitverkocht",
       "non_existent": "Niet beschikbaar"
+    },
+    "accordion": {
+      "product_transparency": "Lees hier meer over de reis van dit product."
     }
   },
   "sections": {
