@@ -30,7 +30,7 @@
         "announcement_BEnDtb": {
           "type": "announcement",
           "settings": {
-            "text": "Blue Friday Sale Is Now Live. <a href=\"https://mudjeans.com/pages/blue-friday-mud-jeans\" title=\"https://mudjeans.com/pages/blue-friday-mud-jeans\">Shop Now</a>🔥",
+            "text": "New Fall-Winter Collection In Store. <a href=\"/collections/new-in-women\" title=\"New Arrivals Women\">Shop Women</a> & <a href=\"/collections/new-in-men-1\" title=\"New Arrivals Men\">Shop Men.</a>",
             "show_countdown": false,
             "hide_on_end": false,
             "end_date": "",
@@ -70,9 +70,9 @@
           "type": "menu-promotion-small",
           "settings": {
             "dropdown_link_title": "Women",
-            "image": "shopify://shop_images/MUD-Jeans-Sale_465f8a8b-fa77-4893-8404-e5b4beac2e72.png",
-            "title": "BLUE FRIDAY SALE",
-            "link_url": "shopify://collections/blue-friday-women"
+            "image": "shopify://shop_images/MUD-Jeans-SALE.png",
+            "title": "SALE",
+            "link_url": "shopify://pages/sale-women-mud-jeans"
           }
         },
         "menu_promotion_small_jtakWe": {
@@ -88,9 +88,9 @@
           "type": "menu-promotion-small",
           "settings": {
             "dropdown_link_title": "Men",
-            "image": "shopify://shop_images/MUD-Jeans-Sale_465f8a8b-fa77-4893-8404-e5b4beac2e72.png",
-            "title": "BLUE FRIDAY SALE",
-            "link_url": "shopify://collections/blue-friday-men"
+            "image": "shopify://shop_images/MUD-Jeans-SALE.png",
+            "title": "SALE",
+            "link_url": "shopify://pages/sale-women-mud-jeans"
           }
         },
         "menu_promotion_small_KLjiwJ": {

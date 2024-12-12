@@ -124,7 +124,7 @@
         "one": "{{ count }} bewertung",
         "other": "{{ count }} bewertungen"
       },
-      "sale": "Blue Friday",
+      "sale": "Sale",
       "shipping_policy_html": "<a href=\"{{ link }}\">Versand</a> wird beim Checkout berechnet.",
       "size_chart": "Größentabelle",
       "sku": "SKU:",
