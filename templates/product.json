@@ -11,21 +11,18 @@
   "sections": {
     "shogun-helper": {
       "type": "shogun-helper",
-      "settings": {
-      }
+      "settings": {}
     },
     "shogun-above": {
       "type": "shogun-above",
-      "settings": {
-      }
+      "settings": {}
     },
     "main": {
       "type": "main-product",
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -151,7 +148,7 @@
         "accordion_pgPz9T": {
           "type": "accordion",
           "settings": {
-            "title": "Sustainability",
+            "title": "Product Transparency",
             "icon": "",
             "content": "<p>Read more about <a href=\"/pages/sustainability-mud-jeans\" target=\"_blank\" title=\"Sustainability | MUD Jeans\">our impact.</a></p>",
             "page": "",
@@ -322,7 +319,7 @@
       "type": "apps",
       "blocks": {
         "1daedf08-5529-454c-a7f1-2262c0c8658e": {
-          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -408,9 +405,7 @@
     },
     "related-products": {
       "type": "related-products",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "Recommended for you",
         "show_vendor": false,
@@ -513,13 +508,11 @@
     },
     "shogun-below": {
       "type": "shogun-below",
-      "settings": {
-      }
+      "settings": {}
     },
     "shogun-optimizer": {
       "type": "shogun-optimizer",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
