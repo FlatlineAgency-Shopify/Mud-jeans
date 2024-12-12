@@ -163,6 +163,9 @@
     "variant": {
       "no_stock": "Épuisé",
       "non_existent": "Indisponible"
+    },
+    "accordion": {
+      "product_transparency": "Découvrez le parcours de ce produit ici."
     }
   },
   "sections": {

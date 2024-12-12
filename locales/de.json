@@ -163,6 +163,9 @@
     "variant": {
       "no_stock": "Ausverkauft",
       "non_existent": "Nicht verfügbar"
+    },
+    "accordion": {
+      "product_transparency": "Entdecken Sie hier die Geschichte dieses Produkts"
     }
   },
   "sections": {

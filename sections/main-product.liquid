@@ -31,6 +31,7 @@
     font-family: "Basic Commercial", sans-serif !important;
     margin: 0 !important;
     font-weight: 400 !important;
+    text-decoration: underline;
   }
 
   .tracer-map__text p::after {
@@ -746,7 +747,6 @@
                       <div class="disclosure__content rte cf">
                         {% if block.settings.title == 'Product Transparency' %}
                           <div class="sustainability-wrapper">
-                            <p>Read more about</p>
                             <div class="tex-tracer-app-wrapper">
                               <div class="tex-tracer-app" data-shop-name="{{- shop.permanent_domain -}}" data-product-id="{{- product.id -}}">
                                 <div class="tex-tracer-app__data"></div>
@@ -1417,7 +1417,7 @@
 
 <script type="application/json" id="texTracerBlockOptions">
 {
-  "mapText": "our impact.", {% comment %} This text will be displayed below the map {% endcomment %}
+  "mapText": "{{ 'products.accordion.product_transparency' | t }}", {% comment %} This text will be displayed below the map {% endcomment %}
   "footprintGraphs": {
     "firstGraphIconText": "{$}% water saved", {% comment %} '{$}' will be replaced with the dynamic value. This text will be displayed below the icon {% endcomment %}
     "firstGraphText": "Equal to {$} filled bathtubs", {% comment %} '{$}' will be replaced with the dynamic value. This text will be displayed below the graph {% endcomment %}
