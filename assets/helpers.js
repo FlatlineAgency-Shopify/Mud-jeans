@@ -225,7 +225,7 @@ const addToCartFH = async (productIds) => {
       console.log("leasebtn error >>", data.errors[0].message);
     }
   }
-
+ 
   // After all products are added to the cart, redirect to the checkout URL of the last product added
   const finalResponse = await fetch("https://portal.firmhouse.com/graphql", {
     method: "POST",
