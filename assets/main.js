@@ -3996,8 +3996,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (theme.settings.externalLinksNewTab) {
     document.addEventListener('click', (evt) => {
       const link = evt.target.tagName === 'A' ? evt.target : evt.target.closest('a');
-      console.log(">>", window.location.hostname)
-      console.log(">>", new URL(link.href).hostname)
       if (link && link.href && link.tagName === 'A' && window.location.hostname !== new URL(link.href).hostname) {
         link.target = '_blank';
       }
