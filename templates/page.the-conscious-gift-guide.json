@@ -223,6 +223,27 @@
         "color_scheme": "default"
       }
     },
+    "rich_text_AQPK3L": {
+      "type": "rich-text",
+      "blocks": {
+        "text_6mrJwf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visit our Amsterdam Brand Store at Torensteeg 3a. Amsterdam, 1012 TH and enjoy complimentary gift wrapping with your purchase! 🎁</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_6mrJwf"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "gallery_YQbaVW": {
       "type": "gallery",
       "blocks": {
@@ -291,6 +312,7 @@
     "image_with_text_overlay_DR87Gy",
     "featured_collection_zHQG7k",
     "image_with_text_7FhB6D",
+    "rich_text_AQPK3L",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
