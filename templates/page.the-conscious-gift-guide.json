@@ -108,6 +108,77 @@
         "color_scheme": "default"
       }
     },
+    "featured_collection_WcdH98": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "GIFTS FOR HER",
+        "collection": "blue-friday-women",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "image_with_text_overlay_DR87Gy": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_Ur6xqa": {
+          "type": "subheading",
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "heading_yxzDBn": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_3merqP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TIMELESS CIRCULAR DENIM STYLES</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Ur6xqa",
+        "heading_yxzDBn",
+        "text_3merqP"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "featured_collection_zHQG7k": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "GIFTS FOR HIM",
+        "collection": "blue-friday-men",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
     "image_with_text_7FhB6D": {
       "type": "image-with-text",
       "blocks": {
@@ -147,34 +218,6 @@
         "image_position": "left",
         "text_alignment": "left",
         "color_scheme": "default"
-      }
-    },
-    "featured_collection_WcdH98": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "25% OFF ON WOMEN'S STYLES",
-        "collection": "blue-friday-women",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "color_scheme": "default",
-        "show_view_all": true,
-        "full_width": true
-      }
-    },
-    "featured_collection_zHQG7k": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "25% OFF ON MEN'S STYLES",
-        "collection": "blue-friday-men",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "color_scheme": "default",
-        "show_view_all": true,
-        "full_width": true
       }
     },
     "gallery_YQbaVW": {
@@ -241,9 +284,10 @@
     "image_with_text_overlay_p3yCVc",
     "rich_text_RWPCqw",
     "rich_text_zYL8Ab",
-    "image_with_text_7FhB6D",
     "featured_collection_WcdH98",
+    "image_with_text_overlay_DR87Gy",
     "featured_collection_zHQG7k",
+    "image_with_text_7FhB6D",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
