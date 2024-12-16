@@ -20,7 +20,7 @@
     "image_with_text_overlay_p3yCVc": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify://shop_images/Blue-Friday-New-Banner.jpg",
+        "image": "shopify://shop_images/Concious-Gift-Guide-MUD-Header.jpg",
         "height": "adapt",
         "height_desktop": 600,
         "height_mobile": 460,
@@ -44,7 +44,7 @@
         "text_dTHMcE": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>Choose Premium Circular Denim.<br/>And Save More Than Just Money.</strong></h1>",
+            "text": "<h1><strong>Conscious Gift Guide<br/></strong>by MUD Jeans</h1>",
             "enlarge_text": true
           }
         }
