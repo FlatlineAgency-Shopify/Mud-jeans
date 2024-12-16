@@ -157,6 +157,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Concious-Gift-Guide-MUD-Secondary.jpg",
+        "mobile_image": "shopify://shop_images/Concious-Gift-Guide-MUD-Seconday-Mobile.jpg",
         "height": "fixed",
         "height_desktop": 600,
         "height_mobile": 460,
