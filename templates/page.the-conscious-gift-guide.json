@@ -1,0 +1,311 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "image_with_text_overlay_p3yCVc": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify://shop_images/Blue-Friday-New-Banner.jpg",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "rich_text_RWPCqw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7XiV7d": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "text_dTHMcE": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Choose Premium Circular Denim.<br/>And Save More Than Just Money.</strong></h1>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_7XiV7d",
+        "text_dTHMcE"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "rich_text_zYL8Ab": {
+      "type": "rich-text",
+      "blocks": {
+        "text_tbQ3cF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>With our 25% discount you can wear our premium circular jeans, save money and the planet.</strong></p><p>Over the next four days, we’re making Black Friday about impact—not just discounts.</p><p>Every premium pair of MUD Jeans is crafted with up to 40% recycled denim, offering unmatched comfort, a perfect fit, and enduring quality. By using recycled materials, we not only save virgin cotton but also significantly reduce water use—just 460 liters per pair compared to up to 3,820 liters for conventional jeans. That’s a saving of 3,360 liters per pair—equivalent to drinking 2 liters of water daily for 1,680 days (nearly 4.5 years)! Plus, our jeans cut CO2 emissions by nearly 47% per pair, contributing to a healthier planet.  Style, comfort, and sustainability — MUD Jeans have it all. <br/><br/><strong>Turn Black Friday blue with jeans that look good, feel good, are good</strong>. </p>",
+            "enlarge_text": true
+          }
+        },
+        "button_MTfbEf": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP WOMEN",
+            "button_link": "https://mudjeans.com/collections/blue-friday-women",
+            "button_style": "primary"
+          }
+        },
+        "button_YQpHRF": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP MEN",
+            "button_link": "https://mudjeans.com/collections/blue-friday-men",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "text_tbQ3cF",
+        "button_MTfbEf",
+        "button_YQpHRF"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "scrolling_banner_V8X97L": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_pYFhAr": {
+          "type": "text",
+          "settings": {
+            "text": "TURN BLACK FRIDAY BLUE",
+            "color": "#dedede",
+            "link": "",
+            "use_h1": false,
+            "stencil_all_text": false,
+            "stencil_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_pYFhAr"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "1",
+        "text_size": 50,
+        "vertical_padding": 20,
+        "speed": 33,
+        "direction": "left",
+        "font": "heading",
+        "space": 50
+      }
+    },
+    "image_with_text_7FhB6D": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wHEXgU": {
+          "type": "heading",
+          "settings": {
+            "title": "Why choose MUD Jeans?",
+            "use_h1": false
+          }
+        },
+        "text_epqDyE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every single MUD jeans is crafted to meet our uncompromising sustainability and ethics standards. Because we believe you should never have to choose between fashion and sustainability.</p><p>We recycle your worn jeans with love, into new yarn and new fabric, minimising water usage to create the next generation of denim. Look fabulous, stay on-trend, and let your denim be the voice for our planet.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_GHBKNP": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://pages/about-us-mud-jeans",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wHEXgU",
+        "text_epqDyE",
+        "button_GHBKNP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Blue-Friday-2024-1.jpg",
+        "image_2": "shopify://shop_images/Blue-Friday-2024-2.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "video_apncxT": {
+      "type": "video",
+      "blocks": {
+        "heading_MHtjyn": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_gLhUCU": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "play_button_LrmxAm": {
+          "type": "play-button",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_MHtjyn",
+        "text_gLhUCU",
+        "play_button_LrmxAm"
+      ],
+      "settings": {
+        "video_external": "https://youtu.be/VzyXaOm2bSs?si=nxlh0drr20IG2pal",
+        "video_description": "",
+        "placeholder_image": "shopify://shop_images/header-MUD_Sustainability_Report_2023-2024.jpg",
+        "text_alignment": "center center",
+        "full_width": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "featured_collection_WcdH98": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "25% OFF ON WOMEN'S STYLES",
+        "collection": "blue-friday-women",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "featured_collection_zHQG7k": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "25% OFF ON MEN'S STYLES",
+        "collection": "blue-friday-men",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "gallery_YQbaVW": {
+      "type": "gallery",
+      "blocks": {
+        "media_QgwYAc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/MUD-Jeans-Women-Wyde-Sara-Stone-Indigo-1.jpg",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "Shop Women",
+            "link": "shopify://pages/sale-women-mud-jeans",
+            "text_alignment": "center center"
+          }
+        },
+        "media_nWrPQ4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/image001.jpg",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "All Styles",
+            "link": "shopify://collections/men-buy-jeans",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "media_QgwYAc",
+        "media_nWrPQ4"
+      ],
+      "disabled": true,
+      "settings": {
+        "grid_desktop": 2,
+        "grid_mobile": "2",
+        "height": "adapt",
+        "desktop_image_height": 690,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "color_scheme": "default",
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "newsletter_VbGXAj": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "subheading": "<p>Promotions, new products and sales. Directly to your inbox.</p>",
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_p3yCVc",
+    "rich_text_RWPCqw",
+    "rich_text_zYL8Ab",
+    "scrolling_banner_V8X97L",
+    "image_with_text_7FhB6D",
+    "video_apncxT",
+    "featured_collection_WcdH98",
+    "featured_collection_zHQG7k",
+    "gallery_YQbaVW",
+    "newsletter_VbGXAj"
+  ]
+}
