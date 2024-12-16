@@ -75,7 +75,7 @@
           "type": "button",
           "settings": {
             "button_label": "FOR HER",
-            "button_link": "https://mudjeans.com/collections/blue-friday-women",
+            "button_link": "shopify://collections/gifts-for-her",
             "button_style": "primary"
           }
         },
