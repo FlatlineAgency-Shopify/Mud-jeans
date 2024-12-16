@@ -91,7 +91,7 @@
           "type": "button",
           "settings": {
             "button_label": "FOR HIM",
-            "button_link": "https://mudjeans.com/collections/blue-friday-men",
+            "button_link": "shopify://collections/gifts-for-him",
             "button_style": "primary"
           }
         }
