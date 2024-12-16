@@ -44,7 +44,7 @@
         "text_dTHMcE": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>Conscious Gift Guide</strong></h1>",
+            "text": "<h1>GIVE THE GIFT OF QUALITY<br/>TO YOUR LOVED ONES</h1>",
             "enlarge_text": true
           }
         }
@@ -66,14 +66,22 @@
         "text_tbQ3cF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>With our 25% discount you can wear our premium circular jeans, save money and the planet.</strong></p><p>Over the next four days, we’re making Black Friday about impact—not just discounts.</p><p>Every premium pair of MUD Jeans is crafted with up to 40% recycled denim, offering unmatched comfort, a perfect fit, and enduring quality. By using recycled materials, we not only save virgin cotton but also significantly reduce water use—just 460 liters per pair compared to up to 3,820 liters for conventional jeans. That’s a saving of 3,360 liters per pair—equivalent to drinking 2 liters of water daily for 1,680 days (nearly 4.5 years)! Plus, our jeans cut CO2 emissions by nearly 47% per pair, contributing to a healthier planet.  Style, comfort, and sustainability — MUD Jeans have it all. <br/><br/><strong>Turn Black Friday blue with jeans that look good, feel good, are good</strong>. </p>",
+            "text": "<p>Winter is cold, but hearts remain warm. Holidays time is for giving to one another. This December at MUD Jeans, we want to celebrate by sharing the gift of love and quality.<br/><br/><strong>Shop our timeless circular denim styles and let the celebrations begin. </strong></p>",
             "enlarge_text": true
           }
         },
         "button_MTfbEf": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP WOMEN",
+            "button_label": "FOR HER",
+            "button_link": "https://mudjeans.com/collections/blue-friday-women",
+            "button_style": "primary"
+          }
+        },
+        "button_4wxABa": {
+          "type": "button",
+          "settings": {
+            "button_label": "GIFT CARDS",
             "button_link": "https://mudjeans.com/collections/blue-friday-women",
             "button_style": "primary"
           }
@@ -81,7 +89,7 @@
         "button_YQpHRF": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP MEN",
+            "button_label": "FOR HIM",
             "button_link": "https://mudjeans.com/collections/blue-friday-men",
             "button_style": "primary"
           }
@@ -90,6 +98,7 @@
       "block_order": [
         "text_tbQ3cF",
         "button_MTfbEf",
+        "button_4wxABa",
         "button_YQpHRF"
       ],
       "settings": {
