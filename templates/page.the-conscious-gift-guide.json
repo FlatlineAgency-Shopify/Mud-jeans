@@ -83,7 +83,7 @@
           "type": "button",
           "settings": {
             "button_label": "GIFT CARDS",
-            "button_link": "https://mudjeans.com/collections/blue-friday-women",
+            "button_link": "shopify://collections/gift-cards",
             "button_style": "primary"
           }
         },
