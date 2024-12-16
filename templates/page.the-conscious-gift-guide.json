@@ -99,35 +99,6 @@
         "color_scheme": "default"
       }
     },
-    "scrolling_banner_V8X97L": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "text_pYFhAr": {
-          "type": "text",
-          "settings": {
-            "text": "TURN BLACK FRIDAY BLUE",
-            "color": "#dedede",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_pYFhAr"
-      ],
-      "settings": {
-        "full_width": true,
-        "color_scheme": "1",
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 33,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
-      }
-    },
     "image_with_text_7FhB6D": {
       "type": "image-with-text",
       "blocks": {
@@ -167,45 +138,6 @@
         "image_position": "left",
         "text_alignment": "left",
         "color_scheme": "default"
-      }
-    },
-    "video_apncxT": {
-      "type": "video",
-      "blocks": {
-        "heading_MHtjyn": {
-          "type": "heading",
-          "settings": {
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 32,
-            "use_h1": false
-          }
-        },
-        "text_gLhUCU": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "enlarge_text": false
-          }
-        },
-        "play_button_LrmxAm": {
-          "type": "play-button",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_MHtjyn",
-        "text_gLhUCU",
-        "play_button_LrmxAm"
-      ],
-      "settings": {
-        "video_external": "https://youtu.be/VzyXaOm2bSs?si=nxlh0drr20IG2pal",
-        "video_description": "",
-        "placeholder_image": "shopify://shop_images/header-MUD_Sustainability_Report_2023-2024.jpg",
-        "text_alignment": "center center",
-        "full_width": false,
-        "overlay_style": "shadow"
       }
     },
     "featured_collection_WcdH98": {
@@ -300,9 +232,7 @@
     "image_with_text_overlay_p3yCVc",
     "rich_text_RWPCqw",
     "rich_text_zYL8Ab",
-    "scrolling_banner_V8X97L",
     "image_with_text_7FhB6D",
-    "video_apncxT",
     "featured_collection_WcdH98",
     "featured_collection_zHQG7k",
     "gallery_YQbaVW",
