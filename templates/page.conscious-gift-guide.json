@@ -1,0 +1,335 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "image_with_text_overlay_p3yCVc": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_atHh4H": {
+          "type": "heading",
+          "settings": {
+            "title": "Join Vintage Sale",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "subheading_3QGiYg": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "#BuyNothingNew"
+          }
+        }
+      },
+      "block_order": [
+        "heading_atHh4H",
+        "subheading_3QGiYg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MUDjeans-PARIS-44.jpg",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "rich_text_zYL8Ab": {
+      "type": "rich-text",
+      "blocks": {
+        "text_tbQ3cF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Turning Black Friday Blue:<br/>Buy Vintage Jeans</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_tbQ3cF"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "contact_form_TQXXfe": {
+      "type": "contact-form",
+      "blocks": {
+        "name_input_ByAtxB": {
+          "type": "name_input",
+          "settings": {
+            "half_width": false
+          }
+        },
+        "custom_input_WVNCNq": {
+          "type": "custom_input",
+          "settings": {
+            "title": "Last name",
+            "type": "text",
+            "required": false,
+            "half_width": false
+          }
+        },
+        "email_input_xTKW3Q": {
+          "type": "email_input",
+          "settings": {
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "name_input_ByAtxB",
+        "custom_input_WVNCNq",
+        "email_input_xTKW3Q"
+      ],
+      "settings": {
+        "contact_title": "Sign up below to join the Vintage Livestream",
+        "contact_text": "<p>FRIDAY NOV 25th 09:00 - 17:00 CET</p>",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_gCjMLD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qVLGH7": {
+          "type": "heading",
+          "settings": {
+            "title": "BLACK FRIDAY: YES, WE'RE ALL NAYSAYERS",
+            "use_h1": false
+          }
+        },
+        "text_L9bDCd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There are plenty of good reasons for not being part of Black Friday. With all its over the top discount hysteria, it's a day that helps very few and harms a lot more - be it in social, ecological or economic terms. We've no desire to support this kind of frenzied consumerism, either as producers or personally as consumers.<br/><br/>And on this day, that's precisely why we – a handful of like-minded brands – are not just saying no, but standing together. We'll be fielding various initiatives and constructive actions for fair and sustainable ways of doing business and consuming, including: Freitag, RAEBURN, ASKET, Flamingos life, Soeder, Secrid, Oy, Brompton. Thanks for saying no and spreading the word. #noblackfriday</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qVLGH7",
+        "text_L9bDCd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-03-06_at_10.56.00.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "multi_column_aEdg3i": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_tfA7AW": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.02.16.png",
+            "title": "",
+            "text": "<p>The bag makers at <a href=\"https://www.freitag.ch/en/swap\" target=\"_blank\" title=\"https://www.freitag.ch/en/swap\">FREITAG </a>are closing their online store and getting people to swap bags instead.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_AJaH9V": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.02.57.png",
+            "title": "",
+            "text": "<p>The Denim experts from <a href=\"https://mudjeans.eu/\" target=\"_blank\" title=\"https://mudjeans.eu/\">MUD Jeans </a>close their online store and sell vintage jeans via a livestream instead.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_QRb3BF": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.04.14.png",
+            "title": "",
+            "text": "<p><a href=\"https://www.asket.com/\" target=\"_blank\" title=\"https://www.asket.com/\">ASKET</a>, the wardrobe essentials brand, will be shutting down their website, instead encouraging followers to care, repair and revive.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_JCBpwh": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.06.20.png",
+            "title": "",
+            "text": "<p><a href=\"https://www.raeburndesign.co.uk/\" target=\"_blank\" title=\"https://www.raeburndesign.co.uk/\">RÆBURN</a>, known for their responsible and intelligent fashion design, are disabling their online store and offering an in-store repair service.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_wEzq76": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.06.58.png",
+            "title": "",
+            "text": "<p><a href=\"https://www.flamingoslife.com/\" target=\"_blank\" title=\"https://www.flamingoslife.com/\">Flamingos life</a>, known for their vegan sneakers, are likewise closing their online store for the day.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_Q6mKfq": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.07.23.png",
+            "title": "",
+            "text": "<p>The soapmakers at <a href=\"https://www.soeder.ch/\" target=\"_blank\" title=\"https://www.soeder.ch/\">Soeder </a>arecalling on their customers to refill without waste.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_dfMn8c": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.08.09.png",
+            "title": "",
+            "text": "<p><a href=\"https://secrid.com/\" target=\"_blank\" title=\"https://secrid.com/\">Secrid</a>, the cardprotector inventors, are offering their customers a free repair service at their Brandstore.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_BFHdfU": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.08.32.png",
+            "title": "",
+            "text": "<p>The sustainable surf and yoga clothing pros, <a href=\"https://oysurf.com/\" target=\"_blank\" title=\"https://oysurf.com/\">Oy</a>, are also closing their online store and calling for donations instead.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_BXmhN4": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Screenshot_2024-03-07_at_10.09.23.png",
+            "title": "",
+            "text": "<p>The folding bike pioneer<a href=\"https://brompton.com/\" target=\"_blank\" title=\"https://brompton.com/\">Brompton</a>is offering a free bike hire in the UK to encourage riding instead of spending.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_tfA7AW",
+        "text_block_AJaH9V",
+        "text_block_QRb3BF",
+        "text_block_JCBpwh",
+        "text_block_wEzq76",
+        "text_block_Q6mKfq",
+        "text_block_dfMn8c",
+        "text_block_BFHdfU",
+        "text_block_BXmhN4"
+      ],
+      "settings": {
+        "title": "",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "gallery_YQbaVW": {
+      "type": "gallery",
+      "blocks": {
+        "media_QgwYAc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Women_573f5232-d20a-4e4f-a7a4-0ce7a1052567.jpg",
+            "enlarge_media": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Discover Women",
+            "link": "",
+            "text_alignment": "center center"
+          }
+        },
+        "media_nWrPQ4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Men_7c0cba70-0695-4113-95e5-b752a692b0fa.jpg",
+            "enlarge_media": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Discover Men",
+            "link": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "media_QgwYAc",
+        "media_nWrPQ4"
+      ],
+      "settings": {
+        "grid_desktop": 2,
+        "grid_mobile": "2",
+        "height": "fixed",
+        "desktop_image_height": 690,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "color_scheme": "default",
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "newsletter_VbGXAj": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "subheading": "<p>Promotions, new products and sales. Directly to your inbox.</p>",
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_p3yCVc",
+    "rich_text_zYL8Ab",
+    "contact_form_TQXXfe",
+    "image_with_text_gCjMLD",
+    "multi_column_aEdg3i",
+    "gallery_YQbaVW",
+    "newsletter_VbGXAj"
+  ]
+}
