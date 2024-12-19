@@ -16,9 +16,8 @@
       "blocks": {
         "announcement-1": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Invest in MUD Jeans! <a href=\"https://platform.eyevestor.com/eyeventures/NL_MUD?lang=en&tab=home\" target=\"_blank\" title=\"https://platform.eyevestor.com/eyeventures/NL_MUD?lang=en&tab=home\">Become a co-owner today.</a>",
+            "text": "Shop holiday E-Gift Cards for your loved ones <a href=\"https://mudjeans.com/collections/men-buy-gift-cards/products/mud-jeans-christmas-gift-card\" title=\"https://mudjeans.com/collections/men-buy-gift-cards/products/mud-jeans-christmas-gift-card\">here</a>. ❤️",
             "show_countdown": false,
             "hide_on_end": false,
             "end_date": "",
