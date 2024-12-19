@@ -95,7 +95,7 @@
             "url_text": "",
             "url_richt_text": "#",
             "icon": "box",
-            "icon_size": "large",
+            "icon_size": "small",
             "enable_box": false,
             "box_color": "#e0f4d5",
             "show_in_quickbuy": false
@@ -108,7 +108,7 @@
             "url_text": "",
             "url_richt_text": "",
             "icon": "return",
-            "icon_size": "large",
+            "icon_size": "small",
             "enable_box": false,
             "box_color": "#e0f4d5",
             "show_in_quickbuy": false
@@ -121,7 +121,7 @@
             "url_text": "",
             "url_richt_text": "",
             "icon": "leaf",
-            "icon_size": "large",
+            "icon_size": "small",
             "enable_box": false,
             "box_color": "#e0f4d5",
             "show_in_quickbuy": false
