@@ -30,7 +30,7 @@
         "announcement_BEnDtb": {
           "type": "announcement",
           "settings": {
-            "text": "Make holiday shopping special with our Conscious Gift Guide 🎁",
+            "text": "Make holiday shopping special with our <a href=\"/pages/the-conscious-gift-guide-by-mud-jeans\" title=\"The Conscious Gift Guide by MUD Jeans\">Conscious Gift Guide</a> 🎁",
             "show_countdown": false,
             "hide_on_end": false,
             "end_date": "",
