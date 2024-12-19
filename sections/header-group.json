@@ -46,7 +46,7 @@
       "settings": {
         "announcement_bar_col": "#202020",
         "announcement_text_col": "#ffffff",
-        "message_font_size": 14,
+        "message_font_size": 15,
         "show_social_icons": false,
         "menu": "",
         "enable_country_selector": false,
