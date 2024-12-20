@@ -15,11 +15,11 @@
         "image_rkAq3P": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MUD-Jeans-Static-Banner.jpg",
+            "image": "shopify://shop_images/MUD-Banner.gif",
             "mobile_image": "shopify://shop_images/MUD-Jeans-FW24-Mobile.gif",
             "slide_link": "",
             "subheading": "",
-            "title": "CIRCULAR WINTER ESSENTIALS",
+            "title": "<br> <br> <br>",
             "heading_max_width": 15,
             "title_size": 84,
             "title_size_mobile": 46,
