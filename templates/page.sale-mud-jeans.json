@@ -61,7 +61,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Women",
-            "button_link": "shopify://pages/sale-women-mud-jeans",
+            "button_link": "shopify://collections/womens-winter-sale-2025",
             "button_style": "primary"
           }
         }
