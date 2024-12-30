@@ -143,7 +143,7 @@
           "type": "text",
           "settings": {
             "text": "SALE",
-            "color": "#8a2f20",
+            "color": "#010101",
             "link": "",
             "use_h1": false,
             "stencil_all_text": true,
@@ -200,7 +200,7 @@
           "type": "text",
           "settings": {
             "text": "NO TIME TO WASTE",
-            "color": "#8a2f20",
+            "color": "#232323",
             "link": "",
             "use_h1": false,
             "stencil_all_text": false,
