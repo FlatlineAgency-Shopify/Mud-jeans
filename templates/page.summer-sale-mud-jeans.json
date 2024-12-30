@@ -222,64 +222,13 @@
         "space": 50
       }
     },
-    "product_list_nBpKnH": {
-      "type": "product-list",
-      "settings": {
-        "title": "",
-        "product_list": [
-          "easy-go-sunny-stone",
-          "flared-hazen-authentic-indigo",
-          "will-works-heavy-stone-w",
-          "sky-rise-skinny-strong-blue",
-          "high-jamie-medium-stone",
-          "flared-hazen-olive",
-          "stanley-shirt-medium-stone",
-          "stanley-shirt-strong-blue",
-          "slimmer-rick-off-white"
-        ],
-        "show_vendor": false,
-        "enable_carousel": false,
-        "grid": 4,
-        "color_scheme": "default",
-        "full_width": true
-      }
-    },
-    "scrolling_banner_CKiJtM": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "text_frbiyV": {
-          "type": "text",
-          "settings": {
-            "text": "NO TIME TO WASTE",
-            "color": "#8a2f20",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_frbiyV"
-      ],
-      "settings": {
-        "full_width": true,
-        "color_scheme": "1",
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 33,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
-      }
-    },
     "gallery_YQbaVW": {
       "type": "gallery",
       "blocks": {
         "media_nWrPQ4": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/image001.jpg",
+            "image": "shopify://shop_images/JohnStoneIndigo-AW_Fullbodywomen_JpgHighres_9.jpg",
             "enlarge_media": false,
             "subheading": "",
             "title": "",
@@ -291,7 +240,7 @@
         "media_QgwYAc": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/MUD-Jeans-Women-Wyde-Sara-Stone-Indigo-1.jpg",
+            "image": "shopify://shop_images/Artboard61.jpg",
             "enlarge_media": false,
             "subheading": "",
             "title": "",
@@ -307,9 +256,9 @@
       ],
       "settings": {
         "grid_desktop": 2,
-        "grid_mobile": "1",
-        "height": "adapt",
-        "desktop_image_height": 690,
+        "grid_mobile": "2",
+        "height": "fixed",
+        "desktop_image_height": 840,
         "mobile_image_height": 400,
         "title_size": 30,
         "title_size_mobile": 22,
@@ -318,7 +267,7 @@
         "full_width": true,
         "color_scheme": "default",
         "enable_carousel": true,
-        "overlay_style": "full",
+        "overlay_style": "no_background",
         "button_style": "secondary"
       }
     },
@@ -340,8 +289,6 @@
     "scrolling_banner_FycnzM",
     "product_list_9ppfzY",
     "scrolling_banner_WjLUa4",
-    "product_list_nBpKnH",
-    "scrolling_banner_CKiJtM",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
