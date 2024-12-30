@@ -165,6 +165,35 @@
         "full_width": true
       }
     },
+    "scrolling_banner_WjLUa4": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_RGdamr": {
+          "type": "text",
+          "settings": {
+            "text": "NO TIME TO WASTE",
+            "color": "#232323",
+            "link": "",
+            "use_h1": false,
+            "stencil_all_text": false,
+            "stencil_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_RGdamr"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "1",
+        "text_size": 50,
+        "vertical_padding": 20,
+        "speed": 33,
+        "direction": "left",
+        "font": "heading",
+        "space": 50
+      }
+    },
     "testimonials_L3pMKh": {
       "type": "testimonials",
       "blocks": {
@@ -214,35 +243,6 @@
         "color_scheme": "1",
         "autoplay": true,
         "autoplay_speed": 5
-      }
-    },
-    "scrolling_banner_WjLUa4": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "text_RGdamr": {
-          "type": "text",
-          "settings": {
-            "text": "NO TIME TO WASTE",
-            "color": "#232323",
-            "link": "",
-            "use_h1": false,
-            "stencil_all_text": false,
-            "stencil_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_RGdamr"
-      ],
-      "settings": {
-        "full_width": true,
-        "color_scheme": "1",
-        "text_size": 50,
-        "vertical_padding": 20,
-        "speed": 33,
-        "direction": "left",
-        "font": "heading",
-        "space": 50
       }
     },
     "gallery_YQbaVW": {
@@ -311,8 +311,8 @@
     "featured_collection_BrknrD",
     "scrolling_banner_FycnzM",
     "featured_collection_ExhGcH",
-    "testimonials_L3pMKh",
     "scrolling_banner_WjLUa4",
+    "testimonials_L3pMKh",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
   ]
