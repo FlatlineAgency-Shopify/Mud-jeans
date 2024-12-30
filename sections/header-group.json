@@ -16,6 +16,7 @@
       "blocks": {
         "announcement-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Shop holiday E-Gift Cards for your loved ones <a href=\"https://mudjeans.com/collections/men-buy-gift-cards/products/mud-jeans-christmas-gift-card\" title=\"https://mudjeans.com/collections/men-buy-gift-cards/products/mud-jeans-christmas-gift-card\">here</a> ❤️",
             "show_countdown": false,
