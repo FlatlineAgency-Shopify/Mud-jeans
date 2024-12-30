@@ -108,31 +108,17 @@
         "space": 50
       }
     },
-    "product_list_6JbYTM": {
-      "type": "product-list",
+    "featured_collection_BrknrD": {
+      "type": "featured-collection",
       "settings": {
-        "title": "",
-        "product_list": [
-          "easy-go-used-black",
-          "ela-denim-skirt-stone-washed",
-          "faye-straight-medium-fade",
-          "flared-chique-shiny-raw",
-          "high-jamie-used-black",
-          "jenn-dungaree-old-stone",
-          "jolene-denim-shirt-s-s-stone-washed",
-          "lauren-denim-jumpsuit-s-s-natural",
-          "lauren-denim-jumpsuit-s-s-stone-washed",
-          "loose-jamie-faded-stone",
-          "mams-stretch-tapered-heavy-black-stone",
-          "regular-dunn-stone-blue",
-          "regular-dunn-sun-stone",
-          "regular-dunn-true-indigo",
-          "regular-dunn-stetch-medium-fade"
-        ],
+        "title": "Featured collection",
+        "collection": "",
         "show_vendor": false,
-        "enable_carousel": false,
+        "enable_carousel": true,
         "grid": 4,
+        "rows": 1,
         "color_scheme": "default",
+        "show_view_all": true,
         "full_width": true
       }
     },
@@ -165,31 +151,17 @@
         "space": 50
       }
     },
-    "product_list_9ppfzY": {
-      "type": "product-list",
+    "featured_collection_ExhGcH": {
+      "type": "featured-collection",
       "settings": {
-        "title": "",
-        "product_list": [
-          "moore-denim-pants-natural",
-          "moore-denim-pants-stone-washed",
-          "shirley-shirt-medium-stone",
-          "shirley-shirt-strong-blue",
-          "skinny-hazen-dip-dry",
-          "sophie-rocks-dip-black",
-          "sophie-rocks-heavy-stone",
-          "unni-denim-vest-natural",
-          "unni-denim-vest-stone-washed",
-          "vivian-vest-used-black",
-          "wyde-brandy-stone-vintage",
-          "loose-james-used-black",
-          "slim-lassen-stone-black",
-          "slim-lassen-pure-blue",
-          "slim-lassen-o3-grey"
-        ],
+        "title": "Featured collection",
+        "collection": "",
         "show_vendor": false,
-        "enable_carousel": false,
+        "enable_carousel": true,
         "grid": 4,
+        "rows": 1,
         "color_scheme": "default",
+        "show_view_all": true,
         "full_width": true
       }
     },
@@ -285,9 +257,9 @@
     "image_with_text_overlay_p3yCVc",
     "rich_text_zYL8Ab",
     "scrolling_banner_V8X97L",
-    "product_list_6JbYTM",
+    "featured_collection_BrknrD",
     "scrolling_banner_FycnzM",
-    "product_list_9ppfzY",
+    "featured_collection_ExhGcH",
     "scrolling_banner_WjLUa4",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
