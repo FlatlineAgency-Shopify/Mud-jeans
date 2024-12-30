@@ -165,6 +165,57 @@
         "full_width": true
       }
     },
+    "testimonials_L3pMKh": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_ePCQaA": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Lovely jeans, my best pair I’ve ever bought, and extremely quick delivery/service. Going after waist measurements is best to get the right fit. Also perfect for people with long legs. Will definitely recommend a friend/ buy again when the time comes.",
+            "author": "Malvin",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "testimonial_MLzmq4": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Lovely jeans, my best pair I’ve ever bought, and extremely quick delivery/service. Going after waist measurements is best to get the right fit. Also perfect for people with long legs. Will definitely recommend a friend/ buy again when the time comes.",
+            "author": "Malvin",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "testimonial_DCXFy6": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I highly recommend these jeans. They are true to size, the quality is great. I am 1m69 and ordered length 32 because I like longer jeans and it hits perfectly on the shoe.",
+            "author": "Diane",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ePCQaA",
+        "testimonial_MLzmq4",
+        "testimonial_DCXFy6"
+      ],
+      "settings": {
+        "title": "Here's what people say",
+        "layout": "no-image",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "color_scheme": "1",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "scrolling_banner_WjLUa4": {
       "type": "scrolling-banner",
       "blocks": {
@@ -260,6 +311,7 @@
     "featured_collection_BrknrD",
     "scrolling_banner_FycnzM",
     "featured_collection_ExhGcH",
+    "testimonials_L3pMKh",
     "scrolling_banner_WjLUa4",
     "gallery_YQbaVW",
     "newsletter_VbGXAj"
