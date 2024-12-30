@@ -53,7 +53,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Men",
-            "button_link": "shopify://pages/sale-men-mud-jeans",
+            "button_link": "shopify://collections/mens-winter-sale-2025",
             "button_style": "primary"
           }
         },
