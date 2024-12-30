@@ -211,13 +211,13 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "Lovely jeans, my best pair I’ve ever bought, and extremely quick delivery/service. Going after waist measurements is best to get the right fit. Also perfect for people with long legs. Will definitely recommend a friend/ buy again when the time comes.",
-            "author": "Malvin",
+            "testimonial": "Ever since these came in, I haven’t works any other jeans. They are so comfortable and the quality is amazing!",
+            "author": "Jash",
             "image_caption": "",
             "link": ""
           }
         },
-        "testimonial_DCXFy6": {
+        "testimonial_6RDLgW": {
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
@@ -231,7 +231,7 @@
       "block_order": [
         "testimonial_ePCQaA",
         "testimonial_MLzmq4",
-        "testimonial_DCXFy6"
+        "testimonial_6RDLgW"
       ],
       "settings": {
         "title": "Here's what people say",
