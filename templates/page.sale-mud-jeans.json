@@ -111,7 +111,7 @@
     "featured_collection_BrknrD": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Men's Styles",
+        "title": "Shop Women's Styles",
         "collection": "womens-winter-sale-2025",
         "show_vendor": false,
         "enable_carousel": true,
@@ -154,7 +154,7 @@
     "featured_collection_ExhGcH": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Shop Men's Styles",
         "collection": "mens-winter-sale-2025",
         "show_vendor": false,
         "enable_carousel": true,
