@@ -157,7 +157,7 @@
         "full_width": true,
         "color_scheme": "default",
         "heading": "MUD Jeans Amsterdam",
-        "address": "<p>Torensteeg 3A, 1012 TH Amsterdam, Netherlands<br/><br/>Monday - Saturday: <strong>1</strong>0:30 AM – 6:30 PM<br/>Sunday: 10:30 AM - 5:00 PM</p>",
+        "address": "<p><strong>Torensteeg 3A, 1012 TH Amsterdam, Netherlands</strong><br/>Monday - Saturday: <strong>1</strong>0:30 AM – 6:30 PM<br/>Sunday: 10:30 AM - 5:00 PM</p>",
         "button": "Directions",
         "show_pin": true,
         "show_feature_image": false,
