@@ -12,6 +12,26 @@
     "16359276425da8ce46": {
       "type": "slideshow",
       "blocks": {
+        "image_rPtaiH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MUD-Jeans-Sale-2025_7ebfc83a-f03a-4303-87ff-ffea8ed3911a.gif",
+            "slide_link": "",
+            "subheading": "Start 2025 With Great Deals",
+            "title": "UP TO 40% OFF<br>PREMIUM DENIMS",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": true,
+            "text": "<p>Grab your favourites while the stocks last!</p>",
+            "enlarge_text": true,
+            "button_label_1": "SHOP NOW",
+            "button_url_1": "shopify://pages/sale-mud-jeans",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
         "image_rkAq3P": {
           "type": "image",
           "settings": {
@@ -32,31 +52,11 @@
             "button_url_2": "shopify://collections/new-in-men-1",
             "text_alignment": "center center"
           }
-        },
-        "image_rPtaiH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MUD-Jeans-Sale-2025_7ebfc83a-f03a-4303-87ff-ffea8ed3911a.gif",
-            "slide_link": "",
-            "subheading": "Start 2025 With Great Deals",
-            "title": "UP TO 40% OFF<br>PREMIUM DENIMS",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": true,
-            "text": "<p>Grab your favourites while the stocks last!</p>",
-            "enlarge_text": true,
-            "button_label_1": "SHOP NOW",
-            "button_url_1": "shopify://pages/sale-mud-jeans",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
         }
       },
       "block_order": [
-        "image_rkAq3P",
-        "image_rPtaiH"
+        "image_rPtaiH",
+        "image_rkAq3P"
       ],
       "settings": {
         "height": "fixed",
