@@ -29,8 +29,21 @@
         },
         "announcement_BEnDtb": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Make holiday shopping special with our <a href=\"/pages/the-conscious-gift-guide-by-mud-jeans\" title=\"The Conscious Gift Guide by MUD Jeans\">Conscious Gift Guide</a> 🎁",
+            "show_countdown": false,
+            "hide_on_end": false,
+            "end_date": "",
+            "end_time": "",
+            "number_font": "base",
+            "countdown_separator": "box"
+          }
+        },
+        "announcement_TWHceM": {
+          "type": "announcement",
+          "settings": {
+            "text": "Start 2025 With Up To 40% Off  On Premium Denims. <a href=\"/pages/sale-mud-jeans\" title=\"MUD Jeans Sale\">Shop Now👖</a>",
             "show_countdown": false,
             "hide_on_end": false,
             "end_date": "",
@@ -42,7 +55,8 @@
       },
       "block_order": [
         "announcement-1",
-        "announcement_BEnDtb"
+        "announcement_BEnDtb",
+        "announcement_TWHceM"
       ],
       "settings": {
         "announcement_bar_col": "#202020",
