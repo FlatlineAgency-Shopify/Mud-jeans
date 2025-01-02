@@ -1,0 +1,395 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "rich_text_zYL8Ab": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EAqVtW": {
+          "type": "heading",
+          "settings": {
+            "title": "WHY WE WANT YOUR OLD JEANS BACK ♺",
+            "use_h1": false
+          }
+        },
+        "text_tbQ3cF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The fashion industry faces a significant waste problem, and we're on a mission to tackle it. Imagine if clothing brands took responsibility for their products at the end of their life. That's exactly what we do. When you no longer wear your jeans, we take them back, recycle them into stunning new denim, and ensure that the materials continue their journey of renewal.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_EAqVtW",
+        "text_tbQ3cF"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "custom_content_Y9gQLn": {
+      "type": "custom-content",
+      "blocks": {
+        "text_C4AGEJ": {
+          "type": "text",
+          "settings": {
+            "width": "quarter",
+            "subheading": "",
+            "title": "✅",
+            "text": "<p><strong>Reduce waste</strong></p><p>Together we close the loop, recycling old jeans into new.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        },
+        "text_G7kCAg": {
+          "type": "text",
+          "settings": {
+            "width": "quarter",
+            "subheading": "",
+            "title": "👖",
+            "text": "<p><strong>Get a discount</strong></p><p>Return an old pair and get a €10 discount on your new jeans.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        },
+        "text_aJRLUd": {
+          "type": "text",
+          "settings": {
+            "width": "quarter",
+            "subheading": "",
+            "title": "🌍",
+            "text": "<p><strong>Planet friendly</strong></p><p>Using a high percentage of recycled denim equals lots of water savings.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        },
+        "text_QJDPUd": {
+          "type": "text",
+          "settings": {
+            "width": "quarter",
+            "subheading": "",
+            "title": "😊",
+            "text": "<p><strong>Join the movement</strong></p><p>De-clutter and be part of the circular movement.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_C4AGEJ",
+        "text_G7kCAg",
+        "text_aJRLUd",
+        "text_QJDPUd"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "rich_text_fckjNg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7RFKyf": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Waste isn’t waste until you waste it.</h1>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7RFKyf"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "gallery_W4e7cJ": {
+      "type": "gallery",
+      "blocks": {
+        "media_qJPKR9": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-03-06_at_14.37.15.png",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "media_KzWwVa": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-03-06_at_16.00.46.png",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "media_khT7rr": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-03-06_at_16.31.40.png",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "media_PXN8AU": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-03-06_at_16.57.25.png",
+            "enlarge_media": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "media_qJPKR9",
+        "media_KzWwVa",
+        "media_khT7rr",
+        "media_PXN8AU"
+      ],
+      "settings": {
+        "grid_desktop": 4,
+        "grid_mobile": "1",
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "color_scheme": "1",
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "rich_text_EhX99X": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ByJANt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So how does it work? When you purchase a new pair of jeans, you can effortlessly return an old pair. We extend this invitation to all brands, provided the jeans are primarily composed of at least 96% cotton. And that's not all - you get a €10 discount on your brand new MUD jeans.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_ByJANt"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "image_with_text_TQqdPr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TtJFyw": {
+          "type": "heading",
+          "settings": {
+            "title": "Restore a tree",
+            "use_h1": false
+          }
+        },
+        "text_FiQbeC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With every pair of jeans returned, we give life to a new tree. That's why we urge you to send your worn jeans back to us. As an incentive, we've partnered with Justdiggit, an organization dedicated to regenerating trees in Sub-Saharan Africa. For each pair of jeans we recycle, they restore a tree.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TtJFyw",
+        "text_FiQbeC"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-03-07_at_09.45.52.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_NHt78X": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ztaL8w": {
+          "type": "heading",
+          "settings": {
+            "title": "Magic of recycling",
+            "use_h1": false
+          }
+        },
+        "text_ANpa4f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your old jeans are sent to our recycling partner in Valencia. There, they are cut into smaller pieces and shredded into cotton fibers. These fibers are blended with organic cotton. The resulting mixture is spun into a fresh yarn, which is later dyed and woven into exquisite new fabric. Our denim factory in Tunisia then crafts these fabrics into brand new jeans.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ztaL8w",
+        "text_ANpa4f"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-03-07_at_09.46.18.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "rich_text_9UBbrU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YGTqbh": {
+          "type": "heading",
+          "settings": {
+            "title": "When you wear Mud Jeans, you're wearing a symbol of empowerment—the power to effect positive change through your fashion choices. Together, we can close the loop!",
+            "use_h1": false
+          }
+        },
+        "button_7PDRxM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "https://mudjeans-circular.returnista.com",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YGTqbh",
+        "button_7PDRxM"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "gallery_YQbaVW": {
+      "type": "gallery",
+      "blocks": {
+        "media_QgwYAc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Women_573f5232-d20a-4e4f-a7a4-0ce7a1052567.jpg",
+            "enlarge_media": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Discover Women",
+            "link": "shopify://collections/women",
+            "text_alignment": "center center"
+          }
+        },
+        "media_nWrPQ4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Men_7c0cba70-0695-4113-95e5-b752a692b0fa.jpg",
+            "enlarge_media": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Discover Men",
+            "link": "shopify://collections/men",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "media_QgwYAc",
+        "media_nWrPQ4"
+      ],
+      "settings": {
+        "grid_desktop": 2,
+        "grid_mobile": "1",
+        "height": "fixed",
+        "desktop_image_height": 690,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "color_scheme": "default",
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "newsletter_VbGXAj": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "subheading": "<p>Be the first to get exclusive deals, new denim drops, and latest circular fashion insights—straight to your inbox.</p>",
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_zYL8Ab",
+    "custom_content_Y9gQLn",
+    "rich_text_fckjNg",
+    "gallery_W4e7cJ",
+    "rich_text_EhX99X",
+    "image_with_text_TQqdPr",
+    "image_with_text_NHt78X",
+    "rich_text_9UBbrU",
+    "gallery_YQbaVW",
+    "newsletter_VbGXAj"
+  ]
+}
