@@ -184,7 +184,7 @@
         "height": "fixed",
         "height_desktop": 600,
         "height_mobile": 460,
-        "full_width": true,
+        "full_width": false,
         "mobile_overlay_under": false,
         "overlay_style": "shadow",
         "transition": "fade",
