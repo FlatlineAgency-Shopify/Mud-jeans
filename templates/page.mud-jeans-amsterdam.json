@@ -32,9 +32,9 @@
         "heading_EAqVtW"
       ],
       "settings": {
-        "height": "large",
+        "height": "small",
         "text_alignment": "center",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "default"
       }
     },
@@ -211,7 +211,7 @@
       "settings": {
         "height": "large",
         "text_alignment": "center",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "default"
       }
     },
