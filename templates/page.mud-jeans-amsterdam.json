@@ -96,6 +96,7 @@
         "image_Y3bypq": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Store-2.jpg",
             "slide_link": "",
             "subheading": "",
             "title": "",
