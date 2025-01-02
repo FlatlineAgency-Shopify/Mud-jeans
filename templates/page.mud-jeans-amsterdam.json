@@ -150,6 +150,27 @@
         "accessibility_info": ""
       }
     },
+    "rich_text_EhX99X": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ByJANt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Add store related SEO text here.<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_ByJANt"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
     "map_PTPpmm": {
       "type": "map",
       "settings": {
@@ -167,27 +188,6 @@
         "background_image": "shopify://shop_images/MUD-Jeans-Stores.jpg"
       }
     },
-    "rich_text_EhX99X": {
-      "type": "rich-text",
-      "blocks": {
-        "text_ByJANt": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Add store related SEO text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "text_ByJANt"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "color_scheme": "1"
-      }
-    },
     "newsletter_VbGXAj": {
       "type": "newsletter",
       "settings": {
@@ -202,8 +202,8 @@
     "rich_text_zYL8Ab",
     "custom_content_Y9gQLn",
     "slideshow_LAE3dT",
-    "map_PTPpmm",
     "rich_text_EhX99X",
+    "map_PTPpmm",
     "newsletter_VbGXAj"
   ]
 }
