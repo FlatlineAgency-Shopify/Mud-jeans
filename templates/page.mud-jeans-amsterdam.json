@@ -163,7 +163,7 @@
         "show_feature_image": false,
         "map_address": "Torensteeg 3A, 1012 TH Amsterdam, Netherlands",
         "api_key": "",
-        "map_type": "dynamic",
+        "map_type": "embed",
         "map_style": "default",
         "background_image": "shopify://shop_images/MUD-Jeans-Stores.jpg"
       }
