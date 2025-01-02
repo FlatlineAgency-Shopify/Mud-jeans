@@ -90,10 +90,70 @@
         "alignment": "middle"
       }
     },
+    "slideshow_LAE3dT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Y3bypq": {
+          "type": "image",
+          "settings": {
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Slide heading",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "image_z3DNi8": {
+          "type": "image",
+          "settings": {
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Slide heading",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y3bypq",
+        "image_z3DNi8"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "transition": "fade",
+        "navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "accessibility_info": ""
+      }
+    },
     "map_PTPpmm": {
       "type": "map",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "default",
         "heading": "MUD Jeans Amsterdam",
         "address": "<p>Torensteeg 3A, 1012 TH Amsterdam, Netherlands</p>",
@@ -112,7 +172,7 @@
         "text_ByJANt": {
           "type": "text",
           "settings": {
-            "text": "<p>So how does it work? When you purchase a new pair of jeans, you can effortlessly return an old pair. We extend this invitation to all brands, provided the jeans are primarily composed of at least 96% cotton. And that's not all - you get a €10 discount on your brand new MUD jeans.</p>",
+            "text": "<p>Add store related SEO text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>",
             "enlarge_text": true
           }
         }
@@ -140,6 +200,7 @@
     "main",
     "rich_text_zYL8Ab",
     "custom_content_Y9gQLn",
+    "slideshow_LAE3dT",
     "map_PTPpmm",
     "rich_text_EhX99X",
     "newsletter_VbGXAj"
