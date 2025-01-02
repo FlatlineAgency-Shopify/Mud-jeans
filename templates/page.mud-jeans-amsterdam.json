@@ -211,7 +211,7 @@
       "settings": {
         "height": "large",
         "text_alignment": "center",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "default"
       }
     },
