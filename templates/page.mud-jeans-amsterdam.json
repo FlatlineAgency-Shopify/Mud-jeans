@@ -194,13 +194,21 @@
         "accessibility_info": ""
       }
     },
-    "rich_text_EhX99X": {
-      "type": "rich-text",
+    "map_PTPpmm": {
+      "type": "map",
       "settings": {
-        "height": "large",
-        "text_alignment": "center",
         "full_width": false,
-        "color_scheme": "default"
+        "color_scheme": "default",
+        "heading": "MUD Jeans Amsterdam",
+        "address": "<p><strong>Torensteeg 3A, 1012 TH Amsterdam, Netherlands</strong><br/>Monday - Saturday: <strong>1</strong>0:30 AM – 6:30 PM<br/>Sunday: 10:30 AM - 5:00 PM</p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Torensteeg 3A, 1012 TH Amsterdam, Netherlands",
+        "api_key": "",
+        "map_type": "embed",
+        "map_style": "default",
+        "background_image": "shopify://shop_images/MUD-Jeans-Stores.jpg"
       }
     },
     "collapsible_tabs_DdWGE9": {
@@ -241,24 +249,7 @@
         "question_kPefen"
       ],
       "settings": {
-        "title": "Add store related SEO text here."
-      }
-    },
-    "map_PTPpmm": {
-      "type": "map",
-      "settings": {
-        "full_width": false,
-        "color_scheme": "default",
-        "heading": "MUD Jeans Amsterdam",
-        "address": "<p><strong>Torensteeg 3A, 1012 TH Amsterdam, Netherlands</strong><br/>Monday - Saturday: <strong>1</strong>0:30 AM – 6:30 PM<br/>Sunday: 10:30 AM - 5:00 PM</p>",
-        "button": "Directions",
-        "show_pin": true,
-        "show_feature_image": false,
-        "map_address": "Torensteeg 3A, 1012 TH Amsterdam, Netherlands",
-        "api_key": "",
-        "map_type": "embed",
-        "map_style": "default",
-        "background_image": "shopify://shop_images/MUD-Jeans-Stores.jpg"
+        "title": "Add store related SEO text title here."
       }
     },
     "newsletter_VbGXAj": {
@@ -275,9 +266,8 @@
     "rich_text_zYL8Ab",
     "custom_content_Y9gQLn",
     "slideshow_LAE3dT",
-    "rich_text_EhX99X",
-    "collapsible_tabs_DdWGE9",
     "map_PTPpmm",
+    "collapsible_tabs_DdWGE9",
     "newsletter_VbGXAj"
   ]
 }
