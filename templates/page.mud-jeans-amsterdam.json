@@ -196,23 +196,52 @@
     },
     "rich_text_EhX99X": {
       "type": "rich-text",
-      "blocks": {
-        "text_ByJANt": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Add store related SEO text here</strong>.<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "text_ByJANt"
-      ],
       "settings": {
         "height": "large",
         "text_alignment": "center",
         "full_width": false,
         "color_scheme": "default"
+      }
+    },
+    "collapsible_tabs_DdWGE9": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "content_Yzxa3E": {
+          "type": "content",
+          "settings": {
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>"
+          }
+        },
+        "question_t6gxN8": {
+          "type": "question",
+          "settings": {
+            "title": "Store FAQ 1",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_qLnPNp": {
+          "type": "question",
+          "settings": {
+            "title": "Store FAQ 2",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_kPefen": {
+          "type": "question",
+          "settings": {
+            "title": "Store FAQ 3",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_Yzxa3E",
+        "question_t6gxN8",
+        "question_qLnPNp",
+        "question_kPefen"
+      ],
+      "settings": {
+        "title": "Add store related SEO text here."
       }
     },
     "map_PTPpmm": {
@@ -247,6 +276,7 @@
     "custom_content_Y9gQLn",
     "slideshow_LAE3dT",
     "rich_text_EhX99X",
+    "collapsible_tabs_DdWGE9",
     "map_PTPpmm",
     "newsletter_VbGXAj"
   ]
