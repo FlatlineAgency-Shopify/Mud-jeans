@@ -219,34 +219,10 @@
           "settings": {
             "content": "<p>The very first MUD Jeans store, where you can explore the <em>entire</em> range of our sustainable denim, is officially open.</p><p>Discover timeless styles that look great, feel good, and make a positive impact on the planet. From jeans and jackets to circular fashion essentials, everything you need is right here.</p>"
           }
-        },
-        "question_t6gxN8": {
-          "type": "question",
-          "settings": {
-            "title": "Store FAQ 1",
-            "answer": "<p>Answer</p>"
-          }
-        },
-        "question_qLnPNp": {
-          "type": "question",
-          "settings": {
-            "title": "Store FAQ 2",
-            "answer": "<p>Answer</p>"
-          }
-        },
-        "question_kPefen": {
-          "type": "question",
-          "settings": {
-            "title": "Store FAQ 3",
-            "answer": "<p>Answer</p>"
-          }
         }
       },
       "block_order": [
-        "content_Yzxa3E",
-        "question_t6gxN8",
-        "question_qLnPNp",
-        "question_kPefen"
+        "content_Yzxa3E"
       ],
       "settings": {
         "title": "Amsterdam, it’s time to shop denim consciously!"
