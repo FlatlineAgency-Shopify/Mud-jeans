@@ -73,6 +73,27 @@
         "coll_button_style": "primary"
       }
     },
+    "rich_text_GC4e8P": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8nxjqx": {
+          "type": "heading",
+          "settings": {
+            "title": "Tapered Jeans For Men",
+            "use_h1": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8nxjqx"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -143,6 +164,7 @@
   },
   "order": [
     "collection_list_7d3JGj",
+    "rich_text_GC4e8P",
     "main",
     "collapsible_tabs_wBQWVz"
   ]
