@@ -82,18 +82,10 @@
             "title": "Flared jeans for women",
             "use_h1": true
           }
-        },
-        "text_kENm6C": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "enlarge_text": true
-          }
         }
       },
       "block_order": [
-        "heading_LePPMA",
-        "text_kENm6C"
+        "heading_LePPMA"
       ],
       "settings": {
         "height": "medium",
