@@ -73,6 +73,35 @@
         "coll_button_style": "primary"
       }
     },
+    "rich_text_jJwtaJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LePPMA": {
+          "type": "heading",
+          "settings": {
+            "title": "Flared jeans for women",
+            "use_h1": false
+          }
+        },
+        "text_kENm6C": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_LePPMA",
+        "text_kENm6C"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -121,7 +150,7 @@
         "content_njX6mE": {
           "type": "content",
           "settings": {
-            "content": "<h1>Wear the fashion of the seventies with sustainable flared jeans for women</h1><p>Go back to the seventies with a pair of flared jeans for women. With its wide fit from knee to toe, this style icon has not only made a big comeback, but has also become a stylish piece that can be found in many wardrobes. Flared jeans have a shape that can make you look longer and slimmer as the legs gradually widen down. With the flared jeans for MUD Jeans, you are choosing a timeless piece and making a <a href=\"https://mudjeans.com/pages/sustainability-mud-jeans\"><span style=\"text-decoration:underline\">sustainable choice</span></a>. Explore a mix of style and circularity with our flared jeans for women. Look good, feel good, and do good. </p>"
+            "content": "<h2>Wear the fashion of the seventies with sustainable flared jeans for women</h2><p>Go back to the seventies with a pair of flared jeans for women. With its wide fit from knee to toe, this style icon has not only made a big comeback, but has also become a stylish piece that can be found in many wardrobes. Flared jeans have a shape that can make you look longer and slimmer as the legs gradually widen down. With the flared jeans for MUD Jeans, you are choosing a timeless piece and making a <a href=\"https://mudjeans.com/pages/sustainability-mud-jeans\"><span style=\"text-decoration:underline\">sustainable choice</span></a>. Explore a mix of style and circularity with our flared jeans for women. Look good, feel good, and do good. </p>"
           }
         },
         "question_a3Bm9j": {
@@ -143,6 +172,7 @@
   },
   "order": [
     "collection_list_7d3JGj",
+    "rich_text_jJwtaJ",
     "main",
     "collapsible_tabs_wBQWVz"
   ]
