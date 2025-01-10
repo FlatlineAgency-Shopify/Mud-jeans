@@ -73,6 +73,35 @@
         "coll_button_style": "primary"
       }
     },
+    "rich_text_K8imGq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_C8PWGC": {
+          "type": "heading",
+          "settings": {
+            "title": "Loose Jeans For Women",
+            "use_h1": true
+          }
+        },
+        "text_7ngAkF": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_C8PWGC",
+        "text_7ngAkF"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -143,6 +172,7 @@
   },
   "order": [
     "collection_list_7d3JGj",
+    "rich_text_K8imGq",
     "main",
     "collapsible_tabs_wBQWVz"
   ]
