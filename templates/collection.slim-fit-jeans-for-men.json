@@ -73,6 +73,36 @@
         "coll_button_style": "primary"
       }
     },
+    "rich_text_bjjMBU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BzYMBP": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "use_h1": false
+          }
+        },
+        "text_q3yMMb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_BzYMBP",
+        "text_q3yMMb"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -143,6 +173,7 @@
   },
   "order": [
     "collection_list_7d3JGj",
+    "rich_text_bjjMBU",
     "main",
     "collapsible_tabs_wBQWVz"
   ]
